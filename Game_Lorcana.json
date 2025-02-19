@@ -10,6 +10,6 @@
         ]
     },
     "cards": {
-        "dataUrl": "" 
+        "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json" 
     }
 }
