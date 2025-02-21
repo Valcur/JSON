@@ -2,7 +2,7 @@
     "name": "Lorcana",
     "menuBackgroundImage": "https://www.asdesjeux.com/cdn/shop/collections/F3xRtyuXoAAGE17.jpg?v=1704470537",
     "deckBuilding": {
-        "mainFilters": ["type", "Colors", "cost"],
+        "mainFilters": ["color", "type", "cost"],
         "formats": [
             {
                 "title": "Classic"
