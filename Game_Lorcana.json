@@ -5,7 +5,104 @@
         "mainFilters": ["color", "type", "cost"],
         "formats": [
             {
-                "title": "Classic"
+                "title": "Classic",
+                "sections": {
+                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Main", "Mana", "Items"],
+                    "customSections": ["Main", "Mana", "Items"],
+                    "layout": [["Main"], ["Mana", "Items"]],
+                    "autoPlayFromHand": {
+                        "Action": "Stack",
+                        "Character": "Main",
+                        "Item": "Items",
+                        "Location": "Main"
+                    },
+                    "autoPlayFromStack": {
+                        "Action": "Discard",
+                        "Character": "Main",
+                        "Item": "Items",
+                        "Location": "Main"
+                    },
+                    "sectionsDict": {
+                        "Hand": {
+                            "isDefaultSection": true,
+                            "title": "Hand",
+                            "isHidden": "opponent-only",
+                            "height": "DEFAULT",
+                            "alignment": "CENTER",
+                            "autoPay": false,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Discard": {
+                            "isDefaultSection": true,
+                            "title": "Discard",
+                            "isHidden": "no",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "autoPay": false,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Deck": {
+                            "isDefaultSection": true,
+                            "title": "Deck",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "autoPay": false,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Stack": {
+                            "isDefaultSection": true,
+                            "title": "Stack",
+                            "isHidden": "no",
+                            "height": "HUGE",
+                            "alignment": "NONE",
+                            "autoPay": true,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Exile": {
+                            "isDefaultSection": true,
+                            "title": "Exile",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "autoPay": false,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Main": {
+                            "title": "Main",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
+                            "autoPay": true,
+                            "quickActionButtons": ["tap", "hand", "discard"],
+                            "isHorizontalAllowed": true
+                        },
+                        "Mana": {
+                            "title": "Mana",
+                            "isHidden": "yes",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "autoPay": false,
+                            "quickActionButtons": ["reveal", "tap-one"],
+                            "isHorizontalAllowed": false
+                        },
+                        "Items": {
+                            "title": "Items",
+                            "defaultTypes": ["Item, Location"],
+                            "isHidden": "no",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "autoPay": true,
+                            "isHorizontalAllowed": true,
+                            "keepTappedNewTurn": true
+                        }
+                    }
+                }
             }
         ]
     },
