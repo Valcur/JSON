@@ -17,8 +17,8 @@
                         "Sorcery": "Stack",
                         "Instant": "Stack",
                         "Land": "Mana",
-                        "Planeswalker": "Planeswalker",
-                        "Battle": "Battle"
+                        "Planeswalker": "Other",
+                        "Battle": "Other"
                     },
                     "autoPlayFromStack": {
                         "Creature": "Creatures",
@@ -27,8 +27,8 @@
                         "Sorcery": "Discard",
                         "Instant": "Discard",
                         "Land": "Mana",
-                        "Planeswalker": "Planeswalker",
-                        "Battle": "Battle"
+                        "Planeswalker": "Other",
+                        "Battle": "Other"
                     },
                     "sectionsDict": {
                         "Hand": {
