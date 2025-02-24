@@ -13,6 +13,7 @@
         ]
     },
     "cards": {
-        "dataUrl": "https://valcur.github.io/JSON/MTGCards.json" 
+        "dataUrl": "https://valcur.github.io/JSON/MTGCards.json" ,
+        "cardBack": "https://www.printingproxies.com/wp-content/plugins/card-demo/front/templates/images/thumbnail/lorcana1-thumb.png"
     }
 }
