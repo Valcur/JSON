@@ -9,7 +9,7 @@
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Command zone"],
                     "customSections": ["Creatures", "Mana", "Other", "Command zone"],
-                    "layout": [["Creatures"], ["Mana", "Other"]],
+                    "layout": [["Command zone", "Creatures"], ["Mana", "Other"]],
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",
