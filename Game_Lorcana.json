@@ -126,8 +126,7 @@
                             "isHidden": "no",
                             "height": "SMALL",
                             "alignment": "START",
-                            "isHorizontalAllowed": true,
-                            "keepTappedNewTurn": true
+                            "isHorizontalAllowed": true
                         }
                     }
                 }

@@ -7,8 +7,8 @@
             {
                 "title": "EDH",
                 "sections": {
-                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other"],
-                    "customSections": ["Creatures", "Mana", "Other"],
+                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Command zone"],
+                    "customSections": ["Creatures", "Mana", "Other", "Command zone"],
                     "layout": [["Creatures"], ["Mana", "Other"]],
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
@@ -100,7 +100,15 @@
                             "height": "SMALL",
                             "alignment": "START",
                             "isHorizontalAllowed": true,
-                            "keepTappedNewTurn": true
+                        },
+                        "Command zone": {
+                            "title": "Command zone",
+                            "defaultTypes": [],
+                            "isHidden": "no",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "isHorizontalAllowed": true,
+                            "customWidth": 10
                         }
                     }
                 }
