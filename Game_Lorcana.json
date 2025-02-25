@@ -111,6 +111,7 @@
                             "isHidden": "yes",
                             "height": "SMALL",
                             "alignment": "START",
+                            "noAutoPayTo": "true",
                             "quickActionButtons": [
                                 "reveal",
                                 "tap-one"
