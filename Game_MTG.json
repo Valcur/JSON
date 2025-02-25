@@ -99,7 +99,7 @@
                             "isHidden": "no",
                             "height": "SMALL",
                             "alignment": "START",
-                            "isHorizontalAllowed": true,
+                            "isHorizontalAllowed": true
                         },
                         "Command zone": {
                             "title": "Command zone",
