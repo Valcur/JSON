@@ -2,14 +2,39 @@
     "name": "Lorcana",
     "menuBackgroundImage": "https://www.asdesjeux.com/cdn/shop/collections/F3xRtyuXoAAGE17.jpg?v=1704470537",
     "deckBuilding": {
-        "mainFilters": ["color", "type", "cost"],
+        "mainFilters": [
+            "color",
+            "type",
+            "cost"
+        ],
         "formats": [
             {
                 "title": "Classic",
                 "sections": {
-                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Main", "Mana", "Items"],
-                    "customSections": ["Main", "Mana", "Items"],
-                    "layout": [["Main"], ["Mana", "Items"]],
+                    "allSections": [
+                        "Hand",
+                        "Discard",
+                        "Deck",
+                        "Stack",
+                        "Exile",
+                        "Main",
+                        "Mana",
+                        "Items"
+                    ],
+                    "customSections": [
+                        "Main",
+                        "Mana",
+                        "Items"
+                    ],
+                    "layout": [
+                        [
+                            "Main"
+                        ],
+                        [
+                            "Mana",
+                            "Items"
+                        ]
+                    ],
                     "autoPlayFromHand": {
                         "Action": "Stack",
                         "Character": "Main",
@@ -79,7 +104,11 @@
                             "height": "MEDIUM",
                             "alignment": "CENTER",
                             "autoPay": true,
-                            "quickActionButtons": ["tap", "hand", "discard"],
+                            "quickActionButtons": [
+                                "tap",
+                                "hand",
+                                "discard"
+                            ],
                             "isHorizontalAllowed": true
                         },
                         "Mana": {
@@ -88,12 +117,17 @@
                             "height": "SMALL",
                             "alignment": "START",
                             "autoPay": false,
-                            "quickActionButtons": ["reveal", "tap-one"],
+                            "quickActionButtons": [
+                                "reveal",
+                                "tap-one"
+                            ],
                             "isHorizontalAllowed": false
                         },
                         "Items": {
                             "title": "Items",
-                            "defaultTypes": ["Item, Location"],
+                            "defaultTypes": [
+                                "Item, Location"
+                            ],
                             "isHidden": "no",
                             "height": "SMALL",
                             "alignment": "START",
@@ -104,6 +138,16 @@
                     }
                 }
             }
+        ]
+    },
+    "defaultRessources": {
+        "avatars": [
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wargamer.com%2Fwp-content%2Fsites%2Fwargamer%2F2023%2F03%2Fdisney-lorcana-mtg-colors-ink-types.jpg&f=1&nofb=1&ipt=31efef3dedc6008102580d3212c3f15f50b6f077ba7f2b81cb55d38289c03da9&ipo=images"
+        ],
+        "backgrounds": [
+            "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2024/06/24110022/Disney-Lorcana-TCG-Header-Illumineers-Quest-Deep-Trouble-Ursula.jpg",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FztyDgnkqGlo-pNwgWjswoDUwoDk%3D%2F0x0%3A3000x1688%2F2320x1305%2Ffilters%3Afocal(1114x292%3A1594x772)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F72176574%2FDLC___Polygon___ElsaHeader___Updated.0.jpg&f=1&nofb=1&ipt=f96a7dca0af15bccf920dc9bea94167a3f45414cca114a38900c08f73df46216&ipo=images",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wargamer.com%2Fwp-content%2Fsites%2Fwargamer%2F2023%2F03%2Fdisney-lorcana-mtg-colors-ink-types.jpg&f=1&nofb=1&ipt=31efef3dedc6008102580d3212c3f15f50b6f077ba7f2b81cb55d38289c03da9&ipo=images"
         ]
     },
     "cards": {
