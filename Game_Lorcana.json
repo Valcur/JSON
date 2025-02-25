@@ -54,7 +54,7 @@
                             "isHidden": "opponent-only",
                             "height": "DEFAULT",
                             "alignment": "CENTER",
-                            "autoPay": false,
+                            "autoPayFrom": true,
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
@@ -64,7 +64,6 @@
                             "isHidden": "no",
                             "height": "DEFAULT",
                             "alignment": "NONE",
-                            "autoPay": false,
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
@@ -74,7 +73,6 @@
                             "isHidden": "yes",
                             "height": "DEFAULT",
                             "alignment": "NONE",
-                            "autoPay": false,
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
@@ -84,7 +82,6 @@
                             "isHidden": "no",
                             "height": "HUGE",
                             "alignment": "NONE",
-                            "autoPay": true,
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
@@ -94,7 +91,6 @@
                             "isHidden": "yes",
                             "height": "DEFAULT",
                             "alignment": "NONE",
-                            "autoPay": false,
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
@@ -103,7 +99,6 @@
                             "isHidden": "no",
                             "height": "MEDIUM",
                             "alignment": "CENTER",
-                            "autoPay": true,
                             "quickActionButtons": [
                                 "tap",
                                 "hand",
@@ -116,7 +111,6 @@
                             "isHidden": "yes",
                             "height": "SMALL",
                             "alignment": "START",
-                            "autoPay": false,
                             "quickActionButtons": [
                                 "reveal",
                                 "tap-one"
@@ -131,7 +125,6 @@
                             "isHidden": "no",
                             "height": "SMALL",
                             "alignment": "START",
-                            "autoPay": true,
                             "isHorizontalAllowed": true,
                             "keepTappedNewTurn": true
                         }
