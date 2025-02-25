@@ -108,7 +108,7 @@
                             "height": "SMALL",
                             "alignment": "START",
                             "isHorizontalAllowed": true,
-                            "customWidth": 10
+                            "customWidth": "15vh"
                         }
                     }
                 }
