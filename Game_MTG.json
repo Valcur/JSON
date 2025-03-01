@@ -8,9 +8,9 @@
                 "title": "EDH",
                 "customCategories": ["Commander"],
                 "sections": {
-                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Command zone"],
-                    "customSections": ["Creatures", "Mana", "Other", "Command zone"],
-                    "layout": [["Command zone", "Creatures"], ["Mana", "Other"]],
+                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
+                    "customSections": ["Creatures", "Mana", "Other", "Commander"],
+                    "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",
@@ -102,8 +102,8 @@
                             "alignment": "START",
                             "isHorizontalAllowed": true
                         },
-                        "Command zone": {
-                            "title": "Command zone",
+                        "Commander": {
+                            "title": "Commander",
                             "defaultTypes": [],
                             "isHidden": "no",
                             "height": "SMALL",
