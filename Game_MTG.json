@@ -6,6 +6,7 @@
         "formats": [
             {
                 "title": "EDH",
+                "customCategories": ["Commander"],
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Command zone"],
                     "customSections": ["Creatures", "Mana", "Other", "Command zone"],
