@@ -11,6 +11,7 @@
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
                     "customSections": ["Creatures", "Mana", "Other", "Commander"],
                     "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
+                    "categoriesAlreadyOnBoard": ["Commander"],
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",
