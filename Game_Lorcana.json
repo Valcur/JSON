@@ -37,6 +37,7 @@
                     ],
                     "mulligan": {
                         "info": "Onece pick and redraw",
+                        "startingHandSize": 7,
                         "drawNewSelectedCards": true
                     },
                     "newTurn": {
