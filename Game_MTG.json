@@ -12,6 +12,14 @@
                     "customSections": ["Creatures", "Mana", "Other", "Commander"],
                     "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
                     "categoriesAlreadyOnBoard": ["Commander"],
+                    "mulligan": {
+                        "info": "One for free",
+                        "drawNewHand": true
+                    },
+                    "newTurn": {
+                        "drawOnStart": true,
+                        "sharedTurn": false
+                    },
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",

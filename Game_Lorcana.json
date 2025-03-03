@@ -35,6 +35,14 @@
                             "Items"
                         ]
                     ],
+                    "mulligan": {
+                        "info": "Onece pick and redraw",
+                        "drawNewSelectedCards": true
+                    },
+                    "newTurn": {
+                        "drawOnStart": false,
+                        "sharedTurn": false
+                    },
                     "autoPlayFromHand": {
                         "Action": "Stack",
                         "Character": "Main",
