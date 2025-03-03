@@ -1,6 +1,6 @@
 {
     "name": "Magic the Gathering",
-    "menuBackgroundImage": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperbat.com%2Fimg%2F427226-mtg--wallpaper.jpg&f=1&nofb=1&ipt=d96fa2781b7961c22331b9f89bfde7f133fe595dd15fa6f9b2d711b8dc52d19d&ipo=images",
+    "menuBackgroundImage": "https://i.imgur.com/lJdO0uy.jpeg",
     "deckBuilding": {
         "mainFilters": ["type", "Colors", "cost"],
         "formats": [
