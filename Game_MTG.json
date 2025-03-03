@@ -7,20 +7,20 @@
             {
                 "title": "EDH",
                 "customCategories": ["Commander"],
+                "mulligan": {
+                    "info": "One for free",
+                    "startingHandSize": 7,
+                    "drawNewHand": true
+                },
+                "newTurn": {
+                    "drawOnStart": true,
+                    "sharedTurn": false
+                },
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
                     "customSections": ["Creatures", "Mana", "Other", "Commander"],
                     "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
                     "categoriesAlreadyOnBoard": ["Commander"],
-                    "mulligan": {
-                        "info": "One for free",
-                        "startingHandSize": 7,
-                        "drawNewHand": true
-                    },
-                    "newTurn": {
-                        "drawOnStart": true,
-                        "sharedTurn": false
-                    },
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",

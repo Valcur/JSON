@@ -10,6 +10,15 @@
         "formats": [
             {
                 "title": "Classic",
+                "mulligan": {
+                    "info": "Onece pick and redraw",
+                    "startingHandSize": 7,
+                    "drawNewSelectedCards": true
+                },
+                "newTurn": {
+                    "drawOnStart": false,
+                    "sharedTurn": false
+                },
                 "sections": {
                     "allSections": [
                         "Hand",
@@ -35,15 +44,6 @@
                             "Items"
                         ]
                     ],
-                    "mulligan": {
-                        "info": "Onece pick and redraw",
-                        "startingHandSize": 7,
-                        "drawNewSelectedCards": true
-                    },
-                    "newTurn": {
-                        "drawOnStart": false,
-                        "sharedTurn": false
-                    },
                     "autoPlayFromHand": {
                         "Action": "Stack",
                         "Character": "Main",
