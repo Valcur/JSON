@@ -130,9 +130,6 @@
         ]
     },
     "defaultRessources": {
-        "avatars": [
-            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wargamer.com%2Fwp-content%2Fsites%2Fwargamer%2F2023%2F03%2Fdisney-lorcana-mtg-colors-ink-types.jpg&f=1&nofb=1&ipt=31efef3dedc6008102580d3212c3f15f50b6f077ba7f2b81cb55d38289c03da9&ipo=images"
-        ],
         "backgrounds": [
             "https://i.imgur.com/2TjUNMF.jpeg",
             "https://i.imgur.com/Poao2W2.jpeg",
@@ -145,6 +142,6 @@
     },
     "cards": {
         "dataUrl": "https://valcur.github.io/JSON/MTGCards.json" ,
-        "cardBack": "https://www.printingproxies.com/wp-content/plugins/card-demo/front/templates/images/thumbnail/lorcana1-thumb.png"
+        "cardBack": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F76080dc9-2159-46ac-9433-a9eaaf58edd5%2Fd9taq8v-bb6a507f-e910-4b94-a0e1-3af8a3da21a8.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc2MDgwZGM5LTIxNTktNDZhYy05NDMzLWE5ZWFhZjU4ZWRkNVwvZDl0YXE4di1iYjZhNTA3Zi1lOTEwLTRiOTQtYTBlMS0zYWY4YTNkYTIxYTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c7jP2gB4XaHV6DNpnFAffhiKm9Idnh9W8quTCAxinRU&f=1&nofb=1&ipt=7e1e93b778d3400f6852f3cd3914d4e313e14db96f2490546bf671389d0cfcaa&ipo=images"
     }
 }
