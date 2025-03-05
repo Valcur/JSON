@@ -16,6 +16,7 @@
                     "drawOnStart": true,
                     "sharedTurn": false
                 },
+                "countersStartingValues": [40, 0],
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
                     "customSections": ["Creatures", "Mana", "Other", "Commander"],

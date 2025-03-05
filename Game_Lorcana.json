@@ -19,6 +19,7 @@
                     "drawOnStart": false,
                     "sharedTurn": false
                 },
+                "countersStartingValues": [0, 0],
                 "sections": {
                     "allSections": [
                         "Hand",
