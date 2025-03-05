@@ -1,6 +1,6 @@
 {
     "name": "Magic the Gathering",
-    "menuBackgroundImage": "https://i.imgur.com/lJdO0uy.jpeg",
+    "menuBackgroundImage": "https://i.imgur.com/zV2lcZW.jpeg",
     "deckBuilding": {
         "mainFilters": ["type", "Colors", "cost"],
         "formats": [
@@ -132,6 +132,8 @@
     },
     "defaultRessources": {
         "backgrounds": [
+            "https://i.imgur.com/zV2lcZW.jpeg",
+            "https://i.imgur.com/lJdO0uy.jpeg",
             "https://i.imgur.com/2TjUNMF.jpeg",
             "https://i.imgur.com/Poao2W2.jpeg",
             "https://i.imgur.com/0K1Jj33.jpeg",
@@ -143,6 +145,6 @@
     },
     "cards": {
         "dataUrl": "https://valcur.github.io/JSON/MTGCards.json" ,
-        "cardBack": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Magic_card_back.jpg/revision/latest?cb=20140813141013"
+        "cardBack": "https://backs.scryfall.io/large/2/2/222b7a3b-2321-4d4c-af19-19338b134971.jpg"
     }
 }
