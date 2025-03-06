@@ -8,7 +8,7 @@
                 "title": "EDH",
                 "customCategories": ["Commander"],
                 "mulligan": {
-                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed after the first one (click those cards)",
+                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed after the first one (click those cards).",
                     "startingHandSize": 7,
                     "drawNewHand": true
                 },
@@ -128,7 +128,7 @@
             {
                 "title": "Classic",
                 "mulligan": {
-                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed (click those cards)",
+                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed (click those cards).",
                     "startingHandSize": 7,
                     "drawNewHand": true
                 },
