@@ -8,7 +8,7 @@
                 "title": "EDH",
                 "customCategories": ["Commander"],
                 "mulligan": {
-                    "info": "One for free",
+                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed after the first one (click those cards)",
                     "startingHandSize": 7,
                     "drawNewHand": true
                 },
@@ -126,7 +126,114 @@
                 }
             },
             {
-                "title": "60 cards"
+                "title": "Classic",
+                "mulligan": {
+                    "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed (click those cards)",
+                    "startingHandSize": 7,
+                    "drawNewHand": true
+                },
+                "newTurn": {
+                    "drawOnStart": false,
+                    "sharedTurn": false
+                },
+                "countersStartingValues": [20, 0],
+                "sections": {
+                    "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other"],
+                    "customSections": ["Creatures", "Mana", "Other"],
+                    "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
+                    "autoPlayFromHand": {
+                        "Creature": "Creatures",
+                        "Artifact": "Other",
+                        "Enchantment": "Other",
+                        "Sorcery": "Stack",
+                        "Instant": "Stack",
+                        "Land": "Mana",
+                        "Planeswalker": "Other",
+                        "Battle": "Other"
+                    },
+                    "autoPlayFromStack": {
+                        "Creature": "Creatures",
+                        "Artifact": "Other",
+                        "Enchantment": "Other",
+                        "Sorcery": "Discard",
+                        "Instant": "Discard",
+                        "Land": "Mana",
+                        "Planeswalker": "Other",
+                        "Battle": "Other"
+                    },
+                    "sectionsDict": {
+                        "Hand": {
+                            "isDefaultSection": true,
+                            "title": "Hand",
+                            "isHidden": "opponent-only",
+                            "height": "DEFAULT",
+                            "alignment": "CENTER",
+                            "autoPayFrom": true,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Discard": {
+                            "isDefaultSection": true,
+                            "title": "Discard",
+                            "isHidden": "no",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Deck": {
+                            "isDefaultSection": true,
+                            "title": "Deck",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Stack": {
+                            "isDefaultSection": true,
+                            "title": "Stack",
+                            "isHidden": "no",
+                            "height": "HUGE",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Exile": {
+                            "isDefaultSection": true,
+                            "title": "Exile",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Creatures": {
+                            "title": "Creatures",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
+                            "quickActionButtons": ["tap", "hand", "discard"],
+                            "isHorizontalAllowed": true
+                        },
+                        "Mana": {
+                            "title": "Mana",
+                            "isHidden": "no",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "quickActionButtons": ["reveal", "tap-one"],
+                            "isHorizontalAllowed": false
+                        },
+                        "Other": {
+                            "title": "Other",
+                            "defaultTypes": ["Item, Location"],
+                            "isHidden": "no",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "isHorizontalAllowed": true
+                        }
+                    }
+                }
             }
         ]
     },
