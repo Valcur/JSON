@@ -323,7 +323,7 @@
       "front": {
         "name": "Administrator's Tower",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/029.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/029-r.png",
         "isHorizontal": true
       }
     },
@@ -342,7 +342,7 @@
       "front": {
         "name": "Administrator's Tower",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/295.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/295-r.png",
         "isHorizontal": true
       }
     },
@@ -1488,14 +1488,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/015.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/015-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/015-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/015-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -1548,14 +1548,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/265.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/265-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/265-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/265-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -1581,14 +1581,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/281.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/281-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/281-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/281-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -2032,7 +2032,7 @@
       "front": {
         "name": "Capital City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/020.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/020-r.png",
         "isHorizontal": true
       }
     },
@@ -2051,7 +2051,7 @@
       "front": {
         "name": "Capital City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/286.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/286-r.png",
         "isHorizontal": true
       }
     },
@@ -2179,14 +2179,14 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/013.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/013-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/013-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/013-b-r.png"
       }
     },
     "name": "Cassian Andor",
@@ -2211,14 +2211,14 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/263.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/263-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/263-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/263-b-r.png"
       }
     },
     "name": "Cassian Andor",
@@ -2243,14 +2243,14 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/279.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/279-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/279-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/279-b-r.png"
       }
     },
     "name": "Cassian Andor",
@@ -2274,7 +2274,7 @@
       "front": {
         "name": "Catacombs of Cadera",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/026.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/026-r.png",
         "isHorizontal": true
       }
     },
@@ -2293,7 +2293,7 @@
       "front": {
         "name": "Catacombs of Cadera",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/292.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/292-r.png",
         "isHorizontal": true
       }
     },
@@ -2411,14 +2411,14 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/003.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/003-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/003-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/003-b-r.png"
       }
     },
     "name": "Chewbacca",
@@ -2471,14 +2471,14 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/255.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/255-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/255-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/255-b-r.png"
       }
     },
     "name": "Chewbacca",
@@ -2504,14 +2504,14 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/271.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/271-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/271-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/271-b-r.png"
       }
     },
     "name": "Chewbacca",
@@ -2620,14 +2620,14 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/004.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/004-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/004-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/004-b-r.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2653,14 +2653,14 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/256.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/256-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/256-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/256-b-r.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2686,14 +2686,14 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/272.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/272-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/272-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/272-b-r.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2774,7 +2774,7 @@
       "front": {
         "name": "Chopper Base",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/030.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/030-r.png",
         "isHorizontal": true
       }
     },
@@ -2793,7 +2793,7 @@
       "front": {
         "name": "Chopper Base",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/296.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/296-r.png",
         "isHorizontal": true
       }
     },
@@ -2964,7 +2964,7 @@
       "front": {
         "name": "Command Center",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/023.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/023-r.png",
         "isHorizontal": true
       }
     },
@@ -2983,7 +2983,7 @@
       "front": {
         "name": "Command Center",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/289.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/289-r.png",
         "isHorizontal": true
       }
     },
@@ -3350,7 +3350,7 @@
       "front": {
         "name": "Dagobah Swamp",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/021.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/021-r.png",
         "isHorizontal": true
       }
     },
@@ -3369,7 +3369,7 @@
       "front": {
         "name": "Dagobah Swamp",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/287.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/287-r.png",
         "isHorizontal": true
       }
     },
@@ -3389,14 +3389,14 @@
         "name": "Darth Vader",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/010.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/010-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Darth Vader",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/010-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/010-b-r.png"
       }
     },
     "name": "Darth Vader",
@@ -3747,14 +3747,14 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/001.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/001-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/001-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/001-b-r.png"
       }
     },
     "name": "Director Krennic",
@@ -3780,14 +3780,14 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/253.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/253-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/253-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/253-b-r.png"
       }
     },
     "name": "Director Krennic",
@@ -3813,14 +3813,14 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/269.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/269-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/269-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/269-b-r.png"
       }
     },
     "name": "Director Krennic",
@@ -4045,7 +4045,7 @@
       "front": {
         "name": "Echo Base",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/024.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/024-r.png",
         "isHorizontal": true
       }
     },
@@ -4064,7 +4064,7 @@
       "front": {
         "name": "Echo Base",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/290.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/290-r.png",
         "isHorizontal": true
       }
     },
@@ -4190,14 +4190,14 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/006.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/006-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/006-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/006-b-r.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4254,14 +4254,14 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/257.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/257-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/257-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/257-b-r.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4289,14 +4289,14 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/273.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/273-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/273-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/273-b-r.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4404,7 +4404,7 @@
       "front": {
         "name": "Energy Conversion Lab",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/022.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/022-r.png",
         "isHorizontal": true
       }
     },
@@ -4423,7 +4423,7 @@
       "front": {
         "name": "Energy Conversion Lab",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/288.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/288-r.png",
         "isHorizontal": true
       }
     },
@@ -5685,14 +5685,14 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/016.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/016-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/016-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/016-b-r.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5718,14 +5718,14 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/266.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/266-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/266-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/266-b-r.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5751,14 +5751,14 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/282.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/282-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/282-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/282-b-r.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5784,14 +5784,14 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/011.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/011-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/011-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/011-b-r.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5818,14 +5818,14 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/261.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/261-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/261-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/261-b-r.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5852,14 +5852,14 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/277.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/277-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/277-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/277-b-r.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5886,14 +5886,14 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/007.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/007-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/007-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/007-b-r.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -5946,14 +5946,14 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/258.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/258-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/258-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/258-b-r.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -5979,14 +5979,14 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/274.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/274-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/274-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/274-b-r.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -6228,14 +6228,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/017.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/017-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/017-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/017-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -6286,14 +6286,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/267.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/267-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/267-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/267-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -6318,14 +6318,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/283.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/283-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/283-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/283-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -6428,14 +6428,14 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/008.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/008-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/008-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/008-b-r.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6462,14 +6462,14 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/259.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/259-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/259-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/259-b-r.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6496,14 +6496,14 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/275.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/275-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/275-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/275-b-r.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6757,14 +6757,14 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/012.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/012-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/012-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/012-b-r.png"
       }
     },
     "name": "IG-88",
@@ -6791,14 +6791,14 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/262.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/262-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/262-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/262-b-r.png"
       }
     },
     "name": "IG-88",
@@ -6825,14 +6825,14 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/278.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/278-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/278-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/278-b-r.png"
       }
     },
     "name": "IG-88",
@@ -6911,14 +6911,14 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/002.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/002-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/002-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/002-b-r.png"
       }
     },
     "name": "Iden Versio",
@@ -6944,14 +6944,14 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/254.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/254-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/254-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/254-b-r.png"
       }
     },
     "name": "Iden Versio",
@@ -6977,14 +6977,14 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/270.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/270-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/270-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/270-b-r.png"
       }
     },
     "name": "Iden Versio",
@@ -7373,7 +7373,7 @@
       "front": {
         "name": "Jedha City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/028.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/028-r.png",
         "isHorizontal": true
       }
     },
@@ -7392,7 +7392,7 @@
       "front": {
         "name": "Jedha City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/294.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/294-r.png",
         "isHorizontal": true
       }
     },
@@ -7468,14 +7468,14 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/018.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/018-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/018-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/018-b-r.png"
       }
     },
     "name": "Jyn Erso",
@@ -7500,14 +7500,14 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/268.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/268-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/268-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/268-b-r.png"
       }
     },
     "name": "Jyn Erso",
@@ -7532,14 +7532,14 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/284.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/284-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/284-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/284-b-r.png"
       }
     },
     "name": "Jyn Erso",
@@ -7769,7 +7769,7 @@
       "front": {
         "name": "Kestro City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/027.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/027-r.png",
         "isHorizontal": true
       }
     },
@@ -7788,7 +7788,7 @@
       "front": {
         "name": "Kestro City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/293.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/293-r.png",
         "isHorizontal": true
       }
     },
@@ -7862,14 +7862,14 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/009.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/009-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/009-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/009-b-r.png"
       }
     },
     "name": "Leia Organa",
@@ -7922,14 +7922,14 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/260.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/260-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/260-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/260-b-r.png"
       }
     },
     "name": "Leia Organa",
@@ -7955,14 +7955,14 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/276.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/276-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/276-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/276-b-r.png"
       }
     },
     "name": "Leia Organa",
@@ -8094,14 +8094,14 @@
         "name": "Luke Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/005.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/005-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Luke Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/005-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/005-b-r.png"
       }
     },
     "name": "Luke Skywalker",
@@ -10509,14 +10509,14 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/014.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/014-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/014-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/014-b-r.png"
       }
     },
     "name": "Sabine Wren",
@@ -10571,14 +10571,14 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/264.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/264-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/264-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/264-b-r.png"
       }
     },
     "name": "Sabine Wren",
@@ -10605,14 +10605,14 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/280.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/280-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/280-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/280-b-r.png"
       }
     },
     "name": "Sabine Wren",
@@ -10874,7 +10874,7 @@
       "front": {
         "name": "Security Complex",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/019.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/019-r.png",
         "isHorizontal": true
       }
     },
@@ -10893,7 +10893,7 @@
       "front": {
         "name": "Security Complex",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/285.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/285-r.png",
         "isHorizontal": true
       }
     },
@@ -12168,7 +12168,7 @@
       "front": {
         "name": "Tarkintown",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/025.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/025-r.png",
         "isHorizontal": true
       }
     },
@@ -12187,7 +12187,7 @@
       "front": {
         "name": "Tarkintown",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/291.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SOR/291-r.png",
         "isHorizontal": true
       }
     },
@@ -13755,14 +13755,14 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/012.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/012-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/012-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/012-b-r.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13814,14 +13814,14 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/274.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/274-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/274-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/274-b-r.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13846,14 +13846,14 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/291.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/291-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/291-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/291-b-r.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13905,14 +13905,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/008.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/008-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/008-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/008-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -13937,14 +13937,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/270.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/270-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/270-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/270-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -13969,14 +13969,14 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/287.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/287-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/287-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/287-b-r.png"
       }
     },
     "name": "Boba Fett",
@@ -14053,14 +14053,14 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/010.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/010-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/010-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/010-b-r.png"
       }
     },
     "name": "Bossk",
@@ -14086,14 +14086,14 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/272.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/272-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/272-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/272-b-r.png"
       }
     },
     "name": "Bossk",
@@ -14119,14 +14119,14 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/289.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/289-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/289-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/289-b-r.png"
       }
     },
     "name": "Bossk",
@@ -14392,14 +14392,14 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/014.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/014-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/014-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/014-b-r.png"
       }
     },
     "name": "Cad Bane",
@@ -14425,14 +14425,14 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/276.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/276-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/276-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/276-b-r.png"
       }
     },
     "name": "Cad Bane",
@@ -14458,14 +14458,14 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/293.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/293-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/293-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/293-b-r.png"
       }
     },
     "name": "Cad Bane",
@@ -15346,7 +15346,7 @@
       "front": {
         "name": "Coronet City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/025.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/025-r.png",
         "isHorizontal": true
       }
     },
@@ -15365,7 +15365,7 @@
       "front": {
         "name": "Coronet City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/303.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/303-r.png",
         "isHorizontal": true
       }
     },
@@ -15863,7 +15863,7 @@
       "front": {
         "name": "Death Watch Hideout",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/023.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/023-r.png",
         "isHorizontal": true
       }
     },
@@ -15882,7 +15882,7 @@
       "front": {
         "name": "Death Watch Hideout",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/301.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/301-r.png",
         "isHorizontal": true
       }
     },
@@ -16262,14 +16262,14 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/015.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/015-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/015-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/015-b-r.png"
       }
     },
     "name": "Doctor Aphra",
@@ -16294,14 +16294,14 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/277.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/277-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/277-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/277-b-r.png"
       }
     },
     "name": "Doctor Aphra",
@@ -16326,14 +16326,14 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/294.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/294-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/294-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/294-b-r.png"
       }
     },
     "name": "Doctor Aphra",
@@ -17110,14 +17110,14 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/016.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/016-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/016-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/016-b-r.png"
       }
     },
     "name": "Fennec Shand",
@@ -17167,14 +17167,14 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/278.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/278-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/278-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/278-b-r.png"
       }
     },
     "name": "Fennec Shand",
@@ -17199,14 +17199,14 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/295.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/295-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/295-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/295-b-r.png"
       }
     },
     "name": "Fennec Shand",
@@ -17360,14 +17360,14 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/003.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/003-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/003-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/003-b-r.png"
       }
     },
     "name": "Finn",
@@ -17393,14 +17393,14 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/265.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/265-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/265-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/265-b-r.png"
       }
     },
     "name": "Finn",
@@ -17426,14 +17426,14 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/283.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/283-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/283-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/283-b-r.png"
       }
     },
     "name": "Finn",
@@ -17871,14 +17871,14 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/001.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/001-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/001-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/001-b-r.png"
       }
     },
     "name": "Gar Saxon",
@@ -17905,14 +17905,14 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/263.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/263-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/263-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/263-b-r.png"
       }
     },
     "name": "Gar Saxon",
@@ -17939,14 +17939,14 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/281.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/281-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/281-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/281-b-r.png"
       }
     },
     "name": "Gar Saxon",
@@ -18445,14 +18445,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/013.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/013-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/013-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/013-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -18477,14 +18477,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/275.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/275-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/275-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/275-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -18509,14 +18509,14 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/292.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/292-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/292-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/292-b-r.png"
       }
     },
     "name": "Han Solo",
@@ -18693,14 +18693,14 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/005.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/005-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/005-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/005-b-r.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18725,14 +18725,14 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/267.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/267-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/267-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/267-b-r.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18757,14 +18757,14 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/285.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/285-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/285-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/285-b-r.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18893,14 +18893,14 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/009.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/009-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/009-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/009-b-r.png"
       }
     },
     "name": "Hunter",
@@ -18926,14 +18926,14 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/271.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/271-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/271-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/271-b-r.png"
       }
     },
     "name": "Hunter",
@@ -18959,14 +18959,14 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/288.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/288-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/288-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/288-b-r.png"
       }
     },
     "name": "Hunter",
@@ -19380,14 +19380,14 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/006.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/006-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/006-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/006-b-r.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19413,14 +19413,14 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/268.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/268-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/268-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/268-b-r.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19446,14 +19446,14 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/286.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/286-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/286-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/286-b-r.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19478,7 +19478,7 @@
       "front": {
         "name": "Jabba's Palace",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/026.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/026-r.png",
         "isHorizontal": true
       }
     },
@@ -19497,7 +19497,7 @@
       "front": {
         "name": "Jabba's Palace",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/304.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/304-r.png",
         "isHorizontal": true
       }
     },
@@ -20099,14 +20099,14 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/011.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/011-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/011-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/011-b-r.png"
       }
     },
     "name": "Kylo Ren",
@@ -20159,14 +20159,14 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/273.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/273-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/273-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/273-b-r.png"
       }
     },
     "name": "Kylo Ren",
@@ -20192,14 +20192,14 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/290.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/290-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/290-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/290-b-r.png"
       }
     },
     "name": "Kylo Ren",
@@ -20406,14 +20406,14 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/017.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/017-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/017-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/017-b-r.png"
       }
     },
     "name": "Lando Calrissian",
@@ -20438,14 +20438,14 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/279.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/279-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/279-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/279-b-r.png"
       }
     },
     "name": "Lando Calrissian",
@@ -20470,14 +20470,14 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/296.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/296-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/296-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/296-b-r.png"
       }
     },
     "name": "Lando Calrissian",
@@ -21061,7 +21061,7 @@
       "front": {
         "name": "Maz Kanata's Castle",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/021.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/021-r.png",
         "isHorizontal": true
       }
     },
@@ -21080,7 +21080,7 @@
       "front": {
         "name": "Maz Kanata's Castle",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/299.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/299-r.png",
         "isHorizontal": true
       }
     },
@@ -21406,14 +21406,14 @@
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/007.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/007-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/007-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/007-b-r.png"
       }
     },
     "name": "Moff Gideon",
@@ -21439,14 +21439,14 @@
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/269.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/269-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/269-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/269-b-r.png"
       }
     },
     "name": "Moff Gideon",
@@ -21615,7 +21615,7 @@
       "front": {
         "name": "Nevarro City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/022.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/022-r.png",
         "isHorizontal": true
       }
     },
@@ -21634,7 +21634,7 @@
       "front": {
         "name": "Nevarro City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/300.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/300-r.png",
         "isHorizontal": true
       }
     },
@@ -22718,14 +22718,14 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/002.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/002-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/002-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/002-b-r.png"
       }
     },
     "name": "Qi'ra",
@@ -22776,14 +22776,14 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/264.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/264-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/264-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/264-b-r.png"
       }
     },
     "name": "Qi'ra",
@@ -22808,14 +22808,14 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/282.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/282-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/282-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/282-b-r.png"
       }
     },
     "name": "Qi'ra",
@@ -23037,7 +23037,7 @@
       "front": {
         "name": "Remnant Science Facility",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/019.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/019-r.png",
         "isHorizontal": true
       }
     },
@@ -23056,7 +23056,7 @@
       "front": {
         "name": "Remnant Science Facility",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/297.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/297-r.png",
         "isHorizontal": true
       }
     },
@@ -23075,7 +23075,7 @@
       "front": {
         "name": "Remote Village",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/020.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/020-r.png",
         "isHorizontal": true
       }
     },
@@ -23094,7 +23094,7 @@
       "front": {
         "name": "Remote Village",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/298.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/298-r.png",
         "isHorizontal": true
       }
     },
@@ -23239,14 +23239,14 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/004.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/004-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/004-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/004-b-r.png"
       }
     },
     "name": "Rey",
@@ -23299,14 +23299,14 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/266.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/266-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/266-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/266-b-r.png"
       }
     },
     "name": "Rey",
@@ -23332,14 +23332,14 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/284.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/284-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/284-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/284-b-r.png"
       }
     },
     "name": "Rey",
@@ -24283,7 +24283,7 @@
       "front": {
         "name": "Spice Mines",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/024.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/024-r.png",
         "isHorizontal": true
       }
     },
@@ -24302,7 +24302,7 @@
       "front": {
         "name": "Spice Mines",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/302.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/302-r.png",
         "isHorizontal": true
       }
     },
@@ -25246,14 +25246,14 @@
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/018.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/018-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/018-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/018-b-r.png"
       }
     },
     "name": "The Mandalorian",
@@ -25306,14 +25306,14 @@
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/280.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/SHD/280-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/280-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/280-b-r.png"
       }
     },
     "name": "The Mandalorian",
@@ -27483,14 +27483,14 @@
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/011.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/011-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/011-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/011-b-r.png"
       }
     },
     "name": "Ahsoka Tano",
@@ -27545,14 +27545,14 @@
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/268.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/268-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/268-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/268-b-r.png"
       }
     },
     "name": "Ahsoka Tano",
@@ -27682,14 +27682,14 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/012.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/012-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/012-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/012-b-r.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27744,14 +27744,14 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/269.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/269-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/269-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/269-b-r.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27778,14 +27778,14 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/287.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/287-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/287-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/287-b-r.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27924,14 +27924,14 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/014.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/014-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/014-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/014-b-r.png"
       }
     },
     "name": "Asajj Ventress",
@@ -27986,14 +27986,14 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/271.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/271-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/271-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/271-b-r.png"
       }
     },
     "name": "Asajj Ventress",
@@ -28020,14 +28020,14 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/289.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/289-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/289-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/289-b-r.png"
       }
     },
     "name": "Asajj Ventress",
@@ -28945,14 +28945,14 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/007.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/007-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/007-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/007-b-r.png"
       }
     },
     "name": "Captain Rex",
@@ -29007,14 +29007,14 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/264.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/264-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/264-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/264-b-r.png"
       }
     },
     "name": "Captain Rex",
@@ -29041,14 +29041,14 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/282.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/282-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/282-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/282-b-r.png"
       }
     },
     "name": "Captain Rex",
@@ -29231,14 +29231,14 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/017.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/017-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b-r.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29268,14 +29268,14 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/274.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/274-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/274-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/274-b-r.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29305,14 +29305,14 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/292.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/292-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/292-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/292-b-r.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29968,14 +29968,14 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/005.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/005-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/005-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/005-b-r.png"
       }
     },
     "name": "Count Dooku",
@@ -30030,14 +30030,14 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/262.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/262-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/262-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/262-b-r.png"
       }
     },
     "name": "Count Dooku",
@@ -30064,14 +30064,14 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/280.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/280-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/280-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/280-b-r.png"
       }
     },
     "name": "Count Dooku",
@@ -30731,7 +30731,7 @@
       "front": {
         "name": "Droid Manufactory",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/022.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/022-r.png",
         "isHorizontal": true
       }
     },
@@ -30750,7 +30750,7 @@
       "front": {
         "name": "Droid Manufactory",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/297.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/297-r.png",
         "isHorizontal": true
       }
     },
@@ -31754,14 +31754,14 @@
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/015.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/015-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/015-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/015-b-r.png"
       }
     },
     "name": "General Grievous",
@@ -31814,14 +31814,14 @@
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/272.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/272-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/272-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/272-b-r.png"
       }
     },
     "name": "General Grievous",
@@ -33178,14 +33178,14 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/016.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/016-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/016-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/016-b-r.png"
       }
     },
     "name": "Jango Fett",
@@ -33211,14 +33211,14 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/273.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/273-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/273-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/273-b-r.png"
       }
     },
     "name": "Jango Fett",
@@ -33244,14 +33244,14 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/291.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/291-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/291-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/291-b-r.png"
       }
     },
     "name": "Jango Fett",
@@ -33436,7 +33436,7 @@
       "front": {
         "name": "KCM Mining Facility",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/026.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/026-r.png",
         "isHorizontal": true
       }
     },
@@ -33455,7 +33455,7 @@
       "front": {
         "name": "KCM Mining Facility",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/301.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/301-r.png",
         "isHorizontal": true
       }
     },
@@ -33798,7 +33798,7 @@
       "front": {
         "name": "Lair of Grievous",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/023.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/023-r.png",
         "isHorizontal": true
       }
     },
@@ -33817,7 +33817,7 @@
       "front": {
         "name": "Lair of Grievous",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/298.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/298-r.png",
         "isHorizontal": true
       }
     },
@@ -33884,7 +33884,7 @@
       "front": {
         "name": "Level 1313",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/029.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/029-r.png",
         "isHorizontal": true
       }
     },
@@ -33903,7 +33903,7 @@
       "front": {
         "name": "Level 1313",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/518.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/518-r.png",
         "isHorizontal": true
       }
     },
@@ -34085,14 +34085,14 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/013.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/013-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/013-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/013-b-r.png"
       }
     },
     "name": "Mace Windu",
@@ -34119,14 +34119,14 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/270.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/270-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/270-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/270-b-r.png"
       }
     },
     "name": "Mace Windu",
@@ -34153,14 +34153,14 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/288.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/288-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/288-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/288-b-r.png"
       }
     },
     "name": "Mace Windu",
@@ -34457,14 +34457,14 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/009.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/009-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/009-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/009-b-r.png"
       }
     },
     "name": "Maul",
@@ -34490,14 +34490,14 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/266.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/266-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/266-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/266-b-r.png"
       }
     },
     "name": "Maul",
@@ -34523,14 +34523,14 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/284.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/284-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/284-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/284-b-r.png"
       }
     },
     "name": "Maul",
@@ -34766,14 +34766,14 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/001.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/001-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/001-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/001-b-r.png"
       }
     },
     "name": "Nala Se",
@@ -34798,14 +34798,14 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/258.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/258-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/258-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/258-b-r.png"
       }
     },
     "name": "Nala Se",
@@ -34830,14 +34830,14 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/276.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/276-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/276-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/276-b-r.png"
       }
     },
     "name": "Nala Se",
@@ -34958,14 +34958,14 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/002.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/002-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/002-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/002-b-r.png"
       }
     },
     "name": "Nute Gunray",
@@ -34991,14 +34991,14 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/259.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/259-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/259-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/259-b-r.png"
       }
     },
     "name": "Nute Gunray",
@@ -35024,14 +35024,14 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/277.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/277-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/277-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/277-b-r.png"
       }
     },
     "name": "Nute Gunray",
@@ -35165,14 +35165,14 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/003.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/003-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/003-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/003-b-r.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35199,14 +35199,14 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/260.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/260-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/260-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/260-b-r.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35233,14 +35233,14 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/278.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/278-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/278-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/278-b-r.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35679,14 +35679,14 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/008.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/008-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/008-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/008-b-r.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35741,14 +35741,14 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/265.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/265-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/265-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/265-b-r.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35775,14 +35775,14 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/283.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/283-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/283-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/283-b-r.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35916,7 +35916,7 @@
       "front": {
         "name": "Pau City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/019.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/019-r.png",
         "isHorizontal": true
       }
     },
@@ -35935,7 +35935,7 @@
       "front": {
         "name": "Pau City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/294.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/294-r.png",
         "isHorizontal": true
       }
     },
@@ -36108,7 +36108,7 @@
       "front": {
         "name": "Petranaki Arena",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/028.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/028-r.png",
         "isHorizontal": true
       }
     },
@@ -36127,7 +36127,7 @@
       "front": {
         "name": "Petranaki Arena",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/303.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/303-r.png",
         "isHorizontal": true
       }
     },
@@ -36459,14 +36459,14 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/010.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/010-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/010-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/010-b-r.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36492,14 +36492,14 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/267.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/267-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/267-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/267-b-r.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36525,14 +36525,14 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/285.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/285-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/285-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/285-b-r.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36699,7 +36699,7 @@
       "front": {
         "name": "Pyke Palace",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/030.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/030-r.png",
         "isHorizontal": true
       }
     },
@@ -36718,7 +36718,7 @@
       "front": {
         "name": "Pyke Palace",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/519.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/519-r.png",
         "isHorizontal": true
       }
     },
@@ -36786,14 +36786,14 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/018.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/018-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/018-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/018-b-r.png"
       }
     },
     "name": "Quinlan Vos",
@@ -36820,14 +36820,14 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/275.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/275-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/275-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/275-b-r.png"
       }
     },
     "name": "Quinlan Vos",
@@ -36854,14 +36854,14 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/293.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/293-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/293-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/293-b-r.png"
       }
     },
     "name": "Quinlan Vos",
@@ -38307,7 +38307,7 @@
       "front": {
         "name": "Shadow Collective Camp",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/025.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/025-r.png",
         "isHorizontal": true
       }
     },
@@ -38326,7 +38326,7 @@
       "front": {
         "name": "Shadow Collective Camp",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/300.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/300-r.png",
         "isHorizontal": true
       }
     },
@@ -38921,7 +38921,7 @@
       "front": {
         "name": "Sundari",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/020.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/020-r.png",
         "isHorizontal": true
       }
     },
@@ -38940,7 +38940,7 @@
       "front": {
         "name": "Sundari",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/295.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/295-r.png",
         "isHorizontal": true
       }
     },
@@ -39280,7 +39280,7 @@
       "front": {
         "name": "The Crystal City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/021.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/021-r.png",
         "isHorizontal": true
       }
     },
@@ -39299,7 +39299,7 @@
       "front": {
         "name": "The Crystal City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/296.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/296-r.png",
         "isHorizontal": true
       }
     },
@@ -39420,7 +39420,7 @@
       "front": {
         "name": "The Nest",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/027.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/027-r.png",
         "isHorizontal": true
       }
     },
@@ -39439,7 +39439,7 @@
       "front": {
         "name": "The Nest",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/302.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/302-r.png",
         "isHorizontal": true
       }
     },
@@ -39508,7 +39508,7 @@
       "front": {
         "name": "Tipoca City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/024.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/024-r.png",
         "isHorizontal": true
       }
     },
@@ -39527,7 +39527,7 @@
       "front": {
         "name": "Tipoca City",
         "type": "Base",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/299.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/299-r.png",
         "isHorizontal": true
       }
     },
@@ -40309,14 +40309,14 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/006.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/006-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/006-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/006-b-r.png"
       }
     },
     "name": "Wat Tambor",
@@ -40342,14 +40342,14 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/263.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/263-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/263-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/263-b-r.png"
       }
     },
     "name": "Wat Tambor",
@@ -40375,14 +40375,14 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/281.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/281-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/281-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/281-b-r.png"
       }
     },
     "name": "Wat Tambor",
@@ -40487,14 +40487,14 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/004.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/004-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/004-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/004-b-r.png"
       }
     },
     "name": "Yoda",
@@ -40521,14 +40521,14 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/261.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/261-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/261-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/261-b-r.png"
       }
     },
     "name": "Yoda",
@@ -40555,14 +40555,14 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/279.png-r",
+        "image": "https://cdn.swu-db.com/images/cards/TWI/279-r.png",
         "isHorizontal": true
       },
       "back": {
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/279-b.png-r"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/279-b-r.png"
       }
     },
     "name": "Yoda",
