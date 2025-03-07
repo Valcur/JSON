@@ -154,7 +154,7 @@
         ]
     },
     "cards": {
-        "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json",
+        "dataUrl": "https://valcur.github.io/JSON/SWUCards.json",
         "cardBack": "https://i.imgur.com/rlFq55B.png"
     }
 }
