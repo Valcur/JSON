@@ -1,0 +1,160 @@
+{
+    "name": "Star wars unlimited",
+    "menuBackgroundImage": "https://i.imgur.com/FMrbNER.jpeg",
+    "deckBuilding": {
+        "mainFilters": [
+            "aspects",
+            "type",
+            "cost"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "mulligan": {
+                    "info": "You can draw a new hand once.",
+                    "startingHandSize": 6,
+                    "drawNewHand": true
+                },
+                "newTurn": {
+                    "drawOnStart": false,
+                    "sharedTurn": true
+                },
+                "countersStartingValues": [0],
+                "sections": {
+                    "allSections": [
+                        "Hand",
+                        "Discard",
+                        "Deck",
+                        "Stack",
+                        "Exile",
+                        "Main",
+                        "Mana",
+                        "Items"
+                    ],
+                    "customSections": [
+                        "Main",
+                        "Mana",
+                        "Items"
+                    ],
+                    "layout": [
+                        [
+                            "Main"
+                        ],
+                        [
+                            "Mana",
+                            "Items"
+                        ]
+                    ],
+                    "autoPlayFromHand": {
+                        "Action": "Stack",
+                        "Character": "Main",
+                        "Item": "Items",
+                        "Location": "Main"
+                    },
+                    "autoPlayFromStack": {
+                        "Action": "Discard",
+                        "Character": "Main",
+                        "Item": "Items",
+                        "Location": "Main"
+                    },
+                    "sectionsDict": {
+                        "Hand": {
+                            "isDefaultSection": true,
+                            "title": "Hand",
+                            "isHidden": "opponent-only",
+                            "height": "DEFAULT",
+                            "alignment": "CENTER",
+                            "autoPayFrom": true,
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Discard": {
+                            "isDefaultSection": true,
+                            "title": "Discard",
+                            "isHidden": "no",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Deck": {
+                            "isDefaultSection": true,
+                            "title": "Deck",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Stack": {
+                            "isDefaultSection": true,
+                            "title": "Stack",
+                            "isHidden": "no",
+                            "height": "HUGE",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Exile": {
+                            "isDefaultSection": true,
+                            "title": "Exile",
+                            "isHidden": "yes",
+                            "height": "DEFAULT",
+                            "alignment": "NONE",
+                            "isHorizontalAllowed": false,
+                            "isGroupForbidden": true
+                        },
+                        "Main": {
+                            "title": "Main",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
+                            "quickActionButtons": [
+                                "tap",
+                                "hand",
+                                "discard"
+                            ],
+                            "isHorizontalAllowed": true
+                        },
+                        "Mana": {
+                            "title": "Mana",
+                            "isHidden": "yes",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "noAutoPayTo": "true",
+                            "quickActionButtons": [
+                                "reveal",
+                                "tap-one"
+                            ],
+                            "isHorizontalAllowed": false
+                        },
+                        "Items": {
+                            "title": "Items",
+                            "defaultTypes": [
+                                "Item, Location"
+                            ],
+                            "isHidden": "no",
+                            "height": "SMALL",
+                            "alignment": "START",
+                            "isHorizontalAllowed": true
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://www.asdesjeux.com/cdn/shop/collections/F3xRtyuXoAAGE17.jpg?v=1704470537",
+            "https://i.imgur.com/Zvus1Xx.jpeg",
+            "https://i.imgur.com/SDUjsyJ.jpeg",
+            "https://i.imgur.com/7QmYdYk.jpeg",
+            "https://i.imgur.com/QE2LX4M.jpeg",
+            "https://i.imgur.com/14kebj5.jpeg"
+        ]
+    },
+    "cards": {
+        "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json",
+        "cardBack": "https://i.imgur.com/rlFq55B.png"
+    }
+}
