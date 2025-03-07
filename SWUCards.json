@@ -1,4 +1,162 @@
 {
+  "T_01": {
+    "id": "T_01",
+    "face": {
+      "front": {
+        "name": "Battle droid",
+        "type": "Unit - Ground",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/TTWI/T01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle droid",
+    "type": "Unit - Ground",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "TROOPER"
+    ],
+    "isToken": true
+  },
+  "T_02": {
+    "id": "T_02",
+    "face": {
+      "front": {
+        "name": "Clone trooper",
+        "type": "Unit - Ground",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/TTWI/T02.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clone trooper",
+    "type": "Unit - Ground",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ],
+    "isToken": true
+  },
+  "T_03": {
+    "id": "T_03",
+    "face": {
+      "front": {
+        "name": "Experience",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/GGTS/5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experience",
+    "type": "Upgrade",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ],
+    "isToken": true
+  },
+  "T_04": {
+    "id": "T_04",
+    "face": {
+      "front": {
+        "name": "Shield",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/GGTS/6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shield",
+    "type": "Upgrade",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "ARMOR"
+    ],
+    "isToken": true
+  },
+  "T_05": {
+    "id": "T_05",
+    "face": {
+      "front": {
+        "name": "TIE fighter",
+        "type": "Unit - Space",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/TJTL/T01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE fighter",
+    "type": "Unit - Space",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ],
+    "isToken": true
+  },
+  "T_06": {
+    "id": "T_06",
+    "face": {
+      "front": {
+        "name": "X-Wing",
+        "type": "Unit - Space",
+        "cost": 0,
+        "image": "https://swudb.com/images/cards/TJTL/T02.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "X-Wing",
+    "type": "Unit - Space",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ],
+    "isToken": true
+  },
   "SOR_059": {
     "id": "SOR_059",
     "face": {
@@ -334,7 +492,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_295": {
     "id": "SOR_295",
@@ -353,7 +512,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_097": {
     "id": "SOR_097",
@@ -1495,7 +1655,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/015-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/015-b.png"
       }
     },
     "name": "Boba Fett",
@@ -1555,7 +1715,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/265-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/265-b.png"
       }
     },
     "name": "Boba Fett",
@@ -1588,7 +1748,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/281-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/281-b.png"
       }
     },
     "name": "Boba Fett",
@@ -2043,7 +2203,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_286": {
     "id": "SOR_286",
@@ -2062,7 +2223,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_068": {
     "id": "SOR_068",
@@ -2186,7 +2348,7 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/013-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/013-b.png"
       }
     },
     "name": "Cassian Andor",
@@ -2218,7 +2380,7 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/263-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/263-b.png"
       }
     },
     "name": "Cassian Andor",
@@ -2250,7 +2412,7 @@
         "name": "Cassian Andor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/279-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/279-b.png"
       }
     },
     "name": "Cassian Andor",
@@ -2285,7 +2447,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_292": {
     "id": "SOR_292",
@@ -2304,7 +2467,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_229": {
     "id": "SOR_229",
@@ -2418,7 +2582,7 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/003-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/003-b.png"
       }
     },
     "name": "Chewbacca",
@@ -2478,7 +2642,7 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/255-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/255-b.png"
       }
     },
     "name": "Chewbacca",
@@ -2511,7 +2675,7 @@
         "name": "Chewbacca",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/271-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/271-b.png"
       }
     },
     "name": "Chewbacca",
@@ -2627,7 +2791,7 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/004-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/004-b.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2660,7 +2824,7 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/256-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/256-b.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2693,7 +2857,7 @@
         "name": "Chirrut Îmwe",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/272-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/272-b.png"
       }
     },
     "name": "Chirrut Îmwe",
@@ -2785,7 +2949,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_296": {
     "id": "SOR_296",
@@ -2804,7 +2969,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_063": {
     "id": "SOR_063",
@@ -2975,7 +3141,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_289": {
     "id": "SOR_289",
@@ -2994,7 +3161,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_251": {
     "id": "SOR_251",
@@ -3011,6 +3179,7 @@
     "type": "Event",
     "cost": "1",
     "rarity": "Common",
+    "aspects": [],
     "unique": false,
     "traits": [
       "LAW"
@@ -3031,6 +3200,7 @@
     "type": "Event",
     "cost": "1",
     "rarity": "Common",
+    "aspects": [],
     "unique": false,
     "traits": [
       "LAW"
@@ -3161,6 +3331,7 @@
     "rarity": "Common",
     "power": "4",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "VEHICLE",
@@ -3184,6 +3355,7 @@
     "rarity": "Common",
     "power": "4",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "VEHICLE",
@@ -3361,7 +3533,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_287": {
     "id": "SOR_287",
@@ -3380,7 +3553,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_010": {
     "id": "SOR_010",
@@ -3396,7 +3570,7 @@
         "name": "Darth Vader",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/010-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/010-b.png"
       }
     },
     "name": "Darth Vader",
@@ -3754,7 +3928,7 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/001-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/001-b.png"
       }
     },
     "name": "Director Krennic",
@@ -3787,7 +3961,7 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/253-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/253-b.png"
       }
     },
     "name": "Director Krennic",
@@ -3820,7 +3994,7 @@
         "name": "Director Krennic",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/269-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/269-b.png"
       }
     },
     "name": "Director Krennic",
@@ -4056,7 +4230,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_290": {
     "id": "SOR_290",
@@ -4075,7 +4250,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_098": {
     "id": "SOR_098",
@@ -4197,7 +4373,7 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/006-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/006-b.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4261,7 +4437,7 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/257-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/257-b.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4296,7 +4472,7 @@
         "name": "Emperor Palpatine",
         "type": "Leader",
         "cost": "8",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/273-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/273-b.png"
       }
     },
     "name": "Emperor Palpatine",
@@ -4415,7 +4591,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_288": {
     "id": "SOR_288",
@@ -4434,7 +4611,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_072": {
     "id": "SOR_072",
@@ -5177,6 +5355,7 @@
     "rarity": "Common",
     "power": "3",
     "HP": "5",
+    "aspects": [],
     "unique": false,
     "traits": [
       "VEHICLE",
@@ -5200,6 +5379,7 @@
     "rarity": "Common",
     "power": "3",
     "HP": "5",
+    "aspects": [],
     "unique": false,
     "traits": [
       "VEHICLE",
@@ -5692,7 +5872,7 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/016-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/016-b.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5725,7 +5905,7 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/266-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/266-b.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5758,7 +5938,7 @@
         "name": "Grand Admiral Thrawn",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/282-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/282-b.png"
       }
     },
     "name": "Grand Admiral Thrawn",
@@ -5791,7 +5971,7 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/011-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/011-b.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5825,7 +6005,7 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/261-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/261-b.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5859,7 +6039,7 @@
         "name": "Grand Inquisitor",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/277-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/277-b.png"
       }
     },
     "name": "Grand Inquisitor",
@@ -5893,7 +6073,7 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/007-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/007-b.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -5953,7 +6133,7 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/258-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/258-b.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -5986,7 +6166,7 @@
         "name": "Grand Moff Tarkin",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/274-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/274-b.png"
       }
     },
     "name": "Grand Moff Tarkin",
@@ -6235,7 +6415,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/017-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/017-b.png"
       }
     },
     "name": "Han Solo",
@@ -6293,7 +6473,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/267-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/267-b.png"
       }
     },
     "name": "Han Solo",
@@ -6325,7 +6505,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/283-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/283-b.png"
       }
     },
     "name": "Han Solo",
@@ -6435,7 +6615,7 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/008-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/008-b.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6469,7 +6649,7 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/259-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/259-b.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6503,7 +6683,7 @@
         "name": "Hera Syndulla",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/275-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/275-b.png"
       }
     },
     "name": "Hera Syndulla",
@@ -6764,7 +6944,7 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/012-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/012-b.png"
       }
     },
     "name": "IG-88",
@@ -6798,7 +6978,7 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/262-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/262-b.png"
       }
     },
     "name": "IG-88",
@@ -6832,7 +7012,7 @@
         "name": "IG-88",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/278-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/278-b.png"
       }
     },
     "name": "IG-88",
@@ -6918,7 +7098,7 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/002-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/002-b.png"
       }
     },
     "name": "Iden Versio",
@@ -6951,7 +7131,7 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/254-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/254-b.png"
       }
     },
     "name": "Iden Versio",
@@ -6984,7 +7164,7 @@
         "name": "Iden Versio",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/270-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/270-b.png"
       }
     },
     "name": "Iden Versio",
@@ -7384,7 +7564,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_294": {
     "id": "SOR_294",
@@ -7403,7 +7584,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_054": {
     "id": "SOR_054",
@@ -7475,7 +7657,7 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/018-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/018-b.png"
       }
     },
     "name": "Jyn Erso",
@@ -7507,7 +7689,7 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/268-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/268-b.png"
       }
     },
     "name": "Jyn Erso",
@@ -7539,7 +7721,7 @@
         "name": "Jyn Erso",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/284-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/284-b.png"
       }
     },
     "name": "Jyn Erso",
@@ -7780,7 +7962,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_293": {
     "id": "SOR_293",
@@ -7799,7 +7982,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_197": {
     "id": "SOR_197",
@@ -7869,7 +8053,7 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/009-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/009-b.png"
       }
     },
     "name": "Leia Organa",
@@ -7929,7 +8113,7 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/260-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/260-b.png"
       }
     },
     "name": "Leia Organa",
@@ -7962,7 +8146,7 @@
         "name": "Leia Organa",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/276-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/276-b.png"
       }
     },
     "name": "Leia Organa",
@@ -8101,7 +8285,7 @@
         "name": "Luke Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/005-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/005-b.png"
       }
     },
     "name": "Luke Skywalker",
@@ -10107,6 +10291,7 @@
     "type": "Event",
     "cost": "1",
     "rarity": "Common",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SUPPLY"
@@ -10127,6 +10312,7 @@
     "type": "Event",
     "cost": "1",
     "rarity": "Common",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SUPPLY"
@@ -10516,7 +10702,7 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/014-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/014-b.png"
       }
     },
     "name": "Sabine Wren",
@@ -10578,7 +10764,7 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/264-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/264-b.png"
       }
     },
     "name": "Sabine Wren",
@@ -10612,7 +10798,7 @@
         "name": "Sabine Wren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SOR/280-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SOR/280-b.png"
       }
     },
     "name": "Sabine Wren",
@@ -10885,7 +11071,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_285": {
     "id": "SOR_285",
@@ -10904,7 +11091,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_180": {
     "id": "SOR_180",
@@ -12179,7 +12367,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_291": {
     "id": "SOR_291",
@@ -12198,7 +12387,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SOR_091": {
     "id": "SOR_091",
@@ -12471,6 +12661,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -12493,6 +12684,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -12847,6 +13039,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "TROOPER"
@@ -12869,6 +13062,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "TROOPER"
@@ -13762,7 +13956,7 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/012-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/012-b.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13821,7 +14015,7 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/274-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/274-b.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13853,7 +14047,7 @@
         "name": "Bo-Katan Kryze",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/291-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/291-b.png"
       }
     },
     "name": "Bo-Katan Kryze",
@@ -13912,7 +14106,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/008-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/008-b.png"
       }
     },
     "name": "Boba Fett",
@@ -13944,7 +14138,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/270-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/270-b.png"
       }
     },
     "name": "Boba Fett",
@@ -13976,7 +14170,7 @@
         "name": "Boba Fett",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/287-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/287-b.png"
       }
     },
     "name": "Boba Fett",
@@ -14060,7 +14254,7 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/010-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/010-b.png"
       }
     },
     "name": "Bossk",
@@ -14093,7 +14287,7 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/272-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/272-b.png"
       }
     },
     "name": "Bossk",
@@ -14126,7 +14320,7 @@
         "name": "Bossk",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/289-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/289-b.png"
       }
     },
     "name": "Bossk",
@@ -14162,6 +14356,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "BOUNTY HUNTER"
@@ -14184,6 +14379,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "BOUNTY HUNTER"
@@ -14399,7 +14595,7 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/014-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/014-b.png"
       }
     },
     "name": "Cad Bane",
@@ -14432,7 +14628,7 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/276-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/276-b.png"
       }
     },
     "name": "Cad Bane",
@@ -14465,7 +14661,7 @@
         "name": "Cad Bane",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/293-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/293-b.png"
       }
     },
     "name": "Cad Bane",
@@ -15335,6 +15531,7 @@
     "type": "Event",
     "cost": "1",
     "rarity": "Special",
+    "aspects": [],
     "unique": false,
     "traits": [
       "LAW"
@@ -15357,7 +15554,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_303": {
     "id": "SHD_303",
@@ -15376,7 +15574,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_199": {
     "id": "SHD_199",
@@ -15874,7 +16073,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_301": {
     "id": "SHD_301",
@@ -15893,7 +16093,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_136": {
     "id": "SHD_136",
@@ -16269,7 +16470,7 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/015-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/015-b.png"
       }
     },
     "name": "Doctor Aphra",
@@ -16301,7 +16502,7 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/277-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/277-b.png"
       }
     },
     "name": "Doctor Aphra",
@@ -16333,7 +16534,7 @@
         "name": "Doctor Aphra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/294-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/294-b.png"
       }
     },
     "name": "Doctor Aphra",
@@ -17117,7 +17318,7 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/016-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/016-b.png"
       }
     },
     "name": "Fennec Shand",
@@ -17174,7 +17375,7 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/278-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/278-b.png"
       }
     },
     "name": "Fennec Shand",
@@ -17206,7 +17407,7 @@
         "name": "Fennec Shand",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/295-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/295-b.png"
       }
     },
     "name": "Fennec Shand",
@@ -17367,7 +17568,7 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/003-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/003-b.png"
       }
     },
     "name": "Finn",
@@ -17400,7 +17601,7 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/265-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/265-b.png"
       }
     },
     "name": "Finn",
@@ -17433,7 +17634,7 @@
         "name": "Finn",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/283-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/283-b.png"
       }
     },
     "name": "Finn",
@@ -17878,7 +18079,7 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/001-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/001-b.png"
       }
     },
     "name": "Gar Saxon",
@@ -17912,7 +18113,7 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/263-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/263-b.png"
       }
     },
     "name": "Gar Saxon",
@@ -17946,7 +18147,7 @@
         "name": "Gar Saxon",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/281-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/281-b.png"
       }
     },
     "name": "Gar Saxon",
@@ -18452,7 +18653,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/013-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/013-b.png"
       }
     },
     "name": "Han Solo",
@@ -18484,7 +18685,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/275-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/275-b.png"
       }
     },
     "name": "Han Solo",
@@ -18516,7 +18717,7 @@
         "name": "Han Solo",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/292-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/292-b.png"
       }
     },
     "name": "Han Solo",
@@ -18700,7 +18901,7 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/005-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/005-b.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18732,7 +18933,7 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/267-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/267-b.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18764,7 +18965,7 @@
         "name": "Hondo Ohnaka",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/285-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/285-b.png"
       }
     },
     "name": "Hondo Ohnaka",
@@ -18900,7 +19101,7 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/009-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/009-b.png"
       }
     },
     "name": "Hunter",
@@ -18933,7 +19134,7 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/271-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/271-b.png"
       }
     },
     "name": "Hunter",
@@ -18966,7 +19167,7 @@
         "name": "Hunter",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/288-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/288-b.png"
       }
     },
     "name": "Hunter",
@@ -19387,7 +19588,7 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/006-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/006-b.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19420,7 +19621,7 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/268-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/268-b.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19453,7 +19654,7 @@
         "name": "Jabba the Hutt",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/286-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/286-b.png"
       }
     },
     "name": "Jabba the Hutt",
@@ -19489,7 +19690,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_304": {
     "id": "SHD_304",
@@ -19508,7 +19710,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_091": {
     "id": "SHD_091",
@@ -20106,7 +20309,7 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/011-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/011-b.png"
       }
     },
     "name": "Kylo Ren",
@@ -20166,7 +20369,7 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/273-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/273-b.png"
       }
     },
     "name": "Kylo Ren",
@@ -20199,7 +20402,7 @@
         "name": "Kylo Ren",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/290-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/290-b.png"
       }
     },
     "name": "Kylo Ren",
@@ -20372,6 +20575,7 @@
     "rarity": "Uncommon",
     "power": "0",
     "HP": "4",
+    "aspects": [],
     "unique": true,
     "traits": [
       "UNDERWORLD"
@@ -20394,6 +20598,7 @@
     "rarity": "Uncommon",
     "power": "0",
     "HP": "4",
+    "aspects": [],
     "unique": true,
     "traits": [
       "UNDERWORLD"
@@ -20413,7 +20618,7 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/017-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/017-b.png"
       }
     },
     "name": "Lando Calrissian",
@@ -20445,7 +20650,7 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/279-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/279-b.png"
       }
     },
     "name": "Lando Calrissian",
@@ -20477,7 +20682,7 @@
         "name": "Lando Calrissian",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/296-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/296-b.png"
       }
     },
     "name": "Lando Calrissian",
@@ -20922,6 +21127,7 @@
     "rarity": "Common",
     "power": "3",
     "HP": "3",
+    "aspects": [],
     "unique": true,
     "traits": [
       "MANDALORIAN"
@@ -20944,6 +21150,7 @@
     "rarity": "Common",
     "power": "3",
     "HP": "3",
+    "aspects": [],
     "unique": true,
     "traits": [
       "MANDALORIAN"
@@ -21072,7 +21279,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_299": {
     "id": "SHD_299",
@@ -21091,7 +21299,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_121": {
     "id": "SHD_121",
@@ -21162,6 +21371,7 @@
     "rarity": "Uncommon",
     "power": "3",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD",
@@ -21186,6 +21396,7 @@
     "rarity": "Uncommon",
     "power": "3",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD",
@@ -21413,7 +21624,7 @@
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/007-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/007-b.png"
       }
     },
     "name": "Moff Gideon",
@@ -21446,7 +21657,7 @@
         "name": "Moff Gideon",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/269-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/269-b.png"
       }
     },
     "name": "Moff Gideon",
@@ -21626,7 +21837,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_300": {
     "id": "SHD_300",
@@ -21645,7 +21857,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_062": {
     "id": "SHD_062",
@@ -22725,7 +22938,7 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/002-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/002-b.png"
       }
     },
     "name": "Qi'ra",
@@ -22783,7 +22996,7 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/264-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/264-b.png"
       }
     },
     "name": "Qi'ra",
@@ -22815,7 +23028,7 @@
         "name": "Qi'ra",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/282-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/282-b.png"
       }
     },
     "name": "Qi'ra",
@@ -23048,7 +23261,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_297": {
     "id": "SHD_297",
@@ -23067,7 +23281,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_020": {
     "id": "SHD_020",
@@ -23086,7 +23301,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_298": {
     "id": "SHD_298",
@@ -23105,7 +23321,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_117": {
     "id": "SHD_117",
@@ -23246,7 +23463,7 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/004-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/004-b.png"
       }
     },
     "name": "Rey",
@@ -23306,7 +23523,7 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/266-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/266-b.png"
       }
     },
     "name": "Rey",
@@ -23339,7 +23556,7 @@
         "name": "Rey",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/284-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/284-b.png"
       }
     },
     "name": "Rey",
@@ -23456,6 +23673,7 @@
     "rarity": "Common",
     "power": "0",
     "HP": "0",
+    "aspects": [],
     "unique": false,
     "traits": [
       "BOUNTY",
@@ -23479,6 +23697,7 @@
     "rarity": "Common",
     "power": "0",
     "HP": "0",
+    "aspects": [],
     "unique": false,
     "traits": [
       "BOUNTY",
@@ -24294,7 +24513,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_302": {
     "id": "SHD_302",
@@ -24313,7 +24533,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "SHD_161": {
     "id": "SHD_161",
@@ -24386,6 +24607,7 @@
     "rarity": "Common",
     "power": "4",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -24408,6 +24630,7 @@
     "rarity": "Common",
     "power": "4",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -25253,7 +25476,7 @@
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/018-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/018-b.png"
       }
     },
     "name": "The Mandalorian",
@@ -25313,7 +25536,7 @@
         "name": "The Mandalorian",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/SHD/280-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/SHD/280-b.png"
       }
     },
     "name": "The Mandalorian",
@@ -25804,6 +26027,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "FRINGE",
@@ -25828,6 +26052,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "FRINGE",
@@ -25852,6 +26077,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -25874,6 +26100,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "UNDERWORLD"
@@ -27447,6 +27674,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SEPARATIST",
@@ -27470,6 +27698,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "2",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SEPARATIST",
@@ -27490,7 +27719,7 @@
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/011-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/011-b.png"
       }
     },
     "name": "Ahsoka Tano",
@@ -27552,7 +27781,7 @@
         "name": "Ahsoka Tano",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/268-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/268-b.png"
       }
     },
     "name": "Ahsoka Tano",
@@ -27689,7 +27918,7 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/012-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/012-b.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27751,7 +27980,7 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/269-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/269-b.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27785,7 +28014,7 @@
         "name": "Anakin Skywalker",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/287-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/287-b.png"
       }
     },
     "name": "Anakin Skywalker",
@@ -27931,7 +28160,7 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/014-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/014-b.png"
       }
     },
     "name": "Asajj Ventress",
@@ -27993,7 +28222,7 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/271-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/271-b.png"
       }
     },
     "name": "Asajj Ventress",
@@ -28027,7 +28256,7 @@
         "name": "Asajj Ventress",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/289-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/289-b.png"
       }
     },
     "name": "Asajj Ventress",
@@ -28757,6 +28986,7 @@
     "rarity": "Rare",
     "power": "2",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "FRINGE"
@@ -28779,6 +29009,7 @@
     "rarity": "Rare",
     "power": "2",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "FRINGE"
@@ -28952,7 +29183,7 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/007-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/007-b.png"
       }
     },
     "name": "Captain Rex",
@@ -29014,7 +29245,7 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/264-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/264-b.png"
       }
     },
     "name": "Captain Rex",
@@ -29048,7 +29279,7 @@
         "name": "Captain Rex",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/282-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/282-b.png"
       }
     },
     "name": "Captain Rex",
@@ -29238,7 +29469,7 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29275,7 +29506,7 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/274-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/274-b.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29312,7 +29543,7 @@
         "name": "Chancellor Palpatine // Darth Sidious",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/292-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/292-b.png"
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious",
@@ -29975,7 +30206,7 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/005-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/005-b.png"
       }
     },
     "name": "Count Dooku",
@@ -30037,7 +30268,7 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/262-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/262-b.png"
       }
     },
     "name": "Count Dooku",
@@ -30071,7 +30302,7 @@
         "name": "Count Dooku",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/280-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/280-b.png"
       }
     },
     "name": "Count Dooku",
@@ -30742,7 +30973,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_297": {
     "id": "TWI_297",
@@ -30761,7 +30993,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_228": {
     "id": "TWI_228",
@@ -31761,7 +31994,7 @@
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/015-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/015-b.png"
       }
     },
     "name": "General Grievous",
@@ -31821,7 +32054,7 @@
         "name": "General Grievous",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/272-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/272-b.png"
       }
     },
     "name": "General Grievous",
@@ -32382,6 +32615,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "REPUBLIC",
@@ -32406,6 +32640,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "4",
+    "aspects": [],
     "unique": false,
     "traits": [
       "REPUBLIC",
@@ -32690,6 +32925,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "0",
+    "aspects": [],
     "unique": false,
     "traits": [
       "ITEM",
@@ -32713,6 +32949,7 @@
     "rarity": "Common",
     "power": "1",
     "HP": "0",
+    "aspects": [],
     "unique": false,
     "traits": [
       "ITEM",
@@ -33185,7 +33422,7 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/016-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/016-b.png"
       }
     },
     "name": "Jango Fett",
@@ -33218,7 +33455,7 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/273-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/273-b.png"
       }
     },
     "name": "Jango Fett",
@@ -33251,7 +33488,7 @@
         "name": "Jango Fett",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/291-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/291-b.png"
       }
     },
     "name": "Jango Fett",
@@ -33447,7 +33684,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_301": {
     "id": "TWI_301",
@@ -33466,7 +33704,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_085": {
     "id": "TWI_085",
@@ -33809,7 +34048,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_298": {
     "id": "TWI_298",
@@ -33828,7 +34068,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_041": {
     "id": "TWI_041",
@@ -33895,7 +34136,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_518": {
     "id": "TWI_518",
@@ -33914,7 +34156,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_149": {
     "id": "TWI_149",
@@ -34092,7 +34335,7 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/013-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/013-b.png"
       }
     },
     "name": "Mace Windu",
@@ -34126,7 +34369,7 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/270-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/270-b.png"
       }
     },
     "name": "Mace Windu",
@@ -34160,7 +34403,7 @@
         "name": "Mace Windu",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/288-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/288-b.png"
       }
     },
     "name": "Mace Windu",
@@ -34464,7 +34707,7 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/009-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/009-b.png"
       }
     },
     "name": "Maul",
@@ -34497,7 +34740,7 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/266-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/266-b.png"
       }
     },
     "name": "Maul",
@@ -34530,7 +34773,7 @@
         "name": "Maul",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/284-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/284-b.png"
       }
     },
     "name": "Maul",
@@ -34773,7 +35016,7 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/001-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/001-b.png"
       }
     },
     "name": "Nala Se",
@@ -34805,7 +35048,7 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/258-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/258-b.png"
       }
     },
     "name": "Nala Se",
@@ -34837,7 +35080,7 @@
         "name": "Nala Se",
         "type": "Leader",
         "cost": "4",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/276-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/276-b.png"
       }
     },
     "name": "Nala Se",
@@ -34965,7 +35208,7 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/002-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/002-b.png"
       }
     },
     "name": "Nute Gunray",
@@ -34998,7 +35241,7 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/259-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/259-b.png"
       }
     },
     "name": "Nute Gunray",
@@ -35031,7 +35274,7 @@
         "name": "Nute Gunray",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/277-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/277-b.png"
       }
     },
     "name": "Nute Gunray",
@@ -35172,7 +35415,7 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/003-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/003-b.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35206,7 +35449,7 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/260-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/260-b.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35240,7 +35483,7 @@
         "name": "Obi-Wan Kenobi",
         "type": "Leader",
         "cost": "6",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/278-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/278-b.png"
       }
     },
     "name": "Obi-Wan Kenobi",
@@ -35686,7 +35929,7 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/008-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/008-b.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35748,7 +35991,7 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/265-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/265-b.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35782,7 +36025,7 @@
         "name": "Padmé Amidala",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/283-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/283-b.png"
       }
     },
     "name": "Padmé Amidala",
@@ -35927,7 +36170,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_294": {
     "id": "TWI_294",
@@ -35946,7 +36190,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_095": {
     "id": "TWI_095",
@@ -36119,7 +36364,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_303": {
     "id": "TWI_303",
@@ -36138,7 +36384,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_241": {
     "id": "TWI_241",
@@ -36466,7 +36713,7 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/010-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/010-b.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36499,7 +36746,7 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/267-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/267-b.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36532,7 +36779,7 @@
         "name": "Pre Vizsla",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/285-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/285-b.png"
       }
     },
     "name": "Pre Vizsla",
@@ -36612,6 +36859,7 @@
     "type": "Event",
     "cost": "2",
     "rarity": "Uncommon",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SUPPLY"
@@ -36632,6 +36880,7 @@
     "type": "Event",
     "cost": "2",
     "rarity": "Uncommon",
+    "aspects": [],
     "unique": false,
     "traits": [
       "SUPPLY"
@@ -36710,7 +36959,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_519": {
     "id": "TWI_519",
@@ -36729,7 +36979,8 @@
     "aspects": [
       "Cunning"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_103": {
     "id": "TWI_103",
@@ -36793,7 +37044,7 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/018-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/018-b.png"
       }
     },
     "name": "Quinlan Vos",
@@ -36827,7 +37078,7 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/275-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/275-b.png"
       }
     },
     "name": "Quinlan Vos",
@@ -36861,7 +37112,7 @@
         "name": "Quinlan Vos",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/293-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/293-b.png"
       }
     },
     "name": "Quinlan Vos",
@@ -38318,7 +38569,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_300": {
     "id": "TWI_300",
@@ -38337,7 +38589,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_220": {
     "id": "TWI_220",
@@ -38932,7 +39185,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_295": {
     "id": "TWI_295",
@@ -38951,7 +39205,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_230": {
     "id": "TWI_230",
@@ -39291,7 +39546,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_296": {
     "id": "TWI_296",
@@ -39310,7 +39566,8 @@
     "aspects": [
       "Vigilance"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_078": {
     "id": "TWI_078",
@@ -39431,7 +39688,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_302": {
     "id": "TWI_302",
@@ -39450,7 +39708,8 @@
     "aspects": [
       "Aggression"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_067": {
     "id": "TWI_067",
@@ -39519,7 +39778,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_299": {
     "id": "TWI_299",
@@ -39538,7 +39798,8 @@
     "aspects": [
       "Command"
     ],
-    "unique": false
+    "unique": false,
+    "traits": []
   },
   "TWI_060": {
     "id": "TWI_060",
@@ -40067,6 +40328,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "TROOPER"
@@ -40089,6 +40351,7 @@
     "rarity": "Common",
     "power": "2",
     "HP": "3",
+    "aspects": [],
     "unique": false,
     "traits": [
       "TROOPER"
@@ -40316,7 +40579,7 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/006-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/006-b.png"
       }
     },
     "name": "Wat Tambor",
@@ -40349,7 +40612,7 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/263-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/263-b.png"
       }
     },
     "name": "Wat Tambor",
@@ -40382,7 +40645,7 @@
         "name": "Wat Tambor",
         "type": "Leader",
         "cost": "5",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/281-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/281-b.png"
       }
     },
     "name": "Wat Tambor",
@@ -40494,7 +40757,7 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/004-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/004-b.png"
       }
     },
     "name": "Yoda",
@@ -40528,7 +40791,7 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/261-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/261-b.png"
       }
     },
     "name": "Yoda",
@@ -40562,7 +40825,7 @@
         "name": "Yoda",
         "type": "Leader",
         "cost": "7",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/279-b-r.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/279-b.png"
       }
     },
     "name": "Yoda",
