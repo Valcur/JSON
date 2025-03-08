@@ -140,14 +140,16 @@
                             "isHidden": "no",
                             "height": "MEDIUM",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true
+                            "isHorizontalAllowed": true,
+                            "enterTapped": true
                         },
                         "Space": {
                             "title": "Space",
                             "isHidden": "no",
                             "height": "MEDIUM",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true
+                            "isHorizontalAllowed": true,
+                            "enterTapped": true
                         },
                         "Leader": {
                             "title": "Leader",
