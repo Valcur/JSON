@@ -72,6 +72,7 @@
                             }
                         ]
                     },
+                    "categoriesAlreadyOnBoard": ["Leader", "Base"],
                     "autoPlayFromHand": {
                         "Unit - Ground": "Ground",
                         "Unit - Space": "Space",
