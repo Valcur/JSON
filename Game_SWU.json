@@ -58,6 +58,7 @@
                             },
                             {
                                 "direction": "column",
+                                "style": { "width": "16vh", "justify-content": "start" },
                                 "content": [
                                     {
                                         "section": "Base"
@@ -153,16 +154,14 @@
                             "isHidden": "no",
                             "height": "DEFAULT",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true,
-                            "customWidth": "15vh"
+                            "isHorizontalAllowed": true
                         },
                         "Base": {
                             "title": "Base",
                             "isHidden": "no",
                             "height": "DEFAULT",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true,
-                            "customWidth": "15vh"
+                            "isHorizontalAllowed": true
                         },
                         "Mana": {
                             "title": "Mana",
