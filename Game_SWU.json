@@ -58,7 +58,7 @@
                             },
                             {
                                 "direction": "column",
-                                "style": { "width": "16vh", "justify-content": "start" },
+                                "style": { "width": "19vh", "justify-content": "start" },
                                 "content": [
                                     {
                                         "section": "Base"
