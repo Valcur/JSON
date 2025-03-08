@@ -10,6 +10,7 @@
         "formats": [
             {
                 "title": "Classic",
+                "customCategories": ["Leader", "Base"],
                 "mulligan": {
                     "info": "You can draw a new hand once.",
                     "startingHandSize": 6,
@@ -17,8 +18,10 @@
                 },
                 "newTurn": {
                     "drawOnStart": false,
-                    "sharedTurn": true
+                    "sharedTurn": true,
+                    "drawPerTurn": 2
                 },
+                "isLayoutSymetricalForOpponents": true,
                 "countersStartingValues": [0],
                 "sections": {
                     "allSections": [
@@ -26,36 +29,60 @@
                         "Discard",
                         "Deck",
                         "Stack",
-                        "Exile",
-                        "Main",
-                        "Mana",
-                        "Items"
+                        "Ground",
+                        "Space",
+                        "Leader",
+                        "Base"
                     ],
                     "customSections": [
-                        "Main",
-                        "Mana",
-                        "Items"
+                        "Ground",
+                        "Space",
+                        "Leader",
+                        "Base"
                     ],
-                    "layout": [
-                        [
-                            "Main"
-                        ],
-                        [
-                            "Mana",
-                            "Items"
+                    "layout": {
+                        "direction": "row",
+                        "content": [
+                            {
+                                "direction": "column",
+                                "content": [
+                                    {
+                                        "section": "Ground"
+                                    },
+                                    {
+                                        "section": "Mana"
+                                    }
+                                ]
+                            },
+                            {
+                                "direction": "column",
+                                "content": [
+                                    {
+                                        "section": "Base"
+                                    },
+                                    {
+                                        "section": "Leader"
+                                    }
+                                ]
+                            },
+                            {
+                                "section": "Space"
+                            }
                         ]
-                    ],
+                    },
                     "autoPlayFromHand": {
-                        "Action": "Stack",
-                        "Character": "Main",
-                        "Item": "Items",
-                        "Location": "Main"
+                        "Unit - Ground": "Ground",
+                        "Unit - Space": "Space",
+                        "Leader": "Leader",
+                        "Base": "Base",
+                        "Event": "Stack"
                     },
                     "autoPlayFromStack": {
-                        "Action": "Discard",
-                        "Character": "Main",
-                        "Item": "Items",
-                        "Location": "Main"
+                        "Unit - Ground": "Ground",
+                        "Unit - Space": "Space",
+                        "Leader": "Leader",
+                        "Base": "Base",
+                        "Event": "Discard"
                     },
                     "sectionsDict": {
                         "Hand": {
@@ -104,16 +131,32 @@
                             "isHorizontalAllowed": false,
                             "isGroupForbidden": true
                         },
-                        "Main": {
-                            "title": "Main",
+                        "Ground": {
+                            "title": "Ground",
                             "isHidden": "no",
                             "height": "MEDIUM",
                             "alignment": "CENTER",
-                            "quickActionButtons": [
-                                "tap",
-                                "hand",
-                                "discard"
-                            ],
+                            "isHorizontalAllowed": true
+                        },
+                        "Space": {
+                            "title": "Space",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
+                            "isHorizontalAllowed": true
+                        },
+                        "Leader": {
+                            "title": "Leader",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
+                            "isHorizontalAllowed": true
+                        },
+                        "Base": {
+                            "title": "Base",
+                            "isHidden": "no",
+                            "height": "MEDIUM",
+                            "alignment": "CENTER",
                             "isHorizontalAllowed": true
                         },
                         "Mana": {
@@ -122,21 +165,7 @@
                             "height": "SMALL",
                             "alignment": "START",
                             "noAutoPayTo": "true",
-                            "quickActionButtons": [
-                                "reveal",
-                                "tap-one"
-                            ],
                             "isHorizontalAllowed": false
-                        },
-                        "Items": {
-                            "title": "Items",
-                            "defaultTypes": [
-                                "Item, Location"
-                            ],
-                            "isHidden": "no",
-                            "height": "SMALL",
-                            "alignment": "START",
-                            "isHorizontalAllowed": true
                         }
                     }
                 }
