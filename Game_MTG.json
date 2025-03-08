@@ -10,7 +10,8 @@
                 "mulligan": {
                     "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed after the first one (click those cards).",
                     "startingHandSize": 7,
-                    "drawNewHand": true
+                    "drawNewHand": true,
+                    "putSelectionAtBottom": true
                 },
                 "newTurn": {
                     "drawOnStart": true,
@@ -20,7 +21,34 @@
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
                     "customSections": ["Creatures", "Mana", "Other", "Commander"],
-                    "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
+                    "layout": {
+                        "direction": "column",
+                        "content": [
+                            {
+                                "direction": "row",
+                                "content": [
+                                    {
+                                        "section": "Commander",
+                                        "style": { "width": "15vh" }
+                                    },
+                                    {
+                                        "section": "Creatures"
+                                    }
+                                ]
+                            },
+                            {
+                                "direction": "row",
+                                "content": [
+                                    {
+                                        "section": "Mana"
+                                    },
+                                    {
+                                        "section": "Other"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
                     "categoriesAlreadyOnBoard": ["Commander"],
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
@@ -119,8 +147,7 @@
                             "isHidden": "no",
                             "height": "SMALL",
                             "alignment": "START",
-                            "isHorizontalAllowed": true,
-                            "customWidth": "15vh"
+                            "isHorizontalAllowed": true
                         }
                     }
                 }
@@ -140,7 +167,25 @@
                 "sections": {
                     "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other"],
                     "customSections": ["Creatures", "Mana", "Other"],
-                    "layout": [["Commander", "Creatures"], ["Mana", "Other"]],
+                    "layout": {
+                        "direction": "column",
+                        "content": [
+                            {
+                                "section": "Creatures"
+                            },
+                            {
+                                "direction": "row",
+                                "content": [
+                                    {
+                                        "section": "Mana"
+                                    },
+                                    {
+                                        "section": "Other"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
                     "autoPlayFromHand": {
                         "Creature": "Creatures",
                         "Artifact": "Other",
