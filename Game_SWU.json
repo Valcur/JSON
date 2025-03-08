@@ -31,13 +31,15 @@
                         "Ground",
                         "Space",
                         "Leader",
-                        "Base"
+                        "Base",
+                        "Mana"
                     ],
                     "customSections": [
                         "Ground",
                         "Space",
                         "Leader",
-                        "Base"
+                        "Base",
+                        "Mana"
                     ],
                     "layout": {
                         "direction": "row",
@@ -148,16 +150,18 @@
                         "Leader": {
                             "title": "Leader",
                             "isHidden": "no",
-                            "height": "MEDIUM",
+                            "height": "DEFAULT",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true
+                            "isHorizontalAllowed": true,
+                            "customWidth": "15vh"
                         },
                         "Base": {
                             "title": "Base",
                             "isHidden": "no",
-                            "height": "MEDIUM",
+                            "height": "DEFAULT",
                             "alignment": "CENTER",
-                            "isHorizontalAllowed": true
+                            "isHorizontalAllowed": true,
+                            "customWidth": "15vh"
                         },
                         "Mana": {
                             "title": "Mana",
