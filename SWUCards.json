@@ -328,6 +328,7 @@
     },
     "name": "Administrator's Tower, Cloud City",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -1226,6 +1227,7 @@
     },
     "name": "Capital City, Lothal",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -1364,6 +1366,7 @@
     },
     "name": "Catacombs of Cadera, Jedha",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -1648,6 +1651,7 @@
     },
     "name": "Chopper Base, Atollon",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -1744,6 +1748,7 @@
     },
     "name": "Command Center, Death Star",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -1940,6 +1945,7 @@
     },
     "name": "Dagobah Swamp, Dagobah",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -2322,6 +2328,7 @@
     },
     "name": "Echo Base, Hoth",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -2520,6 +2527,7 @@
     },
     "name": "Energy Conversion Lab, Eadu",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "25",
     "aspects": [
@@ -4148,6 +4156,7 @@
     },
     "name": "Jedha City, Jedha",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "25",
     "aspects": [
@@ -4363,6 +4372,7 @@
     },
     "name": "Kestro City, Vardos",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -6008,6 +6018,7 @@
     },
     "name": "Security Complex, Scarif",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "25",
     "aspects": [
@@ -6656,6 +6667,7 @@
     },
     "name": "Tarkintown, Lothal",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "25",
     "aspects": [
@@ -8364,6 +8376,7 @@
     },
     "name": "Coronet City, Corellia",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -8637,6 +8650,7 @@
     },
     "name": "Death Watch Hideout, Concordia",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -10642,6 +10656,7 @@
     },
     "name": "Jabba's Palace, Tatooine",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -11469,6 +11484,7 @@
     },
     "name": "Maz Kanata's Castle, Takodana",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -11781,6 +11797,7 @@
     },
     "name": "Nevarro City, Nevarro",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -12537,6 +12554,7 @@
     },
     "name": "Remnant Science Facility, Nevarro",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -12557,6 +12575,7 @@
     },
     "name": "Remote Village, Sorgan",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -13231,6 +13250,7 @@
     },
     "name": "Spice Mines, Kessel",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -16722,6 +16742,7 @@
     },
     "name": "Droid Manufactory, Geonosis",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "24",
     "aspects": [
@@ -18153,6 +18174,7 @@
     },
     "name": "KCM Mining Facility, Mustafar",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -18335,6 +18357,7 @@
     },
     "name": "Lair of Grievous, Vassek",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -18379,6 +18402,7 @@
     },
     "name": "Level 1313, Coruscant",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -19532,6 +19556,7 @@
     },
     "name": "Pau City, Utapau",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "26",
     "aspects": [
@@ -19629,6 +19654,7 @@
     },
     "name": "Petranaki Arena, Geonosis",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "26",
     "aspects": [
@@ -19943,6 +19969,7 @@
     },
     "name": "Pyke Palace, Oba Diah",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -20779,6 +20806,7 @@
     },
     "name": "Shadow Collective Camp, Zanbar",
     "type": "Base",
+    "cost": 0,
     "rarity": "Rare",
     "HP": "25",
     "aspects": [
@@ -21087,6 +21115,7 @@
     },
     "name": "Sundari, Mandalore",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -21279,6 +21308,7 @@
     },
     "name": "The Crystal City, Christophsis",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -21350,6 +21380,7 @@
     },
     "name": "The Nest, Onderon",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
@@ -21395,6 +21426,7 @@
     },
     "name": "Tipoca City, Kamino",
     "type": "Base",
+    "cost": 0,
     "rarity": "Common",
     "HP": "30",
     "aspects": [
