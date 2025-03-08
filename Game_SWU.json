@@ -21,7 +21,6 @@
                     "sharedTurn": true,
                     "drawPerTurn": 2
                 },
-                "isLayoutSymetricalForOpponents": true,
                 "countersStartingValues": [0],
                 "sections": {
                     "allSections": [
@@ -42,6 +41,7 @@
                     ],
                     "layout": {
                         "direction": "row",
+                        "isSymetricalForOpponents": true,
                         "content": [
                             {
                                 "direction": "column",
