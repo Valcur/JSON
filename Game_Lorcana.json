@@ -103,7 +103,8 @@
                             "height": "HUGE",
                             "alignment": "NONE",
                             "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
+                            "isGroupForbidden": true,
+                            "displayedTitle": "Pile"
                         },
                         "Exile": {
                             "isDefaultSection": true,
@@ -136,7 +137,8 @@
                                 "reveal",
                                 "tap-one"
                             ],
-                            "isHorizontalAllowed": false
+                            "isHorizontalAllowed": false,
+                            "displayedTitle": "Inkwell"
                         },
                         "Items": {
                             "title": "Items",
@@ -163,6 +165,7 @@
             "https://i.imgur.com/14kebj5.jpeg"
         ]
     },
+    "customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",
     "cards": {
         "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json",
         "cardBack": "https://i.imgur.com/rlFq55B.png"
