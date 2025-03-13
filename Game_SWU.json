@@ -80,7 +80,8 @@
                         "Unit - Space": "Space",
                         "Leader": "Leader",
                         "Base": "Base",
-                        "Event": "Stack"
+                        "Event": "Stack",
+                        "Upgrade": "Stack"
                     },
                     "autoPlayFromStack": {
                         "Unit - Ground": "Ground",
