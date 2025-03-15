@@ -175,6 +175,10 @@
                             "isHidden": "yes",
                             "height": "SMALL",
                             "alignment": "START",
+                            "quickActionButtons": [
+                                "reveal",
+                                "tap-one"
+                            ],
                             "opponentAlignment": "END",
                             "noAutoPayTo": "true",
                             "isHorizontalAllowed": false,
