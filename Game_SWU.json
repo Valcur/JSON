@@ -178,8 +178,7 @@
                             "opponentAlignment": "END",
                             "noAutoPayTo": "true",
                             "isHorizontalAllowed": false,
-                            "displayedTitle": "Ressources",
-                            "hideCardFromHistory": true
+                            "displayedTitle": "Ressources"
                         }
                     }
                 }

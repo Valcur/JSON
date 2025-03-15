@@ -138,7 +138,8 @@
                                 "tap-one"
                             ],
                             "isHorizontalAllowed": false,
-                            "displayedTitle": "Inkwell"
+                            "displayedTitle": "Inkwell",
+                            "showHiddenCardInHistory": true
                         },
                         "Items": {
                             "title": "Items",
