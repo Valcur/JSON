@@ -10,151 +10,156 @@
         "formats": [
             {
                 "title": "Classic",
-                "mulligan": {
-                    "info": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck.",
-                    "startingHandSize": 7,
-                    "drawNewSelectedCards": true
-                },
-                "newTurn": {
-                    "drawOnStart": false,
-                    "sharedTurn": false
-                },
-                "countersStartingValues": [0],
-                "sections": {
-                    "allSections": [
-                        "Hand",
-                        "Discard",
-                        "Deck",
-                        "Stack",
-                        "Exile",
-                        "Main",
-                        "Mana",
-                        "Items"
-                    ],
-                    "customSections": [
-                        "Main",
-                        "Mana",
-                        "Items"
-                    ],
-                    "layout": {
-                        "direction": "column",
-                        "content": [
-                            {
-                                "section": "Main"
-                            },
-                            {
-                                "direction": "row",
-                                "content": [
-                                    {
-                                        "section": "Mana"
-                                    },
-                                    {
-                                        "section": "Items"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    "autoPlayFromHand": {
-                        "Action": "Stack",
-                        "Character": "Main",
-                        "Item": "Items",
-                        "Location": "Main"
-                    },
-                    "autoPlayFromStack": {
-                        "Action": "Discard",
-                        "Character": "Main",
-                        "Item": "Items",
-                        "Location": "Main"
-                    },
-                    "sectionsDict": {
-                        "Hand": {
-                            "isDefaultSection": true,
-                            "title": "Hand",
-                            "isHidden": "opponent-only",
-                            "height": "DEFAULT",
-                            "alignment": "CENTER",
-                            "autoPayFrom": true,
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
+                "gameplay": "Classic"
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck.",
+                "startingHandSize": 7,
+                "drawNewSelectedCards": true
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false
+            },
+            "countersStartingValues": [0],
+            "sections": {
+                "allSections": [
+                    "Hand",
+                    "Discard",
+                    "Deck",
+                    "Stack",
+                    "Exile",
+                    "Main",
+                    "Mana",
+                    "Items"
+                ],
+                "customSections": [
+                    "Main",
+                    "Mana",
+                    "Items"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "section": "Main"
                         },
-                        "Discard": {
-                            "isDefaultSection": true,
-                            "title": "Discard",
-                            "isHidden": "no",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
-                        },
-                        "Deck": {
-                            "isDefaultSection": true,
-                            "title": "Deck",
-                            "isHidden": "yes",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
-                        },
-                        "Stack": {
-                            "isDefaultSection": true,
-                            "title": "Stack",
-                            "isHidden": "no",
-                            "height": "HUGE",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true,
-                            "displayedTitle": "Pile"
-                        },
-                        "Exile": {
-                            "isDefaultSection": true,
-                            "title": "Exile",
-                            "isHidden": "yes",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
-                        },
-                        "Main": {
-                            "title": "Main",
-                            "isHidden": "no",
-                            "height": "MEDIUM",
-                            "alignment": "CENTER",
-                            "quickActionButtons": [
-                                "tap",
-                                "hand",
-                                "discard"
-                            ],
-                            "isHorizontalAllowed": true
-                        },
-                        "Mana": {
-                            "title": "Mana",
-                            "isHidden": "yes",
-                            "height": "SMALL",
-                            "alignment": "START",
-                            "noAutoPayTo": "true",
-                            "quickActionButtons": [
-                                "reveal",
-                                "tap-one"
-                            ],
-                            "isHorizontalAllowed": false,
-                            "displayedTitle": "Inkwell",
-                            "showHiddenCardInHistory": true
-                        },
-                        "Items": {
-                            "title": "Items",
-                            "defaultTypes": [
-                                "Item, Location"
-                            ],
-                            "isHidden": "no",
-                            "height": "SMALL",
-                            "alignment": "START",
-                            "isHorizontalAllowed": true
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Mana"
+                                },
+                                {
+                                    "section": "Items"
+                                }
+                            ]
                         }
+                    ]
+                },
+                "autoPlayFromHand": {
+                    "Action": "Stack",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "autoPlayFromStack": {
+                    "Action": "Discard",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "sectionsDict": {
+                    "Hand": {
+                        "isDefaultSection": true,
+                        "title": "Hand",
+                        "isHidden": "opponent-only",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "autoPayFrom": true,
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Discard": {
+                        "isDefaultSection": true,
+                        "title": "Discard",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Deck": {
+                        "isDefaultSection": true,
+                        "title": "Deck",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Pile"
+                    },
+                    "Exile": {
+                        "isDefaultSection": true,
+                        "title": "Exile",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Main": {
+                        "title": "Main",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "quickActionButtons": [
+                            "tap",
+                            "hand",
+                            "discard"
+                        ],
+                        "isHorizontalAllowed": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "noAutoPayTo": "true",
+                        "quickActionButtons": [
+                            "reveal",
+                            "tap-one"
+                        ],
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Inkwell",
+                        "showHiddenCardInHistory": true
+                    },
+                    "Items": {
+                        "title": "Items",
+                        "defaultTypes": [
+                            "Item, Location"
+                        ],
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "isHorizontalAllowed": true
                     }
                 }
             }
-        ]
+        }
     },
     "defaultRessources": {
         "backgrounds": [

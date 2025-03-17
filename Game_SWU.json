@@ -9,185 +9,195 @@
         ],
         "formats": [
             {
-                "title": "Classic",
+                "title": "Premier",
                 "customCategories": ["Leader", "Base"],
-                "mulligan": {
-                    "info": "You can draw a new hand once.",
-                    "startingHandSize": 6,
-                    "drawNewHand": true
-                },
-                "newTurn": {
-                    "drawOnStart": false,
-                    "sharedTurn": true,
-                    "drawPerTurn": 2
-                },
-                "countersStartingValues": [0],
-                "sections": {
-                    "allSections": [
-                        "Hand",
-                        "Discard",
-                        "Deck",
-                        "Stack",
-                        "Exile",
-                        "Ground",
-                        "Space",
-                        "Leader",
-                        "Base",
-                        "Mana"
-                    ],
-                    "customSections": [
-                        "Ground",
-                        "Space",
-                        "Leader",
-                        "Base",
-                        "Mana"
-                    ],
-                    "layout": {
-                        "direction": "row",
-                        "isSymetricalForOpponents": true,
-                        "content": [
-                            {
-                                "direction": "column",
-                                "content": [
-                                    {
-                                        "section": "Ground"
-                                    },
-                                    {
-                                        "section": "Mana"
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "width": "19vh", "justify-content": "start" },
-                                "content": [
-                                    {
-                                        "section": "Base"
-                                    },
-                                    {
-                                        "section": "Leader"
-                                    }
-                                ]
-                            },
-                            {
-                                "section": "Space"
-                            }
-                        ]
-                    },
-                    "categoriesAlreadyOnBoard": ["Leader", "Base"],
-                    "autoPlayFromHand": {
-                        "Unit - Ground": "Ground",
-                        "Unit - Space": "Space",
-                        "Leader": "Leader",
-                        "Base": "Base",
-                        "Event": "Stack",
-                        "Upgrade": "Stack"
-                    },
-                    "autoPlayFromStack": {
-                        "Unit - Ground": "Ground",
-                        "Unit - Space": "Space",
-                        "Leader": "Leader",
-                        "Base": "Base",
-                        "Event": "Discard"
-                    },
-                    "sectionsDict": {
-                        "Hand": {
-                            "isDefaultSection": true,
-                            "title": "Hand",
-                            "isHidden": "opponent-only",
-                            "height": "DEFAULT",
-                            "alignment": "CENTER",
-                            "autoPayFrom": true,
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
+                "gameplay": "Classic"
+            },
+            {
+                "title": "Twin Suns",
+                "customCategories": ["Leader", "Base"],
+                "gameplay": "Classic"
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "You can draw a new hand once.",
+                "startingHandSize": 6,
+                "drawNewHand": true
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": true,
+                "drawPerTurn": 2
+            },
+            "countersStartingValues": [0],
+            "sections": {
+                "allSections": [
+                    "Hand",
+                    "Discard",
+                    "Deck",
+                    "Stack",
+                    "Exile",
+                    "Ground",
+                    "Space",
+                    "Leader",
+                    "Base",
+                    "Mana"
+                ],
+                "customSections": [
+                    "Ground",
+                    "Space",
+                    "Leader",
+                    "Base",
+                    "Mana"
+                ],
+                "layout": {
+                    "direction": "row",
+                    "isSymetricalForOpponents": true,
+                    "content": [
+                        {
+                            "direction": "column",
+                            "content": [
+                                {
+                                    "section": "Ground"
+                                },
+                                {
+                                    "section": "Mana"
+                                }
+                            ]
                         },
-                        "Discard": {
-                            "isDefaultSection": true,
-                            "title": "Discard",
-                            "isHidden": "no",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
+                        {
+                            "direction": "column",
+                            "style": { "width": "19vh", "justify-content": "start" },
+                            "content": [
+                                {
+                                    "section": "Base"
+                                },
+                                {
+                                    "section": "Leader"
+                                }
+                            ]
                         },
-                        "Deck": {
-                            "isDefaultSection": true,
-                            "title": "Deck",
-                            "isHidden": "yes",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
-                        },
-                        "Stack": {
-                            "isDefaultSection": true,
-                            "title": "Stack",
-                            "isHidden": "no",
-                            "height": "HUGE",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true,
-                            "displayedTitle": "Pile"
-                        },
-                        "Exile": {
-                            "isDefaultSection": true,
-                            "title": "Exile",
-                            "isHidden": "yes",
-                            "height": "DEFAULT",
-                            "alignment": "NONE",
-                            "isHorizontalAllowed": false,
-                            "isGroupForbidden": true
-                        },
-                        "Ground": {
-                            "title": "Ground",
-                            "isHidden": "no",
-                            "height": "MEDIUM",
-                            "alignment": "CENTER",
-                            "isHorizontalAllowed": true,
-                            "enterTapped": true,
-                            "displayedTitle": "Ground units"
-                        },
-                        "Space": {
-                            "title": "Space",
-                            "isHidden": "no",
-                            "height": "MEDIUM",
-                            "alignment": "CENTER",
-                            "isHorizontalAllowed": true,
-                            "enterTapped": true,
-                            "displayedTitle": "Space units"
-                        },
-                        "Leader": {
-                            "title": "Leader",
-                            "isHidden": "no",
-                            "height": "DEFAULT",
-                            "alignment": "CENTER",
-                            "isHorizontalAllowed": true
-                        },
-                        "Base": {
-                            "title": "Base",
-                            "isHidden": "no",
-                            "height": "DEFAULT",
-                            "alignment": "CENTER",
-                            "isHorizontalAllowed": true
-                        },
-                        "Mana": {
-                            "title": "Mana",
-                            "isHidden": "yes",
-                            "height": "SMALL",
-                            "alignment": "START",
-                            "quickActionButtons": [
-                                "reveal",
-                                "tap-one"
-                            ],
-                            "opponentAlignment": "END",
-                            "noAutoPayTo": "true",
-                            "isHorizontalAllowed": false,
-                            "displayedTitle": "Ressources"
+                        {
+                            "section": "Space"
                         }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": ["Leader", "Base"],
+                "autoPlayFromHand": {
+                    "Unit - Ground": "Ground",
+                    "Unit - Space": "Space",
+                    "Leader": "Leader",
+                    "Base": "Base",
+                    "Event": "Stack",
+                    "Upgrade": "Stack"
+                },
+                "autoPlayFromStack": {
+                    "Unit - Ground": "Ground",
+                    "Unit - Space": "Space",
+                    "Leader": "Leader",
+                    "Base": "Base",
+                    "Event": "Discard"
+                },
+                "sectionsDict": {
+                    "Hand": {
+                        "isDefaultSection": true,
+                        "title": "Hand",
+                        "isHidden": "opponent-only",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "autoPayFrom": true,
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Discard": {
+                        "isDefaultSection": true,
+                        "title": "Discard",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Deck": {
+                        "isDefaultSection": true,
+                        "title": "Deck",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Pile"
+                    },
+                    "Exile": {
+                        "isDefaultSection": true,
+                        "title": "Exile",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true
+                    },
+                    "Ground": {
+                        "title": "Ground",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "enterTapped": true,
+                        "displayedTitle": "Ground units"
+                    },
+                    "Space": {
+                        "title": "Space",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "enterTapped": true,
+                        "displayedTitle": "Space units"
+                    },
+                    "Leader": {
+                        "title": "Leader",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Base": {
+                        "title": "Base",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "quickActionButtons": [
+                            "reveal",
+                            "tap-one"
+                        ],
+                        "opponentAlignment": "END",
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Ressources"
                     }
                 }
             }
-        ]
+        }
     },
     "defaultRessources": {
         "backgrounds": [
