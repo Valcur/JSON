@@ -30,6 +30,10 @@
             "newTurn": {
                 "drawOnStart": false,
                 "sharedTurn": true,
+                "firstPlayerToken": {
+                    "name": "Initiative",
+                    "image": "https://i.imgur.com/Zr2oV9p.png"
+                },
                 "drawPerTurn": 2
             },
             "countersStartingValues": [0],
@@ -204,7 +208,7 @@
             "https://i.imgur.com/FMrbNER.jpeg",
             "https://i.imgur.com/KmXSVQp.jpeg",
             "https://i.imgur.com/CFOwlKx.jpeg",
-            "https://i.imgur.com/NCRFA6J.jpeg",
+            "https://i.imgur.com/n2EYbyu.jpeg",
             "https://i.imgur.com/C3LAixE.jpeg",
             "https://i.imgur.com/EZ9z8z6.jpeg",
             "https://i.imgur.com/CKuiePb.jpeg"
