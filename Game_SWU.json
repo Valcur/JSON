@@ -10,12 +10,10 @@
         "formats": [
             {
                 "title": "Premier",
-                "customCategories": ["Leader", "Base"],
                 "gameplay": "Classic"
             },
             {
                 "title": "Twin Suns",
-                "customCategories": ["Leader", "Base"],
                 "gameplay": "Classic"
             }
         ]
