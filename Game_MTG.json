@@ -37,7 +37,6 @@
             },
             "countersStartingValues": [40, 0],
             "sections": {
-                "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other", "Commander"],
                 "customSections": ["Creatures", "Mana", "Other", "Commander"],
                 "layout": {
                     "direction": "column",
@@ -89,52 +88,6 @@
                     "Battle": "Other"
                 },
                 "sectionsDict": {
-                    "Hand": {
-                        "isDefaultSection": true,
-                        "title": "Hand",
-                        "isHidden": "opponent-only",
-                        "height": "DEFAULT",
-                        "alignment": "CENTER",
-                        "autoPayFrom": true,
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Discard": {
-                        "isDefaultSection": true,
-                        "title": "Discard",
-                        "isHidden": "no",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Deck": {
-                        "isDefaultSection": true,
-                        "title": "Deck",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Stack": {
-                        "isDefaultSection": true,
-                        "title": "Stack",
-                        "isHidden": "no",
-                        "height": "HUGE",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Exile": {
-                        "isDefaultSection": true,
-                        "title": "Exile",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
                     "Creatures": {
                         "title": "Creatures",
                         "isHidden": "no",
@@ -182,7 +135,6 @@
             },
             "countersStartingValues": [20, 0],
             "sections": {
-                "allSections": ["Hand", "Discard", "Deck", "Stack", "Exile", "Creatures", "Mana", "Other"],
                 "customSections": ["Creatures", "Mana", "Other"],
                 "layout": {
                     "direction": "column",
@@ -224,52 +176,6 @@
                     "Battle": "Other"
                 },
                 "sectionsDict": {
-                    "Hand": {
-                        "isDefaultSection": true,
-                        "title": "Hand",
-                        "isHidden": "opponent-only",
-                        "height": "DEFAULT",
-                        "alignment": "CENTER",
-                        "autoPayFrom": true,
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Discard": {
-                        "isDefaultSection": true,
-                        "title": "Discard",
-                        "isHidden": "no",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Deck": {
-                        "isDefaultSection": true,
-                        "title": "Deck",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Stack": {
-                        "isDefaultSection": true,
-                        "title": "Stack",
-                        "isHidden": "no",
-                        "height": "HUGE",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Exile": {
-                        "isDefaultSection": true,
-                        "title": "Exile",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
                     "Creatures": {
                         "title": "Creatures",
                         "isHidden": "no",

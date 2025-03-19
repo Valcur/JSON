@@ -38,18 +38,6 @@
             },
             "countersStartingValues": [0],
             "sections": {
-                "allSections": [
-                    "Hand",
-                    "Discard",
-                    "Deck",
-                    "Stack",
-                    "Exile",
-                    "Ground",
-                    "Space",
-                    "Leader",
-                    "Base",
-                    "Mana"
-                ],
                 "customSections": [
                     "Ground",
                     "Space",
@@ -106,34 +94,6 @@
                     "Event": "Discard"
                 },
                 "sectionsDict": {
-                    "Hand": {
-                        "isDefaultSection": true,
-                        "title": "Hand",
-                        "isHidden": "opponent-only",
-                        "height": "DEFAULT",
-                        "alignment": "CENTER",
-                        "autoPayFrom": true,
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Discard": {
-                        "isDefaultSection": true,
-                        "title": "Discard",
-                        "isHidden": "no",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
-                    "Deck": {
-                        "isDefaultSection": true,
-                        "title": "Deck",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
-                    },
                     "Stack": {
                         "isDefaultSection": true,
                         "title": "Stack",
@@ -143,15 +103,6 @@
                         "isHorizontalAllowed": false,
                         "isGroupForbidden": true,
                         "displayedTitle": "Pile"
-                    },
-                    "Exile": {
-                        "isDefaultSection": true,
-                        "title": "Exile",
-                        "isHidden": "yes",
-                        "height": "DEFAULT",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true
                     },
                     "Ground": {
                         "title": "Ground",
