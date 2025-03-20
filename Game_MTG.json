@@ -20,6 +20,10 @@
             {
                 "title": "Standard",
                 "gameplay": "Classic"
+            },
+            {
+                "title": "Pauper",
+                "gameplay": "Classic"
             }
         ]
     },
@@ -109,7 +113,7 @@
                         "defaultTypes": ["Item, Location"],
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "START",
+                        "alignment": "END",
                         "isHorizontalAllowed": true
                     },
                     "Commander": {
@@ -197,7 +201,7 @@
                         "defaultTypes": ["Item, Location"],
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "START",
+                        "alignment": "END",
                         "isHorizontalAllowed": true
                     }
                 }
