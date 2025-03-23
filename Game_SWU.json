@@ -34,7 +34,29 @@
                 },
                 "drawPerTurn": 2
             },
-            "countersStartingValues": [0],
+            "tokens": [
+                {
+                    "name": "Initiative",
+                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": false
+                },
+                {
+                    "name": "Blast",
+                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": true
+                },
+                {
+                    "name": "Plan",
+                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": true
+                }
+            ],
+            "countersStartingValues": [
+                0
+            ],
             "sections": {
                 "customSections": [
                     "Ground",
@@ -60,7 +82,10 @@
                         },
                         {
                             "direction": "column",
-                            "style": { "width": "19vh", "justify-content": "start" },
+                            "style": {
+                                "width": "19vh",
+                                "justify-content": "start"
+                            },
                             "content": [
                                 {
                                     "section": "Base"
@@ -75,7 +100,10 @@
                         }
                     ]
                 },
-                "categoriesAlreadyOnBoard": ["Leader", "Base"],
+                "categoriesAlreadyOnBoard": [
+                    "Leader",
+                    "Base"
+                ],
                 "autoPlayFromHand": {
                     "Unit - Ground": "Ground",
                     "Unit - Space": "Space",
