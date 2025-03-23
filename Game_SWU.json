@@ -43,13 +43,13 @@
                 },
                 {
                     "name": "Blast",
-                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "image": "https://i.imgur.com/gW5E0z1.png",
                     "isUnique": true,
                     "leavesAtEndOfTurn": true
                 },
                 {
                     "name": "Plan",
-                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "image": "https://i.imgur.com/hDR7qTd.png",
                     "isUnique": true,
                     "leavesAtEndOfTurn": true
                 }
