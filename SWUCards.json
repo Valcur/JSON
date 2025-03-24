@@ -22420,5 +22420,8659 @@
       "UNDERWORLD",
       "HUTT"
     ]
+  },
+  "JTL_163": {
+    "id": "JTL_163",
+    "face": {
+      "front": {
+        "name": "AT-DP Occupier",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/163.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "AT-DP Occupier",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "JTL_058": {
+    "id": "JTL_058",
+    "face": {
+      "front": {
+        "name": "Academy Graduate",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Academy Graduate",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_114": {
+    "id": "JTL_114",
+    "face": {
+      "front": {
+        "name": "Adept ARC-170",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adept ARC-170",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_016": {
+    "id": "JTL_016",
+    "face": {
+      "front": {
+        "name": "Admiral Ackbar, It's A Trap!",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/016-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Ackbar, It's A Trap!",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/016-b.png"
+      }
+    },
+    "name": "Admiral Ackbar, It's A Trap!",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 8,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_1012": {
+    "id": "JTL_1012",
+    "face": {
+      "front": {
+        "name": "Admiral Ackbar, It's A Trap!",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1012-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Ackbar, It's A Trap!",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1012-b.png"
+      }
+    },
+    "name": "Admiral Ackbar, It's A Trap!",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 8,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_007": {
+    "id": "JTL_007",
+    "face": {
+      "front": {
+        "name": "Admiral Holdo, We're Not Alone",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/007-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Holdo, We're Not Alone",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/007-b.png"
+      }
+    },
+    "name": "Admiral Holdo, We're Not Alone",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 8,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_1003": {
+    "id": "JTL_1003",
+    "face": {
+      "front": {
+        "name": "Admiral Holdo, We're Not Alone",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1003-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Holdo, We're Not Alone",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1003-b.png"
+      }
+    },
+    "name": "Admiral Holdo, We're Not Alone",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 8,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_005": {
+    "id": "JTL_005",
+    "face": {
+      "front": {
+        "name": "Admiral Piett, Commanding the Armada",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/005-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Piett, Commanding the Armada",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/005-b.png"
+      }
+    },
+    "name": "Admiral Piett, Commanding the Armada",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_1001": {
+    "id": "JTL_1001",
+    "face": {
+      "front": {
+        "name": "Admiral Piett, Commanding the Armada",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1001-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Piett, Commanding the Armada",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1001-b.png"
+      }
+    },
+    "name": "Admiral Piett, Commanding the Armada",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_014": {
+    "id": "JTL_014",
+    "face": {
+      "front": {
+        "name": "Admiral Trench, chk-chk-chk-chk",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/014-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Trench, chk-chk-chk-chk",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/014-b.png"
+      }
+    },
+    "name": "Admiral Trench, chk-chk-chk-chk",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_1010": {
+    "id": "JTL_1010",
+    "face": {
+      "front": {
+        "name": "Admiral Trench, chk-chk-chk-chk",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1010-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Admiral Trench, chk-chk-chk-chk",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1010-b.png"
+      }
+    },
+    "name": "Admiral Trench, chk-chk-chk-chk",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_047": {
+    "id": "JTL_047",
+    "face": {
+      "front": {
+        "name": "Admiral Yularen, Fleet Coordinator",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Yularen, Fleet Coordinator",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_201": {
+    "id": "JTL_201",
+    "face": {
+      "front": {
+        "name": "Ahsoka Tano, Chasing Whispers",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/201.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahsoka Tano, Chasing Whispers",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "FORCE"
+    ]
+  },
+  "JTL_125": {
+    "id": "JTL_125",
+    "face": {
+      "front": {
+        "name": "Air Superiority",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Air Superiority",
+    "type": "Event",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_122": {
+    "id": "JTL_122",
+    "face": {
+      "front": {
+        "name": "All Wings Report In",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "All Wings Report In",
+    "type": "Event",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "JTL_133": {
+    "id": "JTL_133",
+    "face": {
+      "front": {
+        "name": "Allegiant General Pryde, Ruthless and Loyal",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Allegiant General Pryde, Ruthless and Loyal",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_197": {
+    "id": "JTL_197",
+    "face": {
+      "front": {
+        "name": "Anakin Skywalker, I'll Try Spinning",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/197.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anakin Skywalker, I'll Try Spinning",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE",
+      "PILOT"
+    ]
+  },
+  "JTL_041": {
+    "id": "JTL_041",
+    "face": {
+      "front": {
+        "name": "Annihilator, Tagge's Flagship",
+        "type": "Unit - Space",
+        "cost": 11,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annihilator, Tagge's Flagship",
+    "type": "Unit - Space",
+    "cost": 11,
+    "rarity": "Legendary",
+    "power": 12,
+    "HP": 12,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1018": {
+    "id": "JTL_1018",
+    "face": {
+      "front": {
+        "name": "Annihilator, Tagge's Flagship",
+        "type": "Unit - Space",
+        "cost": 11,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annihilator, Tagge's Flagship",
+    "type": "Unit - Space",
+    "cost": 11,
+    "rarity": "Legendary",
+    "power": 12,
+    "HP": 12,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_091": {
+    "id": "JTL_091",
+    "face": {
+      "front": {
+        "name": "Apology Accepted",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apology Accepted",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_001": {
+    "id": "JTL_001",
+    "face": {
+      "front": {
+        "name": "Asajj Ventress, I Work Alone",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/001-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Asajj Ventress, I Work Alone",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/001-b.png"
+      }
+    },
+    "name": "Asajj Ventress, I Work Alone",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_997": {
+    "id": "JTL_997",
+    "face": {
+      "front": {
+        "name": "Asajj Ventress, I Work Alone",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/997-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Asajj Ventress, I Work Alone",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/997-b.png"
+      }
+    },
+    "name": "Asajj Ventress, I Work Alone",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_057": {
+    "id": "JTL_057",
+    "face": {
+      "front": {
+        "name": "Astromech Pilot",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Astromech Pilot",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "DROID",
+      "PILOT"
+    ]
+  },
+  "JTL_261": {
+    "id": "JTL_261",
+    "face": {
+      "front": {
+        "name": "Attack Run",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/261.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attack Run",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_145": {
+    "id": "JTL_145",
+    "face": {
+      "front": {
+        "name": "BB-8, Happy Beeps",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/145.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BB-8, Happy Beeps",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "DROID",
+      "PILOT"
+    ]
+  },
+  "JTL_037": {
+    "id": "JTL_037",
+    "face": {
+      "front": {
+        "name": "Banshee, Crippling Command",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banshee, Crippling Command",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1015": {
+    "id": "JTL_1015",
+    "face": {
+      "front": {
+        "name": "Banshee, Crippling Command",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banshee, Crippling Command",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_228": {
+    "id": "JTL_228",
+    "face": {
+      "front": {
+        "name": "Barrel Roll",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/228.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Barrel Roll",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_150": {
+    "id": "JTL_150",
+    "face": {
+      "front": {
+        "name": "Biggs Darklighter, They'll Never Stop Us",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/150.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Biggs Darklighter, They'll Never Stop Us",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_1033": {
+    "id": "JTL_1033",
+    "face": {
+      "front": {
+        "name": "Black One, Straight At Them",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black One, Straight At Them",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_147": {
+    "id": "JTL_147",
+    "face": {
+      "front": {
+        "name": "Black One, Straight At Them",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/147.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black One, Straight At Them",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_202": {
+    "id": "JTL_202",
+    "face": {
+      "front": {
+        "name": "Black Squadron Scout Wing",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/202.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Squadron Scout Wing",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_199": {
+    "id": "JTL_199",
+    "face": {
+      "front": {
+        "name": "Blade Squadron B-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/199.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade Squadron B-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_096": {
+    "id": "JTL_096",
+    "face": {
+      "front": {
+        "name": "Blue Leader, Scarif Air Support",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/096.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Leader, Scarif Air Support",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1026": {
+    "id": "JTL_1026",
+    "face": {
+      "front": {
+        "name": "Blue Leader, Scarif Air Support",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Leader, Scarif Air Support",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_215": {
+    "id": "JTL_215",
+    "face": {
+      "front": {
+        "name": "BoShek, Charismatic Smuggler",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/215.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BoShek, Charismatic Smuggler",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "PILOT"
+    ]
+  },
+  "JTL_009": {
+    "id": "JTL_009",
+    "face": {
+      "front": {
+        "name": "Boba Fett, Any Methods Necessary",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/009-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Boba Fett, Any Methods Necessary",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/009-b.png"
+      }
+    },
+    "name": "Boba Fett, Any Methods Necessary",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_1005": {
+    "id": "JTL_1005",
+    "face": {
+      "front": {
+        "name": "Boba Fett, Any Methods Necessary",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1005-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Boba Fett, Any Methods Necessary",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1005-b.png"
+      }
+    },
+    "name": "Boba Fett, Any Methods Necessary",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_189": {
+    "id": "JTL_189",
+    "face": {
+      "front": {
+        "name": "Boba Fett, Feared Bounty Hunter",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/189.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boba Fett, Feared Bounty Hunter",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_187": {
+    "id": "JTL_187",
+    "face": {
+      "front": {
+        "name": "Bossk, Hunt By Instinct",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/187.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bossk, Hunt By Instinct",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_107": {
+    "id": "JTL_107",
+    "face": {
+      "front": {
+        "name": "Bunker Defender",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bunker Defender",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "JTL_071": {
+    "id": "JTL_071",
+    "face": {
+      "front": {
+        "name": "CR90 Relief Runner",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "CR90 Relief Runner",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_010": {
+    "id": "JTL_010",
+    "face": {
+      "front": {
+        "name": "Captain Phasma, Chrome Dome",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/010-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Captain Phasma, Chrome Dome",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/010-b.png"
+      }
+    },
+    "name": "Captain Phasma, Chrome Dome",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "TROOPER"
+    ]
+  },
+  "JTL_088": {
+    "id": "JTL_088",
+    "face": {
+      "front": {
+        "name": "Captain Phasma, On My Command",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/088.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Phasma, On My Command",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "TROOPER"
+    ]
+  },
+  "JTL_1006": {
+    "id": "JTL_1006",
+    "face": {
+      "front": {
+        "name": "Captain Phasma, Chrome Dome",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1006-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Captain Phasma, Chrome Dome",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1006-b.png"
+      }
+    },
+    "name": "Captain Phasma, Chrome Dome",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "TROOPER"
+    ]
+  },
+  "JTL_161": {
+    "id": "JTL_161",
+    "face": {
+      "front": {
+        "name": "Captain Tarkin, Full Forward Assault",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/161.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Tarkin, Full Forward Assault",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_048": {
+    "id": "JTL_048",
+    "face": {
+      "front": {
+        "name": "Cassian Andor, Threading the Eye",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cassian Andor, Threading the Eye",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_195": {
+    "id": "JTL_195",
+    "face": {
+      "front": {
+        "name": "Cat and Mouse",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/195.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cat and Mouse",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_164": {
+    "id": "JTL_164",
+    "face": {
+      "front": {
+        "name": "Cham Syndulla, Rallying Ryloth",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cham Syndulla, Rallying Ryloth",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "TWI'LEK"
+    ]
+  },
+  "JTL_103": {
+    "id": "JTL_103",
+    "face": {
+      "front": {
+        "name": "Chewbacca, Faithful First Mate",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chewbacca, Faithful First Mate",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "WOOKIEE",
+      "PILOT"
+    ]
+  },
+  "JTL_039": {
+    "id": "JTL_039",
+    "face": {
+      "front": {
+        "name": "Chimaera, Reinforcing the Center",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimaera, Reinforcing the Center",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1017": {
+    "id": "JTL_1017",
+    "face": {
+      "front": {
+        "name": "Chimaera, Reinforcing the Center",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimaera, Reinforcing the Center",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_029": {
+    "id": "JTL_029",
+    "face": {
+      "front": {
+        "name": "Chopper Base, Atollon",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/029-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chopper Base, Atollon",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_019": {
+    "id": "JTL_019",
+    "face": {
+      "front": {
+        "name": "City in the Clouds, Cloud City",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/019-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "City in the Clouds, Cloud City",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_067": {
+    "id": "JTL_067",
+    "face": {
+      "front": {
+        "name": "Cloaked StarViper",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cloaked StarViper",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_115": {
+    "id": "JTL_115",
+    "face": {
+      "front": {
+        "name": "Clone Combat Squadron",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/115.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clone Combat Squadron",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_108": {
+    "id": "JTL_108",
+    "face": {
+      "front": {
+        "name": "Clone Pilot",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clone Pilot",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "PILOT"
+    ]
+  },
+  "JTL_074": {
+    "id": "JTL_074",
+    "face": {
+      "front": {
+        "name": "Close the Shield Gate",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Close the Shield Gate",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_021": {
+    "id": "JTL_021",
+    "face": {
+      "front": {
+        "name": "Colossus, Castilon",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/021-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Colossus, Castilon",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 35,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_235": {
+    "id": "JTL_235",
+    "face": {
+      "front": {
+        "name": "Commandeer",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/235.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commandeer",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "JTL_205": {
+    "id": "JTL_205",
+    "face": {
+      "front": {
+        "name": "Commence Patrol",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/205.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commence Patrol",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_216": {
+    "id": "JTL_216",
+    "face": {
+      "front": {
+        "name": "Contracted Hunter",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/216.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Contracted Hunter",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "JTL_184": {
+    "id": "JTL_184",
+    "face": {
+      "front": {
+        "name": "Contracted Jumpmaster",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/184.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Contracted Jumpmaster",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_253": {
+    "id": "JTL_253",
+    "face": {
+      "front": {
+        "name": "Coordinated Front",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/253.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coordinated Front",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "JTL_258": {
+    "id": "JTL_258",
+    "face": {
+      "front": {
+        "name": "Corellian Freighter",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/258.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corellian Freighter",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_059": {
+    "id": "JTL_059",
+    "face": {
+      "front": {
+        "name": "Corporate Defense Shuttle",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/059.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corporate Defense Shuttle",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_225": {
+    "id": "JTL_225",
+    "face": {
+      "front": {
+        "name": "Corporate Light Cruiser",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/225.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corporate Light Cruiser",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_038": {
+    "id": "JTL_038",
+    "face": {
+      "front": {
+        "name": "Corvus, Inferno Squadron Raider",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corvus, Inferno Squadron Raider",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1016": {
+    "id": "JTL_1016",
+    "face": {
+      "front": {
+        "name": "Corvus, Inferno Squadron Raider",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corvus, Inferno Squadron Raider",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_076": {
+    "id": "JTL_076",
+    "face": {
+      "front": {
+        "name": "Covering the Wing",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Covering the Wing",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_158": {
+    "id": "JTL_158",
+    "face": {
+      "front": {
+        "name": "Crackshot V-Wing",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/158.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crackshot V-Wing",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_052": {
+    "id": "JTL_052",
+    "face": {
+      "front": {
+        "name": "D'Qar Cargo Frigate",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "D'Qar Cargo Frigate",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_196": {
+    "id": "JTL_196",
+    "face": {
+      "front": {
+        "name": "Dagger Squadron Pilot",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/196.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dagger Squadron Pilot",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_006": {
+    "id": "JTL_006",
+    "face": {
+      "front": {
+        "name": "Darth Vader, Victor Squadron Leader",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/006-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Vader, Victor Squadron Leader",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/006-b.png"
+      }
+    },
+    "name": "Darth Vader, Victor Squadron Leader",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH",
+      "PILOT"
+    ]
+  },
+  "JTL_1002": {
+    "id": "JTL_1002",
+    "face": {
+      "front": {
+        "name": "Darth Vader, Victor Squadron Leader",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1002-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Vader, Victor Squadron Leader",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1002-b.png"
+      }
+    },
+    "name": "Darth Vader, Victor Squadron Leader",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH",
+      "PILOT"
+    ]
+  },
+  "JTL_142": {
+    "id": "JTL_142",
+    "face": {
+      "front": {
+        "name": "Darth Vader, Scourge of Squadrons",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/142.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Vader, Scourge of Squadrons",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 7,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH",
+      "PILOT"
+    ]
+  },
+  "JTL_024": {
+    "id": "JTL_024",
+    "face": {
+      "front": {
+        "name": "Data Vault, Scarif",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/024-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Data Vault, Scarif",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 33,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_217": {
+    "id": "JTL_217",
+    "face": {
+      "front": {
+        "name": "Death Space Skirmisher",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/217.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Space Skirmisher",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_260": {
+    "id": "JTL_260",
+    "face": {
+      "front": {
+        "name": "Death Star Plans",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/260.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Star Plans",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "ITEM"
+    ]
+  },
+  "JTL_138": {
+    "id": "JTL_138",
+    "face": {
+      "front": {
+        "name": "Decimator of Dissidents",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/138.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Decimator of Dissidents",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_254": {
+    "id": "JTL_254",
+    "face": {
+      "front": {
+        "name": "Dedicated Wingmen",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/254.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dedicated Wingmen",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "JTL_139": {
+    "id": "JTL_139",
+    "face": {
+      "front": {
+        "name": "Dengar, Crude and Slovenly",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/139.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dengar, Crude and Slovenly",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_060": {
+    "id": "JTL_060",
+    "face": {
+      "front": {
+        "name": "Desperate Commando",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desperate Commando",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "TROOPER"
+    ]
+  },
+  "JTL_159": {
+    "id": "JTL_159",
+    "face": {
+      "front": {
+        "name": "Determined Recruit",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/159.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Determined Recruit",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 1,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_1032": {
+    "id": "JTL_1032",
+    "face": {
+      "front": {
+        "name": "Devastator, Hunting the Rebellion",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devastator, Hunting the Rebellion",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 9,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_143": {
+    "id": "JTL_143",
+    "face": {
+      "front": {
+        "name": "Devastator, Hunting the Rebellion",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devastator, Hunting the Rebellion",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 9,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_248": {
+    "id": "JTL_248",
+    "face": {
+      "front": {
+        "name": "Dilapidated Ski Speeder",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/248.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dilapidated Ski Speeder",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "JTL_078": {
+    "id": "JTL_078",
+    "face": {
+      "front": {
+        "name": "Direct Hit",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/078.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Direct Hit",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_032": {
+    "id": "JTL_032",
+    "face": {
+      "front": {
+        "name": "Director Krennic, On the Verge Of Greatness",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Director Krennic, On the Verge Of Greatness",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_229": {
+    "id": "JTL_229",
+    "face": {
+      "front": {
+        "name": "Diversion",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/229.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diversion",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_123": {
+    "id": "JTL_123",
+    "face": {
+      "front": {
+        "name": "Dogfight",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dogfight",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_116": {
+    "id": "JTL_116",
+    "face": {
+      "front": {
+        "name": "Dornean Gunship",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dornean Gunship",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_120": {
+    "id": "JTL_120",
+    "face": {
+      "front": {
+        "name": "Dorsal Turret",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dorsal Turret",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "MODIFICATION",
+      "WEAPON"
+    ]
+  },
+  "JTL_162": {
+    "id": "JTL_162",
+    "face": {
+      "front": {
+        "name": "Droid Missile Platform",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/162.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Droid Missile Platform",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_112": {
+    "id": "JTL_112",
+    "face": {
+      "front": {
+        "name": "Eager Escort Fighter",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/112.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eager Escort Fighter",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 1,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_044": {
+    "id": "JTL_044",
+    "face": {
+      "front": {
+        "name": "Echo Base Engineer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Echo Base Engineer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "JTL_126": {
+    "id": "JTL_126",
+    "face": {
+      "front": {
+        "name": "Eject",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eject",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_230": {
+    "id": "JTL_230",
+    "face": {
+      "front": {
+        "name": "Electromagnetic Pulse",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/230.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Electromagnetic Pulse",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_262": {
+    "id": "JTL_262",
+    "face": {
+      "front": {
+        "name": "Evasive Maneuver",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/262.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evasive Maneuver",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "JTL_090": {
+    "id": "JTL_090",
+    "face": {
+      "front": {
+        "name": "Executor, Might of the Empire",
+        "type": "Unit - Space",
+        "cost": 11,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Executor, Might of the Empire",
+    "type": "Unit - Space",
+    "cost": 11,
+    "rarity": "Legendary",
+    "power": 12,
+    "HP": 12,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1025": {
+    "id": "JTL_1025",
+    "face": {
+      "front": {
+        "name": "Executor, Might of the Empire",
+        "type": "Unit - Space",
+        "cost": 11,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Executor, Might of the Empire",
+    "type": "Unit - Space",
+    "cost": 11,
+    "rarity": "Legendary",
+    "power": 12,
+    "HP": 12,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_178": {
+    "id": "JTL_178",
+    "face": {
+      "front": {
+        "name": "Face Off",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/178.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Face Off",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_1046": {
+    "id": "JTL_1046",
+    "face": {
+      "front": {
+        "name": "Fett's Firespray, Feared Silhouette",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fett's Firespray, Feared Silhouette",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_240": {
+    "id": "JTL_240",
+    "face": {
+      "front": {
+        "name": "Fett's Firespray, Feared Silhouette",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/240.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fett's Firespray, Feared Silhouette",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_173": {
+    "id": "JTL_173",
+    "face": {
+      "front": {
+        "name": "Fight Fire With Fire",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fight Fire With Fire",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_1041": {
+    "id": "JTL_1041",
+    "face": {
+      "front": {
+        "name": "Fireball, An Explosion With Wings",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fireball, An Explosion With Wings",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_198": {
+    "id": "JTL_198",
+    "face": {
+      "front": {
+        "name": "Fireball, An Explosion With Wings",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/198.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fireball, An Explosion With Wings",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_132": {
+    "id": "JTL_132",
+    "face": {
+      "front": {
+        "name": "First Order Stormtrooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Order Stormtrooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "TROOPER"
+    ]
+  },
+  "JTL_081": {
+    "id": "JTL_081",
+    "face": {
+      "front": {
+        "name": "First Order TIE Fighter",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Order TIE Fighter",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_257": {
+    "id": "JTL_257",
+    "face": {
+      "front": {
+        "name": "Flanking Fang Fighter",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/257.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flanking Fang Fighter",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_040": {
+    "id": "JTL_040",
+    "face": {
+      "front": {
+        "name": "Fleet Interdictor",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fleet Interdictor",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_206": {
+    "id": "JTL_206",
+    "face": {
+      "front": {
+        "name": "Fly Casual",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/206.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fly Casual",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "JTL_129": {
+    "id": "JTL_129",
+    "face": {
+      "front": {
+        "name": "Focus Fire",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Focus Fire",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_148": {
+    "id": "JTL_148",
+    "face": {
+      "front": {
+        "name": "Frisk, Vanguard Loudmouth",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/148.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frisk, Vanguard Loudmouth",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC",
+      "PILOT"
+    ]
+  },
+  "JTL_117": {
+    "id": "JTL_117",
+    "face": {
+      "front": {
+        "name": "General Draven, Doing What Must Be Done",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Draven, Doing What Must Be Done",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_134": {
+    "id": "JTL_134",
+    "face": {
+      "front": {
+        "name": "General Hux, No Terms, No Surrender",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Hux, No Terms, No Surrender",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_054": {
+    "id": "JTL_054",
+    "face": {
+      "front": {
+        "name": "Gold Leader, Fastest Ship in the Fleet",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold Leader, Fastest Ship in the Fleet",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_1021": {
+    "id": "JTL_1021",
+    "face": {
+      "front": {
+        "name": "Gold Leader, Fastest Ship in the Fleet",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold Leader, Fastest Ship in the Fleet",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_002": {
+    "id": "JTL_002",
+    "face": {
+      "front": {
+        "name": "Grand Admiral Thrawn, ...How Unfortunate",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/002-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Grand Admiral Thrawn, ...How Unfortunate",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/002-b.png"
+      }
+    },
+    "name": "Grand Admiral Thrawn, ...How Unfortunate",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_998": {
+    "id": "JTL_998",
+    "face": {
+      "front": {
+        "name": "Grand Admiral Thrawn, ...How Unfortunate",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/998-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Grand Admiral Thrawn, ...How Unfortunate",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/998-b.png"
+      }
+    },
+    "name": "Grand Admiral Thrawn, ...How Unfortunate",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_073": {
+    "id": "JTL_073",
+    "face": {
+      "front": {
+        "name": "Grim Valor",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grim Valor",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "JTL_218": {
+    "id": "JTL_218",
+    "face": {
+      "front": {
+        "name": "Guerilla Soldier",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/218.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerilla Soldier",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "TWI'LEK",
+      "TROOPER"
+    ]
+  },
+  "JTL_017": {
+    "id": "JTL_017",
+    "face": {
+      "front": {
+        "name": "Han Solo, Never Tell Me the Odds",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/017-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Han Solo, Never Tell Me the Odds",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/017-b.png"
+      }
+    },
+    "name": "Han Solo, Never Tell Me the Odds",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_1013": {
+    "id": "JTL_1013",
+    "face": {
+      "front": {
+        "name": "Han Solo, Never Tell Me the Odds",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1013-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Han Solo, Never Tell Me the Odds",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1013-b.png"
+      }
+    },
+    "name": "Han Solo, Never Tell Me the Odds",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_203": {
+    "id": "JTL_203",
+    "face": {
+      "front": {
+        "name": "Han Solo, Has His Moments",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/203.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Han Solo, Has His Moments",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_194": {
+    "id": "JTL_194",
+    "face": {
+      "front": {
+        "name": "Heartless Tactics",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/194.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heartless Tactics",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_045": {
+    "id": "JTL_045",
+    "face": {
+      "front": {
+        "name": "Hera Syndulla, We've Lost Enough",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hera Syndulla, We've Lost Enough",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "TWI'LEK",
+      "SPECTRE",
+      "PILOT"
+    ]
+  },
+  "JTL_1043": {
+    "id": "JTL_1043",
+    "face": {
+      "front": {
+        "name": "Home One, On My Mark",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Home One, On My Mark",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 7,
+    "HP": 8,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_204": {
+    "id": "JTL_204",
+    "face": {
+      "front": {
+        "name": "Home One, On My Mark",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/204.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Home One, On My Mark",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 7,
+    "HP": 8,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_113": {
+    "id": "JTL_113",
+    "face": {
+      "front": {
+        "name": "Homestead Militia",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Homestead Militia",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "TROOPER"
+    ]
+  },
+  "JTL_056": {
+    "id": "JTL_056",
+    "face": {
+      "front": {
+        "name": "Hondo Ohnaka, Superfluous Swindler",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hondo Ohnaka, Superfluous Swindler",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Legendary",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "JTL_246": {
+    "id": "JTL_246",
+    "face": {
+      "front": {
+        "name": "Hopeful Volunteer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/246.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hopeful Volunteer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_174": {
+    "id": "JTL_174",
+    "face": {
+      "front": {
+        "name": "Hotshot Maneuver",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/174.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hotshot Maneuver",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_1038": {
+    "id": "JTL_1038",
+    "face": {
+      "front": {
+        "name": "Hound's Tooth, Reliable and Deadly",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hound's Tooth, Reliable and Deadly",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_185": {
+    "id": "JTL_185",
+    "face": {
+      "front": {
+        "name": "Hound's Tooth, Reliable and Deadly",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/185.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hound's Tooth, Reliable and Deadly",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_165": {
+    "id": "JTL_165",
+    "face": {
+      "front": {
+        "name": "Hunting Aggressor",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/165.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunting Aggressor",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_193": {
+    "id": "JTL_193",
+    "face": {
+      "front": {
+        "name": "I Have You Now",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/193.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Have You Now",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_1031": {
+    "id": "JTL_1031",
+    "face": {
+      "front": {
+        "name": "IG-2000, Assassin's Aggressor",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IG-2000, Assassin's Aggressor",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_140": {
+    "id": "JTL_140",
+    "face": {
+      "front": {
+        "name": "IG-2000, Assassin's Aggressor",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/140.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IG-2000, Assassin's Aggressor",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_141": {
+    "id": "JTL_141",
+    "face": {
+      "front": {
+        "name": "IG-88, Murderous Phlutdroid",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/141.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IG-88, Murderous Phlutdroid",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "DROID",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_036": {
+    "id": "JTL_036",
+    "face": {
+      "front": {
+        "name": "Iden Versio, Adapt or Die",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iden Versio, Adapt or Die",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_192": {
+    "id": "JTL_192",
+    "face": {
+      "front": {
+        "name": "In Debt to Crimson Dawn",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "In Debt to Crimson Dawn",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "CONDITION"
+    ]
+  },
+  "JTL_077": {
+    "id": "JTL_077",
+    "face": {
+      "front": {
+        "name": "In the Heat of Battle",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "In the Heat of Battle",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "DISASTER"
+    ]
+  },
+  "JTL_211": {
+    "id": "JTL_211",
+    "face": {
+      "front": {
+        "name": "Independent Smuggler",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/211.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Independent Smuggler",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "PILOT"
+    ]
+  },
+  "JTL_168": {
+    "id": "JTL_168",
+    "face": {
+      "front": {
+        "name": "Insurgent Saboteurs",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/168.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insurgent Saboteurs",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "JTL_034": {
+    "id": "JTL_034",
+    "face": {
+      "front": {
+        "name": "Interceptor Ace",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Interceptor Ace",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_1040": {
+    "id": "JTL_1040",
+    "face": {
+      "front": {
+        "name": "Invincible, Naval Adversary",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invincible, Naval Adversary",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_191": {
+    "id": "JTL_191",
+    "face": {
+      "front": {
+        "name": "Invincible, Naval Adversary",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/191.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invincible, Naval Adversary",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_209": {
+    "id": "JTL_209",
+    "face": {
+      "front": {
+        "name": "It's a Trap",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/209.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's a Trap",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_207": {
+    "id": "JTL_207",
+    "face": {
+      "front": {
+        "name": "Jam Communications",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/207.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jam Communications",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "JTL_109": {
+    "id": "JTL_109",
+    "face": {
+      "front": {
+        "name": "Jarek Yeager, Coordinating With The Resistance",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jarek Yeager, Coordinating With The Resistance",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_251": {
+    "id": "JTL_251",
+    "face": {
+      "front": {
+        "name": "Jedi Light Cruiser",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/251.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Light Cruiser",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 7,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_232": {
+    "id": "JTL_232",
+    "face": {
+      "front": {
+        "name": "Jump to Lightspeed",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/232.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jump to Lightspeed",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_018": {
+    "id": "JTL_018",
+    "face": {
+      "front": {
+        "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+        "type": "Leader",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/018-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+        "type": "Leader",
+        "cost": "4",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/018-b.png"
+      }
+    },
+    "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+    "type": "Leader",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_1014": {
+    "id": "JTL_1014",
+    "face": {
+      "front": {
+        "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+        "type": "Leader",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1014-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+        "type": "Leader",
+        "cost": "4",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1014-b.png"
+      }
+    },
+    "name": "Kazuda Xiono, Best Pilot in the Galaxy",
+    "type": "Leader",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_082": {
+    "id": "JTL_082",
+    "face": {
+      "front": {
+        "name": "Kijimi Patrollers",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kijimi Patrollers",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_222": {
+    "id": "JTL_222",
+    "face": {
+      "front": {
+        "name": "Kimoglia Heavy Fighter",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/222.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kimoglia Heavy Fighter",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_179": {
+    "id": "JTL_179",
+    "face": {
+      "front": {
+        "name": "Koiogran Turn",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/179.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koiogran Turn",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_049": {
+    "id": "JTL_049",
+    "face": {
+      "front": {
+        "name": "L3-37, Get Out of My Seat",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "L3-37, Get Out of My Seat",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "DROID",
+      "PILOT"
+    ]
+  },
+  "JTL_031": {
+    "id": "JTL_031",
+    "face": {
+      "front": {
+        "name": "Lake Country, Naboo",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/031-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Lake Country, Naboo",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 34,
+    "aspects": [],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_063": {
+    "id": "JTL_063",
+    "face": {
+      "front": {
+        "name": "Landing Shuttle",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landing Shuttle",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_003": {
+    "id": "JTL_003",
+    "face": {
+      "front": {
+        "name": "Lando Calrissian, Buying Time",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/003-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Lando Calrissian, Buying Time",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/003-b.png"
+      }
+    },
+    "name": "Lando Calrissian, Buying Time",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_999": {
+    "id": "JTL_999",
+    "face": {
+      "front": {
+        "name": "Lando Calrissian, Buying Time",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/999-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Lando Calrissian, Buying Time",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/999-b.png"
+      }
+    },
+    "name": "Lando Calrissian, Buying Time",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_097": {
+    "id": "JTL_097",
+    "face": {
+      "front": {
+        "name": "Leia Organa, Pilots, To Your Stations",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leia Organa, Pilots, To Your Stations",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_127": {
+    "id": "JTL_127",
+    "face": {
+      "front": {
+        "name": "Lightspeed Assault",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightspeed Assault",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_012": {
+    "id": "JTL_012",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, Hero of Yavin",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/012-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Luke Skywalker, Hero of Yavin",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/012-b.png"
+      }
+    },
+    "name": "Luke Skywalker, Hero of Yavin",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_094": {
+    "id": "JTL_094",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, You Still With Me?",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/094.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luke Skywalker, You Still With Me?",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_1008": {
+    "id": "JTL_1008",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, Hero of Yavin",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1008-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Luke Skywalker, Hero of Yavin",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1008-b.png"
+      }
+    },
+    "name": "Luke Skywalker, Hero of Yavin",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_118": {
+    "id": "JTL_118",
+    "face": {
+      "front": {
+        "name": "MC30 Assault Frigate",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/118.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MC30 Assault Frigate",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_011": {
+    "id": "JTL_011",
+    "face": {
+      "front": {
+        "name": "Major Vonreg, Red Baron",
+        "type": "Leader",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/011-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Major Vonreg, Red Baron",
+        "type": "Leader",
+        "cost": "4",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/011-b.png"
+      }
+    },
+    "name": "Major Vonreg, Red Baron",
+    "type": "Leader",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "PILOT"
+    ]
+  },
+  "JTL_1007": {
+    "id": "JTL_1007",
+    "face": {
+      "front": {
+        "name": "Major Vonreg, Red Baron",
+        "type": "Leader",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1007-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Major Vonreg, Red Baron",
+        "type": "Leader",
+        "cost": "4",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1007-b.png"
+      }
+    },
+    "name": "Major Vonreg, Red Baron",
+    "type": "Leader",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "PILOT"
+    ]
+  },
+  "JTL_146": {
+    "id": "JTL_146",
+    "face": {
+      "front": {
+        "name": "Massassi Tactical Officer",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/146.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Massassi Tactical Officer",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "JTL_026": {
+    "id": "JTL_026",
+    "face": {
+      "front": {
+        "name": "Massassi Temple, Yavin 4",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/026-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Massassi Temple, Yavin 4",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_1048": {
+    "id": "JTL_1048",
+    "face": {
+      "front": {
+        "name": "Millennium Falcon, Get Out And Push",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Millennium Falcon, Get Out And Push",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_249": {
+    "id": "JTL_249",
+    "face": {
+      "front": {
+        "name": "Millennium Falcon, Get Out And Push",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/249.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Millennium Falcon, Get Out And Push",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_1039": {
+    "id": "JTL_1039",
+    "face": {
+      "front": {
+        "name": "Mist Hunter, The Findsman's Pursuit",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mist Hunter, The Findsman's Pursuit",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_186": {
+    "id": "JTL_186",
+    "face": {
+      "front": {
+        "name": "Mist Hunter, The Findsman's Pursuit",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/186.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mist Hunter, The Findsman's Pursuit",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_188": {
+    "id": "JTL_188",
+    "face": {
+      "front": {
+        "name": "Moff Gideon, I Know Everything",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/188.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moff Gideon, I Know Everything",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_030": {
+    "id": "JTL_030",
+    "face": {
+      "front": {
+        "name": "Mos Eisley, Tatooine",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/030-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Mos Eisley, Tatooine",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_069": {
+    "id": "JTL_069",
+    "face": {
+      "front": {
+        "name": "Munificent Frigate",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Munificent Frigate",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_028": {
+    "id": "JTL_028",
+    "face": {
+      "front": {
+        "name": "Nabat Village, Ryloth",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/028-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Nabat Village, Ryloth",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_027": {
+    "id": "JTL_027",
+    "face": {
+      "front": {
+        "name": "Nadiri Dockyards, Nadiri",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/027-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Nadiri Dockyards, Nadiri",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_080": {
+    "id": "JTL_080",
+    "face": {
+      "front": {
+        "name": "Nebula Ignition",
+        "type": "Event",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nebula Ignition",
+    "type": "Event",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "DISASTER"
+    ]
+  },
+  "JTL_208": {
+    "id": "JTL_208",
+    "face": {
+      "front": {
+        "name": "Never Tell Me the Odds",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/208.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Never Tell Me the Odds",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_093": {
+    "id": "JTL_093",
+    "face": {
+      "front": {
+        "name": "Nien Nunb, Loyal Co-Pilot",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nien Nunb, Loyal Co-Pilot",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_144": {
+    "id": "JTL_144",
+    "face": {
+      "front": {
+        "name": "No Disintegrations",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/144.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "No Disintegrations",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "JTL_043": {
+    "id": "JTL_043",
+    "face": {
+      "front": {
+        "name": "No Glory, Only Results",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "No Glory, Only Results",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_167": {
+    "id": "JTL_167",
+    "face": {
+      "front": {
+        "name": "Occupier Siege Tank",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/167.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Occupier Siege Tank",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TANK"
+    ]
+  },
+  "JTL_064": {
+    "id": "JTL_064",
+    "face": {
+      "front": {
+        "name": "Omicron Strike Craft",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omicron Strike Craft",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_033": {
+    "id": "JTL_033",
+    "face": {
+      "front": {
+        "name": "Onyx Squadron Brute",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onyx Squadron Brute",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_166": {
+    "id": "JTL_166",
+    "face": {
+      "front": {
+        "name": "Orbiting K-Wing",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/166.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orbiting K-Wing",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_079": {
+    "id": "JTL_079",
+    "face": {
+      "front": {
+        "name": "Out the Airlock",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Out the Airlock",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_065": {
+    "id": "JTL_065",
+    "face": {
+      "front": {
+        "name": "Outer Rim Outlaws",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Outer Rim Outlaws",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "JTL_046": {
+    "id": "JTL_046",
+    "face": {
+      "front": {
+        "name": "Paige Tico, Dropping the Hammer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paige Tico, Dropping the Hammer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_083": {
+    "id": "JTL_083",
+    "face": {
+      "front": {
+        "name": "Pantoran Starship Thief",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pantoran Starship Thief",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "PILOT"
+    ]
+  },
+  "JTL_068": {
+    "id": "JTL_068",
+    "face": {
+      "front": {
+        "name": "Perimeter AT-RT",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perimeter AT-RT",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "JTL_050": {
+    "id": "JTL_050",
+    "face": {
+      "front": {
+        "name": "Phantom II, Modified to Dock",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom II, Modified to Dock",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT",
+      "SPECTRE"
+    ]
+  },
+  "JTL_1019": {
+    "id": "JTL_1019",
+    "face": {
+      "front": {
+        "name": "Phantom II, Modified to Dock",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom II, Modified to Dock",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT",
+      "SPECTRE"
+    ]
+  },
+  "JTL_095": {
+    "id": "JTL_095",
+    "face": {
+      "front": {
+        "name": "Phoenix Squadron A-Wing",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phoenix Squadron A-Wing",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_180": {
+    "id": "JTL_180",
+    "face": {
+      "front": {
+        "name": "Piercing Shot",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/180.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piercing Shot",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_181": {
+    "id": "JTL_181",
+    "face": {
+      "front": {
+        "name": "Planetary Bombardment",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/181.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Planetary Bombardment",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_013": {
+    "id": "JTL_013",
+    "face": {
+      "front": {
+        "name": "Poe Dameron, I Can Fly Anything",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/013-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Poe Dameron, I Can Fly Anything",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/013-b.png"
+      }
+    },
+    "name": "Poe Dameron, I Can Fly Anything",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_100": {
+    "id": "JTL_100",
+    "face": {
+      "front": {
+        "name": "Poe Dameron, One Hell of a a Pilot",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poe Dameron, One Hell of a a Pilot",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_1009": {
+    "id": "JTL_1009",
+    "face": {
+      "front": {
+        "name": "Poe Dameron, I Can Fly Anything",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1009-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Poe Dameron, I Can Fly Anything",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1009-b.png"
+      }
+    },
+    "name": "Poe Dameron, I Can Fly Anything",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_042": {
+    "id": "JTL_042",
+    "face": {
+      "front": {
+        "name": "Power from Pain",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power from Pain",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_128": {
+    "id": "JTL_128",
+    "face": {
+      "front": {
+        "name": "Prepare for Takeoff",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/128.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prepare for Takeoff",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "JTL_1035": {
+    "id": "JTL_1035",
+    "face": {
+      "front": {
+        "name": "Profundity, We Fight!",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Profundity, We Fight!",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 8,
+    "HP": 9,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_154": {
+    "id": "JTL_154",
+    "face": {
+      "front": {
+        "name": "Profundity, We Fight!",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/154.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Profundity, We Fight!",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 8,
+    "HP": 9,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_136": {
+    "id": "JTL_136",
+    "face": {
+      "front": {
+        "name": "Prototype TIE Advanced",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/136.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prototype TIE Advanced",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_231": {
+    "id": "JTL_231",
+    "face": {
+      "front": {
+        "name": "Punch It",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/231.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Punch It",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_243": {
+    "id": "JTL_243",
+    "face": {
+      "front": {
+        "name": "Quasar TIE Carrier",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/243.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quasar TIE Carrier",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_245": {
+    "id": "JTL_245",
+    "face": {
+      "front": {
+        "name": "R2-D2, Artooooooooo!",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/245.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "R2-D2, Artooooooooo!",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID",
+      "PILOT"
+    ]
+  },
+  "JTL_1028": {
+    "id": "JTL_1028",
+    "face": {
+      "front": {
+        "name": "Raddus, Holdo's Final Command",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raddus, Holdo's Final Command",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 8,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_104": {
+    "id": "JTL_104",
+    "face": {
+      "front": {
+        "name": "Raddus, Holdo's Final Command",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raddus, Holdo's Final Command",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 8,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1045": {
+    "id": "JTL_1045",
+    "face": {
+      "front": {
+        "name": "Radiant VII, Ambassadors' Arrival",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radiant VII, Ambassadors' Arrival",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_226": {
+    "id": "JTL_226",
+    "face": {
+      "front": {
+        "name": "Radiant VII, Ambassadors' Arrival",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/226.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radiant VII, Ambassadors' Arrival",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_219": {
+    "id": "JTL_219",
+    "face": {
+      "front": {
+        "name": "Rafa Martez, Shrewd Sister",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/219.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rafa Martez, Shrewd Sister",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "JTL_1037": {
+    "id": "JTL_1037",
+    "face": {
+      "front": {
+        "name": "Rampart, Enjoy the Exit",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampart, Enjoy the Exit",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_182": {
+    "id": "JTL_182",
+    "face": {
+      "front": {
+        "name": "Rampart, Enjoy the Exit",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/182.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampart, Enjoy the Exit",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_1044": {
+    "id": "JTL_1044",
+    "face": {
+      "front": {
+        "name": "Razor Crest, Ride For Hire",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Razor Crest, Ride For Hire",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_223": {
+    "id": "JTL_223",
+    "face": {
+      "front": {
+        "name": "Razor Crest, Ride For Hire",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/223.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Razor Crest, Ride For Hire",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_153": {
+    "id": "JTL_153",
+    "face": {
+      "front": {
+        "name": "Rebellious Hammerhead",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/153.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebellious Hammerhead",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1034": {
+    "id": "JTL_1034",
+    "face": {
+      "front": {
+        "name": "Red Five, Running the Trench",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Five, Running the Trench",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_151": {
+    "id": "JTL_151",
+    "face": {
+      "front": {
+        "name": "Red Five, Running the Trench",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Five, Running the Trench",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_101": {
+    "id": "JTL_101",
+    "face": {
+      "front": {
+        "name": "Red Leader, Form Up",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Leader, Form Up",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1027": {
+    "id": "JTL_1027",
+    "face": {
+      "front": {
+        "name": "Red Leader, Form Up",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Leader, Form Up",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_051": {
+    "id": "JTL_051",
+    "face": {
+      "front": {
+        "name": "Red Squadron X-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Squadron X-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_149": {
+    "id": "JTL_149",
+    "face": {
+      "front": {
+        "name": "Red Squadron Y-Wing",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/149.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Squadron Y-Wing",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_157": {
+    "id": "JTL_157",
+    "face": {
+      "front": {
+        "name": "Relentless Firespray",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/157.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relentless Firespray",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_075": {
+    "id": "JTL_075",
+    "face": {
+      "front": {
+        "name": "Repair",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Repair",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "JTL_212": {
+    "id": "JTL_212",
+    "face": {
+      "front": {
+        "name": "Republic Y-Wing",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/212.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Republic Y-Wing",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_102": {
+    "id": "JTL_102",
+    "face": {
+      "front": {
+        "name": "Resistance Blue Squadron",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resistance Blue Squadron",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_022": {
+    "id": "JTL_022",
+    "face": {
+      "front": {
+        "name": "Resistance Headquarters, D'Qar",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/022-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Resistance Headquarters, D'Qar",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_247": {
+    "id": "JTL_247",
+    "face": {
+      "front": {
+        "name": "Resistance X-Wing",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/247.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resistance X-Wing",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_119": {
+    "id": "JTL_119",
+    "face": {
+      "front": {
+        "name": "Resupply Carrier",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resupply Carrier",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_259": {
+    "id": "JTL_259",
+    "face": {
+      "front": {
+        "name": "Retrofitted Airspeeder",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/259.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Retrofitted Airspeeder",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 6,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "JTL_015": {
+    "id": "JTL_015",
+    "face": {
+      "front": {
+        "name": "Rio Durant, Wisecracking Wheelman",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/015-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rio Durant, Wisecracking Wheelman",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/015-b.png"
+      }
+    },
+    "name": "Rio Durant, Wisecracking Wheelman",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "PILOT"
+    ]
+  },
+  "JTL_1011": {
+    "id": "JTL_1011",
+    "face": {
+      "front": {
+        "name": "Rio Durant, Wisecracking Wheelman",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1011-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rio Durant, Wisecracking Wheelman",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1011-b.png"
+      }
+    },
+    "name": "Rio Durant, Wisecracking Wheelman",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "PILOT"
+    ]
+  },
+  "JTL_241": {
+    "id": "JTL_241",
+    "face": {
+      "front": {
+        "name": "Rogue-class Starfighter",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/241.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue-class Starfighter",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_004": {
+    "id": "JTL_004",
+    "face": {
+      "front": {
+        "name": "Rose Tico, Saving What We Love",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/004-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rose Tico, Saving What We Love",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/004-b.png"
+      }
+    },
+    "name": "Rose Tico, Saving What We Love",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE"
+    ]
+  },
+  "JTL_1000": {
+    "id": "JTL_1000",
+    "face": {
+      "front": {
+        "name": "Rose Tico, Saving What We Love",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1000-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rose Tico, Saving What We Love",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1000-b.png"
+      }
+    },
+    "name": "Rose Tico, Saving What We Love",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE"
+    ]
+  },
+  "JTL_061": {
+    "id": "JTL_061",
+    "face": {
+      "front": {
+        "name": "Royal Security Fighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Security Fighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "NABOO",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1049": {
+    "id": "JTL_1049",
+    "face": {
+      "front": {
+        "name": "Sabine's Masterpiece, Crazy Colorful",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabine's Masterpiece, Crazy Colorful",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER",
+      "SPECTRE"
+    ]
+  },
+  "JTL_250": {
+    "id": "JTL_250",
+    "face": {
+      "front": {
+        "name": "Sabine's Masterpiece, Crazy Colorful",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/250.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabine's Masterpiece, Crazy Colorful",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER",
+      "SPECTRE"
+    ]
+  },
+  "JTL_121": {
+    "id": "JTL_121",
+    "face": {
+      "front": {
+        "name": "Salvage",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salvage",
+    "type": "Event",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "JTL_110": {
+    "id": "JTL_110",
+    "face": {
+      "front": {
+        "name": "Scouting Headhunter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/110.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scouting Headhunter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_092": {
+    "id": "JTL_092",
+    "face": {
+      "front": {
+        "name": "Scramble Fighters",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scramble Fighters",
+    "type": "Event",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "JTL_111": {
+    "id": "JTL_111",
+    "face": {
+      "front": {
+        "name": "Seasoned Fleet Admiral",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seasoned Fleet Admiral",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TWI'LEK",
+      "OFFICIAL"
+    ]
+  },
+  "JTL_1036": {
+    "id": "JTL_1036",
+    "face": {
+      "front": {
+        "name": "Shadow Caster, Just Business",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Caster, Just Business",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_169": {
+    "id": "JTL_169",
+    "face": {
+      "front": {
+        "name": "Shadow Caster, Just Business",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/169.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Caster, Just Business",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_224": {
+    "id": "JTL_224",
+    "face": {
+      "front": {
+        "name": "Shadowed Hover Tank",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/224.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadowed Hover Tank",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "TANK"
+    ]
+  },
+  "JTL_020": {
+    "id": "JTL_020",
+    "face": {
+      "front": {
+        "name": "Shield Generator Complex, Endor",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/020-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Shield Generator Complex, Endor",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_176": {
+    "id": "JTL_176",
+    "face": {
+      "front": {
+        "name": "Shoot Down",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/176.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shoot Down",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_1047": {
+    "id": "JTL_1047",
+    "face": {
+      "front": {
+        "name": "Shuttle ST-149, Under Krennic's Authority",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuttle ST-149, Under Krennic's Authority",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_242": {
+    "id": "JTL_242",
+    "face": {
+      "front": {
+        "name": "Shuttle ST-149, Under Krennic's Authority",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/242.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuttle ST-149, Under Krennic's Authority",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_1042": {
+    "id": "JTL_1042",
+    "face": {
+      "front": {
+        "name": "Shuttle Tydirium, Fly Casual",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuttle Tydirium, Fly Casual",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_200": {
+    "id": "JTL_200",
+    "face": {
+      "front": {
+        "name": "Shuttle Tydirium, Fly Casual",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/200.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuttle Tydirium, Fly Casual",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_213": {
+    "id": "JTL_213",
+    "face": {
+      "front": {
+        "name": "Sidon Ithano, The Crimson Corsair",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/213.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sidon Ithano, The Crimson Corsair",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "PILOT"
+    ]
+  },
+  "JTL_062": {
+    "id": "JTL_062",
+    "face": {
+      "front": {
+        "name": "Silver Angel, Trace's Hope",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silver Angel, Trace's Hope",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_1022": {
+    "id": "JTL_1022",
+    "face": {
+      "front": {
+        "name": "Silver Angel, Trace's Hope",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silver Angel, Trace's Hope",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_238": {
+    "id": "JTL_238",
+    "face": {
+      "front": {
+        "name": "Sith Trooper",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/238.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sith Trooper",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "SITH",
+      "TROOPER"
+    ]
+  },
+  "JTL_220": {
+    "id": "JTL_220",
+    "face": {
+      "front": {
+        "name": "Skyway Cloud Car",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/220.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skyway Cloud Car",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_098": {
+    "id": "JTL_098",
+    "face": {
+      "front": {
+        "name": "Snap Wexley, Resistance Recon Flier",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snap Wexley, Resistance Recon Flier",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE",
+      "PILOT"
+    ]
+  },
+  "JTL_135": {
+    "id": "JTL_135",
+    "face": {
+      "front": {
+        "name": "Special Forces TIE Fighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Special Forces TIE Fighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_177": {
+    "id": "JTL_177",
+    "face": {
+      "front": {
+        "name": "Stay on Target",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/177.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stay on Target",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_221": {
+    "id": "JTL_221",
+    "face": {
+      "front": {
+        "name": "Stolen AT-Hauler",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/221.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stolen AT-Hauler",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_255": {
+    "id": "JTL_255",
+    "face": {
+      "front": {
+        "name": "Sullustan Spacer",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/255.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sullustan Spacer",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "PILOT"
+    ]
+  },
+  "JTL_227": {
+    "id": "JTL_227",
+    "face": {
+      "front": {
+        "name": "Superheavy Ion Cannon",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/227.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Superheavy Ion Cannon",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "MODIFICATION",
+      "WEAPON"
+    ]
+  },
+  "JTL_160": {
+    "id": "JTL_160",
+    "face": {
+      "front": {
+        "name": "Supporting Eta-2",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/160.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supporting Eta-2",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_256": {
+    "id": "JTL_256",
+    "face": {
+      "front": {
+        "name": "Swarming Vulture Droid",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/256.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swarming Vulture Droid",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_233": {
+    "id": "JTL_233",
+    "face": {
+      "front": {
+        "name": "Sweep the Area",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/233.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sweep the Area",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_175": {
+    "id": "JTL_175",
+    "face": {
+      "front": {
+        "name": "System Shock",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "System Shock",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_087": {
+    "id": "JTL_087",
+    "face": {
+      "front": {
+        "name": "TIE Ambush Squadron",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE Ambush Squadron",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_237": {
+    "id": "JTL_237",
+    "face": {
+      "front": {
+        "name": "TIE Bomber",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/237.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE Bomber",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_239": {
+    "id": "JTL_239",
+    "face": {
+      "front": {
+        "name": "TIE Dagger Vanguard",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/239.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE Dagger Vanguard",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "SITH",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_152": {
+    "id": "JTL_152",
+    "face": {
+      "front": {
+        "name": "Tactical Heavy Bomber",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/152.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tactical Heavy Bomber",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_035": {
+    "id": "JTL_035",
+    "face": {
+      "front": {
+        "name": "Tam Ryvora",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tam Ryvora",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "PILOT"
+    ]
+  },
+  "JTL_124": {
+    "id": "JTL_124",
+    "face": {
+      "front": {
+        "name": "Tandem Assault",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tandem Assault",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_1050": {
+    "id": "JTL_1050",
+    "face": {
+      "front": {
+        "name": "Tantive IV, Fleeing the Empire",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tantive IV, Fleeing the Empire",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_252": {
+    "id": "JTL_252",
+    "face": {
+      "front": {
+        "name": "Tantive IV, Fleeing the Empire",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/252.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tantive IV, Fleeing the Empire",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_171": {
+    "id": "JTL_171",
+    "face": {
+      "front": {
+        "name": "Targeting Computer",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/171.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Targeting Computer",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "MODIFICATION"
+    ]
+  },
+  "JTL_190": {
+    "id": "JTL_190",
+    "face": {
+      "front": {
+        "name": "Techno Union Transport",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/190.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Techno Union Transport",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_053": {
+    "id": "JTL_053",
+    "face": {
+      "front": {
+        "name": "The Ghost, Heart of the Family",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/053.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Ghost, Heart of the Family",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT",
+      "SPECTRE"
+    ]
+  },
+  "JTL_1020": {
+    "id": "JTL_1020",
+    "face": {
+      "front": {
+        "name": "The Ghost, Heart of the Family",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Ghost, Heart of the Family",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT",
+      "SPECTRE"
+    ]
+  },
+  "JTL_089": {
+    "id": "JTL_089",
+    "face": {
+      "front": {
+        "name": "The Invisible Hand, Crawling With Vultures",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Invisible Hand, Crawling With Vultures",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_1024": {
+    "id": "JTL_1024",
+    "face": {
+      "front": {
+        "name": "The Invisible Hand, Crawling With Vultures",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Invisible Hand, Crawling With Vultures",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_210": {
+    "id": "JTL_210",
+    "face": {
+      "front": {
+        "name": "The Mandalorian, Weathered Pilot",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/210.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Mandalorian, Weathered Pilot",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "BOUNTY HUNTER",
+      "PILOT"
+    ]
+  },
+  "JTL_1029": {
+    "id": "JTL_1029",
+    "face": {
+      "front": {
+        "name": "The Starhawk, Prototype Battleship",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1029.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Starhawk, Prototype Battleship",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 9,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_105": {
+    "id": "JTL_105",
+    "face": {
+      "front": {
+        "name": "The Starhawk, Prototype Battleship",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Starhawk, Prototype Battleship",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 9,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "JTL_023": {
+    "id": "JTL_023",
+    "face": {
+      "front": {
+        "name": "Theed Palace, Naboo",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/023-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Theed Palace, Naboo",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 30,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_244": {
+    "id": "JTL_244",
+    "face": {
+      "front": {
+        "name": "There Is No Escape",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/244.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "There Is No Escape",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_025": {
+    "id": "JTL_025",
+    "face": {
+      "front": {
+        "name": "Thermal Oscillator, Starkiller Base",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/025-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Thermal Oscillator, Starkiller Base",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "JTL_155": {
+    "id": "JTL_155",
+    "face": {
+      "front": {
+        "name": "They Hate That Ship",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/155.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "They Hate That Ship",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "JTL_130": {
+    "id": "JTL_130",
+    "face": {
+      "front": {
+        "name": "Timely Reinforcements",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Timely Reinforcements",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_234": {
+    "id": "JTL_234",
+    "face": {
+      "front": {
+        "name": "Torpedo Barrage",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/234.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Torpedo Barrage",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_066": {
+    "id": "JTL_066",
+    "face": {
+      "front": {
+        "name": "Trace Martez, Trusting Sister",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/066.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trace Martez, Trusting Sister",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "PILOT"
+    ]
+  },
+  "JTL_156": {
+    "id": "JTL_156",
+    "face": {
+      "front": {
+        "name": "Trench Run",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/156.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trench Run",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_131": {
+    "id": "JTL_131",
+    "face": {
+      "front": {
+        "name": "Turbolaser Salvo",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turbolaser Salvo",
+    "type": "Event",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "JTL_172": {
+    "id": "JTL_172",
+    "face": {
+      "front": {
+        "name": "Twin Laser Turret",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/172.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twin Laser Turret",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "MODIFICATION",
+      "WEAPON"
+    ]
+  },
+  "JTL_070": {
+    "id": "JTL_070",
+    "face": {
+      "front": {
+        "name": "U-Wing Lander",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "U-Wing Lander",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "JTL_106": {
+    "id": "JTL_106",
+    "face": {
+      "front": {
+        "name": "Unity of Purpose",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unity of Purpose",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "JTL_099": {
+    "id": "JTL_099",
+    "face": {
+      "front": {
+        "name": "Veteran Fleet Officer",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veteran Fleet Officer",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE"
+    ]
+  },
+  "JTL_085": {
+    "id": "JTL_085",
+    "face": {
+      "front": {
+        "name": "Victor Leader, Leading From the Front",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victor Leader, Leading From the Front",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1023": {
+    "id": "JTL_1023",
+    "face": {
+      "front": {
+        "name": "Victor Leader, Leading From the Front",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victor Leader, Leading From the Front",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_1030": {
+    "id": "JTL_1030",
+    "face": {
+      "front": {
+        "name": "Vonreg's TIE Interceptor, Ace of the First Order",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vonreg's TIE Interceptor, Ace of the First Order",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_137": {
+    "id": "JTL_137",
+    "face": {
+      "front": {
+        "name": "Vonreg's TIE Interceptor, Ace of the First Order",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/137.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vonreg's TIE Interceptor, Ace of the First Order",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_170": {
+    "id": "JTL_170",
+    "face": {
+      "front": {
+        "name": "War Juggernaut",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/170.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "War Juggernaut",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TANK"
+    ]
+  },
+  "JTL_008": {
+    "id": "JTL_008",
+    "face": {
+      "front": {
+        "name": "Wedge Antilles, Leader of Red Squadron",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/008-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Wedge Antilles, Leader of Red Squadron",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/008-b.png"
+      }
+    },
+    "name": "Wedge Antilles, Leader of Red Squadron",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_1004": {
+    "id": "JTL_1004",
+    "face": {
+      "front": {
+        "name": "Wedge Antilles, Leader of Red Squadron",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1004-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Wedge Antilles, Leader of Red Squadron",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/JTL/1004-b.png"
+      }
+    },
+    "name": "Wedge Antilles, Leader of Red Squadron",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "PILOT"
+    ]
+  },
+  "JTL_072": {
+    "id": "JTL_072",
+    "face": {
+      "front": {
+        "name": "Wing Guard Security Team",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wing Guard Security Team",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "TROOPER"
+    ]
+  },
+  "JTL_086": {
+    "id": "JTL_086",
+    "face": {
+      "front": {
+        "name": "Wingman Victor Three, Backstabber",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wingman Victor Three, Backstabber",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_084": {
+    "id": "JTL_084",
+    "face": {
+      "front": {
+        "name": "Wingman Victor Two, Mauler Mithel",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wingman Victor Two, Mauler Mithel",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "PILOT"
+    ]
+  },
+  "JTL_214": {
+    "id": "JTL_214",
+    "face": {
+      "front": {
+        "name": "X-34 Landspeeder",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/214.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "X-34 Landspeeder",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "JTL_055": {
+    "id": "JTL_055",
+    "face": {
+      "front": {
+        "name": "You're All Clear, Kid",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "You're All Clear, Kid",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "JTL_183": {
+    "id": "JTL_183",
+    "face": {
+      "front": {
+        "name": "Zygerrian Starhopper",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/183.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zygerrian Starhopper",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "JTL_236": {
+    "id": "JTL_236",
+    "face": {
+      "front": {
+        "name": "indoctrinated Conscript",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/JTL/236.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "indoctrinated Conscript",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "PILOT"
+    ]
   }
 }
