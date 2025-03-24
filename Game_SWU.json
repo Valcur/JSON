@@ -32,6 +32,7 @@
                     "name": "Initiative",
                     "image": "https://i.imgur.com/Zr2oV9p.png"
                 },
+                "firstPlayerTokenName": "Initiative",
                 "drawPerTurn": 2
             },
             "tokens": [
