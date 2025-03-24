@@ -55,7 +55,6 @@
                     "leavesAtEndOfTurn": true
                 }
             ],
-            "defaultNotes": "Player1: 0\nPlayer2: 0",
             "countersStartingValues": [
                 0
             ],

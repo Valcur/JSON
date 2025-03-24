@@ -39,7 +39,16 @@
                 "drawOnStart": true,
                 "sharedTurn": false
             },
+            "defaultNotes": "Player1: 0\nPlayer2: 0\nPlayer3: 0",
             "countersStartingValues": [40, 0],
+            "tokens": [
+                {
+                    "name": "Monarch",
+                    "image": "https://i.imgur.com/qqAlWZI.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": false
+                }
+            ],
             "sections": {
                 "customSections": ["Creatures", "Mana", "Other", "Commander"],
                 "layout": {
