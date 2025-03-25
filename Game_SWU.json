@@ -191,7 +191,7 @@
             "https://i.imgur.com/CKuiePb.jpeg"
         ]
     },
-    "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. For Twin Suns, there are no Blast and Plan counter to visually represent taking them.",
+    "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
     "cards": {
         "dataUrl": "https://valcur.github.io/JSON/SWUCards.json",
         "cardBack": "https://i.imgur.com/alTEVLx.jpeg"
