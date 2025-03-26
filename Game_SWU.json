@@ -84,7 +84,7 @@
                         {
                             "direction": "column",
                             "style": {
-                                "width": "19vh",
+                                "width": "22vh",
                                 "justify-content": "start"
                             },
                             "content": [
