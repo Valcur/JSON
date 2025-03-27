@@ -131,7 +131,8 @@
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "START",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": true,
+                        "noQuickActions": true
                     }
                 }
             }
