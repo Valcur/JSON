@@ -1886,14 +1886,14 @@
     "id": "SOR_038",
     "face": {
       "front": {
-        "name": "Count Dooku, Darth Tyrannus",
+        "name": "Count Dooku, Darth Tyranus",
         "type": "Unit - Ground",
         "cost": 7,
         "image": "https://cdn.swu-db.com/images/cards/SOR/038.png",
         "isHorizontal": false
       }
     },
-    "name": "Count Dooku, Darth Tyrannus",
+    "name": "Count Dooku, Darth Tyranus",
     "type": "Unit - Ground",
     "cost": 7,
     "rarity": "Rare",
@@ -16222,7 +16222,8 @@
         "name": "Chancellor Palpatine // Darth Sidious, Playing Both Sides",
         "type": "Leader",
         "cost": "0",
-        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b.png"
+        "image": "https://cdn.swu-db.com/images/cards/TWI/017-b.png",
+        "isHorizontal": true
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious, Playing Both Sides",
