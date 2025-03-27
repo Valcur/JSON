@@ -154,14 +154,16 @@
                         "isHidden": "no",
                         "height": "DEFAULT",
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": true,
+                        "noQuickActions": true
                     },
                     "Base": {
                         "title": "Base",
                         "isHidden": "no",
                         "height": "DEFAULT",
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": true,
+                        "noQuickActions": true
                     },
                     "Mana": {
                         "title": "Mana",
