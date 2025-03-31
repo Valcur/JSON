@@ -26,6 +26,7 @@
                 "sharedTurn": false
             },
             "countersStartingValues": [0],
+            "hideFacedDownCards": true,
             "sections": {
                 "customSections": [
                     "Main",
