@@ -30107,7 +30107,8 @@
         "name": "Chancellor Palpatine // Darth Sidious, Playing Both Sides",
         "type": "Leader",
         "cost": "0",
-        "image": "https://i.imgur.com/NdC8Vct.jpeg"
+        "image": "https://i.imgur.com/NdC8Vct.jpeg",
+        "isHorizontal": true
       }
     },
     "name": "Chancellor Palpatine // Darth Sidious, Playing Both Sides",
