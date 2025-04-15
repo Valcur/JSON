@@ -1,14 +1,15 @@
 [
     {
-        "title": "Temur roar",
-        "id": "Temur roar",
+        "title": "Temur Roar",
+        "id": "Temur Roar",
         "game": "MTG",
         "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
-        "lastModifiedAt": "2025-04-15T16:07:12.208Z",
+        "lastModifiedAt": "2025-04-15T16:35:33.098Z",
         "deckList": {
             "categoriesOrder": [
+                "Commander",
                 "Artifact",
                 "Creature",
                 "Instant",
@@ -70,10 +71,6 @@
                 {
                     "count": 1,
                     "id": "a485edea-07cd-48dd-97e7-daeba85553d6"
-                },
-                {
-                    "count": 1,
-                    "id": "ff9aa863-8773-452d-946c-ae334c632e11"
                 },
                 {
                     "count": 1,
@@ -383,19 +380,26 @@
                     "count": 1,
                     "id": "5cedb54a-a6f6-48aa-acdf-01c988c1c37d"
                 }
+            ],
+            "Commander": [
+                {
+                    "count": 1,
+                    "id": "ff9aa863-8773-452d-946c-ae334c632e11"
+                }
             ]
         }
     },
     {
-        "title": "Abzan armor",
-        "id": "Abzan armor",
+        "title": "Abzan Armor",
+        "id": "Abzan Armor",
         "game": "MTG",
         "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
-        "lastModifiedAt": "2025-04-15T16:10:19.832Z",
+        "lastModifiedAt": "2025-04-15T16:34:21.573Z",
         "deckList": {
             "categoriesOrder": [
+                "Commander",
                 "Land",
                 "Instant",
                 "Creature",
@@ -567,10 +571,6 @@
                 {
                     "count": 1,
                     "id": "4d7fc4e6-e229-431f-8f8d-8464fb410724"
-                },
-                {
-                    "count": 1,
-                    "id": "2c3549f6-25df-4ea7-84ad-922ccd4af6b2"
                 },
                 {
                     "count": 1,
@@ -754,19 +754,26 @@
                     "count": 1,
                     "id": "e7e92b6b-ec63-477b-8a83-18c0e52615cc"
                 }
+            ],
+            "Commander": [
+                {
+                    "count": 1,
+                    "id": "2c3549f6-25df-4ea7-84ad-922ccd4af6b2"
+                }
             ]
         }
     },
     {
-        "title": "Sultai arisen",
-        "id": "Sultai arisen",
+        "title": "Sultai Arisen",
+        "id": "Sultai Arisen",
         "game": "MTG",
         "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
-        "lastModifiedAt": "2025-04-15T16:11:40.987Z",
+        "lastModifiedAt": "2025-04-15T16:33:12.725Z",
         "deckList": {
             "categoriesOrder": [
+                "Commander",
                 "Sorcery",
                 "Creature",
                 "Artifact",
@@ -876,10 +883,6 @@
                 {
                     "count": 1,
                     "id": "b5f1acb0-d73e-4814-8158-3645daf5c4cc"
-                },
-                {
-                    "count": 1,
-                    "id": "b9ea2e9c-c1c7-4870-877a-023118909f56"
                 },
                 {
                     "count": 1,
@@ -1137,19 +1140,26 @@
                     "count": 1,
                     "id": "ebaf248b-37ff-4c28-9c47-ac7434d80e6e"
                 }
+            ],
+            "Commander": [
+                {
+                    "count": 1,
+                    "id": "b9ea2e9c-c1c7-4870-877a-023118909f56"
+                }
             ]
         }
     },
     {
-        "title": "Mardu surge",
-        "id": "Mardu surge",
+        "title": "Mardu Surge",
+        "id": "Mardu Surge",
         "game": "MTG",
         "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
-        "lastModifiedAt": "2025-04-15T16:12:51.199Z",
+        "lastModifiedAt": "2025-04-15T16:31:58.557Z",
         "deckList": {
             "categoriesOrder": [
+                "Commander",
                 "Instant",
                 "Creature",
                 "Artifact",
@@ -1312,10 +1322,6 @@
                 {
                     "count": 1,
                     "id": "396c5d77-f530-42f8-80b5-7cbfd562d1e2"
-                },
-                {
-                    "count": 1,
-                    "id": "dc8eb325-75c9-4331-830d-3f7d62d77290"
                 }
             ],
             "Artifact": [
@@ -1523,19 +1529,26 @@
                     "count": 1,
                     "id": "52faa78e-252e-465b-91b5-6f64d828da81"
                 }
+            ],
+            "Commander": [
+                {
+                    "count": 1,
+                    "id": "dc8eb325-75c9-4331-830d-3f7d62d77290"
+                }
             ]
         }
     },
     {
-        "title": "Jeskai striker",
-        "id": "Jeskai striker",
+        "title": "Jeskai Striker",
+        "id": "Jeskai Striker",
         "game": "MTG",
         "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
-        "lastModifiedAt": "2025-04-15T16:17:04.061Z",
+        "lastModifiedAt": "2025-04-15T16:30:10.281Z",
         "deckList": {
             "categoriesOrder": [
+                "Commander",
                 "Instant",
                 "Artifact",
                 "Land",
@@ -1880,10 +1893,6 @@
                 },
                 {
                     "count": 1,
-                    "id": "5a42fc7d-52ac-4e95-9e04-8f8fa7f687c8"
-                },
-                {
-                    "count": 1,
                     "id": "1b8c1345-4279-4e29-b58c-efacccb8e47f"
                 },
                 {
@@ -1909,6 +1918,12 @@
                 {
                     "count": 1,
                     "id": "c0d74ecd-a595-4012-81b4-083264b40c94"
+                }
+            ],
+            "Commander": [
+                {
+                    "count": 1,
+                    "id": "5a42fc7d-52ac-4e95-9e04-8f8fa7f687c8"
                 }
             ]
         }
