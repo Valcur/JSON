@@ -191,7 +191,8 @@
             "https://i.imgur.com/C3LAixE.jpeg",
             "https://i.imgur.com/EZ9z8z6.jpeg",
             "https://i.imgur.com/CKuiePb.jpeg"
-        ]
+        ],
+        "decksUrl": "https://valcur.github.io/JSON/SWUDecks.json"
     },
     "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
     "cards": {
