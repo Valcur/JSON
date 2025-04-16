@@ -1,5 +1,223 @@
 [
     {
+        "title": "Otter Limits",
+        "id": "Otter Limits",
+        "game": "Magic the Gathering",
+        "format": "Modern",
+        "cardCount": 60,
+        "createdAt": "2025-04-16T11:52:04.222Z",
+        "lastModifiedAt": "2025-04-16T11:53:44.641Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Creature",
+                "Enchantment",
+                "Instant",
+                "Land",
+                "Sorcery",
+                "Artifact"
+            ],
+            "Creature": [
+                {
+                    "count": 3,
+                    "id": "d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1"
+                },
+                {
+                    "count": 1,
+                    "id": "436d6a84-4cea-4ca7-94aa-9d08280652af"
+                },
+                {
+                    "count": 3,
+                    "id": "ca2215dd-6300-49cf-b9b2-3a840b786c31"
+                },
+                {
+                    "count": 1,
+                    "id": "390c96b3-68da-4a42-89ab-d9ccc79ce0dd"
+                },
+                {
+                    "count": 2,
+                    "id": "dc2c1de0-6233-469a-be72-a050b97d2c8f"
+                },
+                {
+                    "count": 1,
+                    "id": "ade32396-8841-4ba4-8852-d11146607f21"
+                },
+                {
+                    "count": 2,
+                    "id": "2f2b7fd3-a139-49ea-8a89-b64261e868ef"
+                },
+                {
+                    "count": 2,
+                    "id": "99754055-6d67-4fde-aff3-41f6af6ea764"
+                },
+                {
+                    "count": 3,
+                    "id": "52a258be-39e3-4689-b2d0-7c353ce7d574"
+                },
+                {
+                    "count": 3,
+                    "id": "35898b39-98e2-405b-8f18-0e054bd2c29e"
+                }
+            ],
+            "Enchantment": [
+                {
+                    "count": 2,
+                    "id": "7d171802-2604-45a5-a0f2-ab5afa1db5d5"
+                }
+            ],
+            "Instant": [
+                {
+                    "count": 3,
+                    "id": "c6440439-7178-4a97-9e18-7fdef4b02678"
+                },
+                {
+                    "count": 2,
+                    "id": "2f815bae-820a-49f6-8eed-46f658e7b6ff"
+                }
+            ],
+            "Land": [
+                {
+                    "count": 11,
+                    "id": "1ff6acc9-581c-468f-894d-41f725da7f33"
+                },
+                {
+                    "count": 12,
+                    "id": "bfa10a88-12e0-4b79-80bb-6f4620277e20"
+                },
+                {
+                    "count": 4,
+                    "id": "ca53fb19-b8ca-485b-af1a-5117ae54bfe3"
+                }
+            ],
+            "Sorcery": [
+                {
+                    "count": 1,
+                    "id": "e7e7d174-eb7c-41ad-a241-cfbfdc71e3a7"
+                },
+                {
+                    "count": 3,
+                    "id": "13cb9575-1138-4f99-8e90-0eaf00bdf4a1"
+                }
+            ],
+            "Artifact": [
+                {
+                    "count": 1,
+                    "id": "f21b5fc1-7611-44ac-ad8d-1f0c6d4fc9a3"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Hare Raising",
+        "id": "Hare Raising",
+        "game": "Magic the Gathering",
+        "format": "Modern",
+        "cardCount": 60,
+        "createdAt": "2025-04-16T11:52:04.222Z",
+        "lastModifiedAt": "2025-04-16T11:52:36.631Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Land",
+                "Creature",
+                "Artifact",
+                "Enchantment",
+                "Instant",
+                "Sorcery"
+            ],
+            "Land": [
+                {
+                    "count": 4,
+                    "id": "0a9df994-e0f4-4919-af99-4f643eb9199c"
+                },
+                {
+                    "count": 11,
+                    "id": "8100bceb-ffba-487a-bb45-4fe2a156a8dc"
+                },
+                {
+                    "count": 12,
+                    "id": "12cff32a-a365-43ee-a196-8ce32b3bb9fd"
+                }
+            ],
+            "Creature": [
+                {
+                    "count": 2,
+                    "id": "87138ace-3594-499e-bad5-ec76148613ea"
+                },
+                {
+                    "count": 1,
+                    "id": "6441abd3-320b-424a-9753-61e3581fe1a9"
+                },
+                {
+                    "count": 2,
+                    "id": "662d3bcc-65f3-4c69-8ea1-446870a1193d"
+                },
+                {
+                    "count": 3,
+                    "id": "6b485cf7-bad0-4824-9ba7-cb112ce4769f"
+                },
+                {
+                    "count": 1,
+                    "id": "80b3e815-0e2e-4325-b1d5-5531b7b92da6"
+                },
+                {
+                    "count": 1,
+                    "id": "0dee197d-c313-4364-b52c-f83d5f579bc3"
+                },
+                {
+                    "count": 3,
+                    "id": "ae442cd6-c4df-4aad-9b1d-ccd936c5ec96"
+                },
+                {
+                    "count": 1,
+                    "id": "230b9aef-bd9c-4332-ace4-b5b065bac6d8"
+                },
+                {
+                    "count": 3,
+                    "id": "89c8456e-c971-42b7-abf3-ff5ae1320abe"
+                },
+                {
+                    "count": 3,
+                    "id": "4bf20069-5a20-4f95-976b-6af2b69f3ad0"
+                }
+            ],
+            "Artifact": [
+                {
+                    "count": 2,
+                    "id": "eb03bb4f-8b4b-417e-bfc6-294cd2186b2e"
+                }
+            ],
+            "Enchantment": [
+                {
+                    "count": 1,
+                    "id": "c2cad902-ffd2-4bab-b114-b4b6df2ac6b3"
+                }
+            ],
+            "Instant": [
+                {
+                    "count": 2,
+                    "id": "bd0bf74e-14c1-4428-88d8-2181a080b5d0"
+                },
+                {
+                    "count": 2,
+                    "id": "c4ded450-346d-4917-917a-b62bc0267509"
+                },
+                {
+                    "count": 2,
+                    "id": "d068192a-6270-4981-819d-4945fa4a2b83"
+                }
+            ],
+            "Sorcery": [
+                {
+                    "count": 2,
+                    "id": "ee7207f8-5daa-42af-aeea-7a489047110b"
+                },
+                {
+                    "count": 2,
+                    "id": "53a73200-b798-4bfd-a431-8b94e17b70be"
+                }
+            ]
+        }
+    },
+    {
         "title": "Temur Roar",
         "id": "Temur Roar",
         "game": "MTG",
@@ -393,7 +611,7 @@
         "title": "Abzan Armor",
         "id": "Abzan Armor",
         "game": "MTG",
-        "format": "Modern",
+        "format": "EDH",
         "cardCount": 100,
         "createdAt": "2025-04-15T16:06:53.553Z",
         "lastModifiedAt": "2025-04-15T16:34:21.573Z",
