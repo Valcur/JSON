@@ -80,11 +80,6 @@
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
-                        "quickActionButtons": [
-                            "tap",
-                            "hand",
-                            "discard"
-                        ],
                         "isHorizontalAllowed": true
                     },
                     "Mana": {
@@ -93,19 +88,12 @@
                         "height": "SMALL",
                         "alignment": "START",
                         "noAutoPayTo": "true",
-                        "quickActionButtons": [
-                            "reveal",
-                            "tap-one"
-                        ],
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Inkwell",
                         "showHiddenCardInHistory": true
                     },
                     "Items": {
                         "title": "Items",
-                        "defaultTypes": [
-                            "Item, Location"
-                        ],
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "START",

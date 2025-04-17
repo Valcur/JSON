@@ -28,10 +28,6 @@
             "newTurn": {
                 "drawOnStart": false,
                 "sharedTurn": true,
-                "firstPlayerToken": {
-                    "name": "Initiative",
-                    "image": "https://i.imgur.com/Zr2oV9p.png"
-                },
                 "firstPlayerTokenName": "Initiative",
                 "drawPerTurn": 2
             },
@@ -170,10 +166,6 @@
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "START",
-                        "quickActionButtons": [
-                            "reveal",
-                            "tap-one"
-                        ],
                         "opponentAlignment": "END",
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,

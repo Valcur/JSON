@@ -119,7 +119,6 @@
                     },
                     "Other": {
                         "title": "Other",
-                        "defaultTypes": ["Item, Location"],
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "END",
@@ -127,7 +126,6 @@
                     },
                     "Commander": {
                         "title": "Commander",
-                        "defaultTypes": [],
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "START",
@@ -195,7 +193,6 @@
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
-                        "quickActionButtons": ["tap", "hand", "discard"],
                         "isHorizontalAllowed": true
                     },
                     "Mana": {
@@ -203,12 +200,10 @@
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "START",
-                        "quickActionButtons": ["reveal", "tap-one"],
                         "isHorizontalAllowed": false
                     },
                     "Other": {
                         "title": "Other",
-                        "defaultTypes": ["Item, Location"],
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "END",
