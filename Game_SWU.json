@@ -107,14 +107,15 @@
                     "Leader": "Leader",
                     "Base": "Base",
                     "Event": "Stack",
-                    "Upgrade": "Stack"
+                    "Upgrade": "GROUP"
                 },
                 "autoPlayFromStack": {
                     "Unit - Ground": "Ground",
                     "Unit - Space": "Space",
                     "Leader": "Leader",
                     "Base": "Base",
-                    "Event": "Discard"
+                    "Event": "Discard",
+                    "Upgrade": "GROUP"
                 },
                 "sectionsDict": {
                     "Stack": {

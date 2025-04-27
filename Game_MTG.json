@@ -88,7 +88,8 @@
                     "Instant": "Stack",
                     "Land": "Mana",
                     "Planeswalker": "Other",
-                    "Battle": "Other"
+                    "Battle": "Other",
+                    "Enchantment - Aura": "GROUP"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -98,7 +99,8 @@
                     "Instant": "Discard",
                     "Land": "Mana",
                     "Planeswalker": "Other",
-                    "Battle": "Other"
+                    "Battle": "Other",
+                    "Enchantment - Aura": "GROUP"
                 },
                 "sectionsDict": {
                     "Creatures": {
