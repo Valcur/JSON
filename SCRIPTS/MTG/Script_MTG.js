@@ -21,6 +21,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                 lastLoadedCard = c
                 let newCard = {}
 
+                const id = c.oracle_id
                 let image = {}
                 let colors = []
                 if (c.card_faces && c.card_faces[0].image_uris) {
@@ -47,6 +48,8 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                         type = "Creature"
                     } else if (lowerCaseTypeLine.includes("artifact")) {
                         type = "Artifact"
+                    } else if (lowerCaseTypeLine.includes("enchantment — aura")) {
+                        type = "Enchantment - Aura"
                     } else if (lowerCaseTypeLine.includes("enchantment")) {
                         type = "Enchantment"
                     } else if (lowerCaseTypeLine.includes("land")) {
@@ -73,7 +76,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
 
                 const type = getCardType(c.type_line)
                 newCard = {
-                    id: c.id,
+                    id: id,
                     name: c.name,
                     type: type,
                     "Card type": c.type_line,
@@ -132,10 +135,9 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                 }
 
                 if (type != "Other" && c.layout != "art_series") {
-                    result[c.id] = newCard
+                    result[id] = newCard
                 }
             })
-
 
             // Sauvegarder le nouvel objet JSON dans un nouveau fichier
             fs.writeFile(outputFilePath, JSON.stringify(result, null, 2), 'utf8', (err) => {
