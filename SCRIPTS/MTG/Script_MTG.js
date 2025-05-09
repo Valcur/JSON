@@ -127,6 +127,18 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                                 image: image.back
                             }
                         }
+
+                        if (c.layout == "split") {
+                            newCard.face = {
+                                front: {
+                                    name: c.name,
+                                    type: typeFront,
+                                    cost: Math.trunc(c.cmc),
+                                    isHorizontal: !c.keywords.includes("Aftermath"),
+                                    image: image.front
+                                }
+                            }
+                        }
                     }
                 }
 
