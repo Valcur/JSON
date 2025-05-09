@@ -128,7 +128,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                             }
                         }
 
-                        if (c.layout == "split") {
+                        if (c.layout == "split" || c.layout == "adventure") {
                             newCard.face = {
                                 front: {
                                     name: c.name,
