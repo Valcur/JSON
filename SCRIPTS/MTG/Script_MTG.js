@@ -134,7 +134,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                                     name: c.name,
                                     type: typeFront,
                                     cost: Math.trunc(c.cmc),
-                                    isHorizontal: !c.keywords.includes("Aftermath"),
+                                    isHorizontal: !(c.keywords.includes("Aftermath") || c.layout == "adventure"),
                                     image: image.front
                                 }
                             }
