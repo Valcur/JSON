@@ -1,6 +1,6 @@
 [
     {
-        "title": "Scions & Spellcraft",
+        "title": "FIN - Scions & Spellcraft",
         "id": "Scions & Spellcraft",
         "game": "Magic the Gathering",
         "format": "EDH",
@@ -406,7 +406,7 @@
         }
     },
     {
-        "title": "Counter Blitz",
+        "title": "FIN - Counter Blitz",
         "id": "Counter Blitz",
         "game": "Magic the Gathering",
         "format": "EDH",
@@ -817,7 +817,7 @@
         }
     },
     {
-        "title": "Limit Break",
+        "title": "FIN - Limit Break",
         "id": "Limit Break",
         "game": "Magic the Gathering",
         "format": "EDH",
@@ -1228,7 +1228,7 @@
         }
     },
     {
-        "title": "Revival Trance",
+        "title": "FIN - Revival Trance",
         "id": "Revival Trance",
         "game": "Magic the Gathering",
         "format": "EDH",
@@ -1632,7 +1632,7 @@
         }
     },
     {
-        "title": "Otter Limits",
+        "title": "BLB - Otter Limits",
         "id": "Otter Limits",
         "game": "Magic the Gathering",
         "format": "Modern",
@@ -1739,7 +1739,7 @@
         }
     },
     {
-        "title": "Hare Raising",
+        "title": "BLB - Hare Raising",
         "id": "Hare Raising",
         "game": "Magic the Gathering",
         "format": "Modern",
@@ -1850,7 +1850,7 @@
         }
     },
     {
-        "title": "Temur Roar",
+        "title": "TDM - Temur Roar",
         "id": "Temur Roar",
         "game": "MTG",
         "format": "EDH",
@@ -2240,7 +2240,7 @@
         }
     },
     {
-        "title": "Abzan Armor",
+        "title": "TDM - Abzan Armor",
         "id": "Abzan Armor",
         "game": "MTG",
         "format": "EDH",
@@ -2614,7 +2614,7 @@
         }
     },
     {
-        "title": "Sultai Arisen",
+        "title": "TDM - Sultai Arisen",
         "id": "Sultai Arisen",
         "game": "MTG",
         "format": "EDH",
@@ -3000,7 +3000,7 @@
         }
     },
     {
-        "title": "Mardu Surge",
+        "title": "TDM - Mardu Surge",
         "id": "Mardu Surge",
         "game": "MTG",
         "format": "EDH",
@@ -3389,7 +3389,7 @@
         }
     },
     {
-        "title": "Jeskai Striker",
+        "title": "TDM - Jeskai Striker",
         "id": "Jeskai Striker",
         "game": "MTG",
         "format": "EDH",
