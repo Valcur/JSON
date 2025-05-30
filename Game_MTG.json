@@ -97,7 +97,8 @@
                     "Land": "Mana",
                     "Planeswalker": "Other",
                     "Battle": "Other",
-                    "Enchantment - Aura": "GROUP"
+                    "Enchantment - Aura": "GROUP",
+                    "Emblem": "Other"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -108,7 +109,8 @@
                     "Land": "Mana",
                     "Planeswalker": "Other",
                     "Battle": "Other",
-                    "Enchantment - Aura": "GROUP"
+                    "Enchantment - Aura": "GROUP",
+                    "Emblem": "Other"
                 },
                 "sectionsDict": {
                     "Creatures": {
@@ -138,7 +140,8 @@
                         "height": "SMALL",
                         "alignment": "START",
                         "isHorizontalAllowed": true,
-                        "noQuickActions": true
+                        "noQuickActions": true,
+                        "autoPayFrom": true
                     }
                 }
             }
@@ -183,7 +186,9 @@
                     "Instant": "Stack",
                     "Land": "Mana",
                     "Planeswalker": "Other",
-                    "Battle": "Other"
+                    "Battle": "Other",
+                    "Enchantment - Aura": "GROUP",
+                    "Emblem": "Other"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -193,7 +198,9 @@
                     "Instant": "Discard",
                     "Land": "Mana",
                     "Planeswalker": "Other",
-                    "Battle": "Other"
+                    "Battle": "Other",
+                    "Enchantment - Aura": "GROUP",
+                    "Emblem": "Other"
                 },
                 "sectionsDict": {
                     "Creatures": {

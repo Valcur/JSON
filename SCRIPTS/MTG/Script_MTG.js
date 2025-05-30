@@ -46,20 +46,22 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                         type = "Battle"
                     } else if (lowerCaseTypeLine.includes("creature")) {
                         type = "Creature"
+                    } else if (lowerCaseTypeLine.includes("land")) {
+                        type = "Land"
                     } else if (lowerCaseTypeLine.includes("artifact")) {
                         type = "Artifact"
                     } else if (lowerCaseTypeLine.includes("enchantment — aura")) {
                         type = "Enchantment - Aura"
                     } else if (lowerCaseTypeLine.includes("enchantment")) {
                         type = "Enchantment"
-                    } else if (lowerCaseTypeLine.includes("land")) {
-                        type = "Land"
                     } else if (lowerCaseTypeLine.includes("instant")) {
                         type = "Instant"
                     } else if (lowerCaseTypeLine.includes("sorcery")) {
                         type = "Sorcery"
                     } else if (lowerCaseTypeLine.includes("planeswalker")) {
                         type = "Planeswalker"
+                    } else if (lowerCaseTypeLine.includes("emblem")) {
+                        type = "Emblem"
                     }
                     return type
                 }
@@ -142,7 +144,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                     }
                 }
 
-                if (c.type_line.includes("oken")) {
+                if (c.type_line.includes("oken") || type === "Emblem") {
                     newCard.isToken = true
                 }
 
