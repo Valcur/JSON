@@ -2,6 +2,23 @@ const fs = require('fs');
 
 let lastLoadedCard = "NONE"
 
+function countCost(str) {
+    //if (str.length === '') { return 0 }
+    const matches = str.match(/\{([^}]+)\}/g);
+    if (!matches) return 0;
+
+    return matches.reduce((sum, token) => {
+        const content = token.slice(1, -1); // remove { and }
+        if (!isNaN(content)) {
+            return sum + parseInt(content, 10);
+        } else if (content === 'X') {
+            return sum + 0;
+        } else {
+            return sum + 1;
+        }
+    }, 0);
+}
+
 // Fonction pour lire et modifier le fichier JSON
 function modifyJsonFile(inputFilePath, outputFilePath) {
     // Lire le fichier JSON
@@ -110,6 +127,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                 if (c.card_faces) {
                     let splitType = c.type_line.split(' // ')
                     let splitName = c.name.split(' // ')
+
                     if (splitName.length == 2 && splitType.length == 2) {
                         let typeFront = getCardType(splitType[0])
                         let typeBack = getCardType(splitType[1])
@@ -117,14 +135,14 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                             front: {
                                 name: splitName[0],
                                 type: typeFront,
-                                cost: Math.trunc(c.cmc),
+                                cost: Math.trunc(countCost(c.card_faces[0].mana_cost)),
                                 isHorizontal: typeFront == "Battle",
                                 image: image.front
                             },
                             back: {
                                 name: splitName[1],
                                 type: typeBack,
-                                cost: Math.trunc(c.cmc),
+                                cost: Math.trunc(countCost(c.card_faces[1].mana_cost)),
                                 isHorizontal: typeBack == "Battle",
                                 image: image.back
                             }
