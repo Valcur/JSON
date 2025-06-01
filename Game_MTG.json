@@ -35,6 +35,7 @@
             },
             {
                 "title": "Duel Commander",
+                "customCategories": ["Commander"],
                 "gameplay": "Duel_Commander"
             }
         ]
