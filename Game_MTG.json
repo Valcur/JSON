@@ -276,7 +276,8 @@
             "mulligan": {
                 "info": "Draw seven cards again every time you mulligan. Once satisfied, put a card back on the bottom of your library for each time you have mulliganed (click those cards).",
                 "startingHandSize": 7,
-                "drawNewHand": true
+                "drawNewHand": true,
+                "putSelectionAtBottom": true
             },
             "newTurn": {
                 "drawOnStart": false,
