@@ -57441,5 +57441,7039 @@
       "FIRST ORDER",
       "PILOT"
     ]
+  },
+  "LOF_222": {
+    "id": "LOF_222",
+    "face": {
+      "front": {
+        "name": "A Precarious Predicament",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/222.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Precarious Predicament",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "LOF_106": {
+    "id": "LOF_106",
+    "face": {
+      "front": {
+        "name": "Acclamator Assault Ship",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acclamator Assault Ship",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 8,
+    "aspects": [
+      "Command",
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_129": {
+    "id": "LOF_129",
+    "face": {
+      "front": {
+        "name": "Acolyte of the Beyond",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acolyte of the Beyond",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH"
+    ]
+  },
+  "LOF_178": {
+    "id": "LOF_178",
+    "face": {
+      "front": {
+        "name": "Adept of Anger",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/178.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adept of Anger",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_142": {
+    "id": "LOF_142",
+    "face": {
+      "front": {
+        "name": "Adi Gallia, Stern and Focused",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/142.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adi Gallia, Stern and Focused",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_003": {
+    "id": "LOF_003",
+    "face": {
+      "front": {
+        "name": "Ahsoka Tano, Fighting For Peace",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/003-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Ahsoka Tano, Fighting For Peace",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/003-b.png"
+      }
+    },
+    "name": "Ahsoka Tano, Fighting For Peace",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_042": {
+    "id": "LOF_042",
+    "face": {
+      "front": {
+        "name": "Always Two",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Always Two",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH"
+    ]
+  },
+  "LOF_018": {
+    "id": "LOF_018",
+    "face": {
+      "front": {
+        "name": "Anakin Skywalker, Tempted by the Dark Side",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/018-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Anakin Skywalker, Tempted by the Dark Side",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/018-b.png"
+      }
+    },
+    "name": "Anakin Skywalker, Tempted by the Dark Side",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_070": {
+    "id": "LOF_070",
+    "face": {
+      "front": {
+        "name": "Anakin Skywalker, Champion of Mortis",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anakin Skywalker, Champion of Mortis",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_190": {
+    "id": "LOF_190",
+    "face": {
+      "front": {
+        "name": "Anakin Skywalker, Force Prodigy",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/190.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anakin Skywalker, Force Prodigy",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_236": {
+    "id": "LOF_236",
+    "face": {
+      "front": {
+        "name": "Army of the Dead",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/236.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Army of the Dead",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 7,
+    "HP": 6,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "NIGHT",
+      "UNDEAD"
+    ]
+  },
+  "LOF_188": {
+    "id": "LOF_188",
+    "face": {
+      "front": {
+        "name": "As I Have Foreseen",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/188.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "As I Have Foreseen",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_165": {
+    "id": "LOF_165",
+    "face": {
+      "front": {
+        "name": "Asajj Ventress, Harden Your Heart",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/165.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asajj Ventress, Harden Your Heart",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "LOF_215": {
+    "id": "LOF_215",
+    "face": {
+      "front": {
+        "name": "Ascension Cable",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/215.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascension Cable",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM"
+    ]
+  },
+  "LOF_174": {
+    "id": "LOF_174",
+    "face": {
+      "front": {
+        "name": "Ataru Onslaught",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/174.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ataru Onslaught",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_143": {
+    "id": "LOF_143",
+    "face": {
+      "front": {
+        "name": "Attuned Fyrnock",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attuned Fyrnock",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 1,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_179": {
+    "id": "LOF_179",
+    "face": {
+      "front": {
+        "name": "Aurra Sing, Patient and Deadly",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/179.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurra Sing, Patient and Deadly",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "LOF_007": {
+    "id": "LOF_007",
+    "face": {
+      "front": {
+        "name": "Avar Kriss, Marshal of Starlight",
+        "type": "Leader",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/007-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Avar Kriss, Marshal of Starlight",
+        "type": "Leader",
+        "cost": "9",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/007-b.png"
+      }
+    },
+    "name": "Avar Kriss, Marshal of Starlight",
+    "type": "Leader",
+    "cost": 9,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 10,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_066": {
+    "id": "LOF_066",
+    "face": {
+      "front": {
+        "name": "Awakened Specters",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/066.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awakened Specters",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "NIGHT",
+      "UNDEAD"
+    ]
+  },
+  "LOF_062": {
+    "id": "LOF_062",
+    "face": {
+      "front": {
+        "name": "Axe Woves, Accomplished Warrior",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axe Woves, Accomplished Warrior",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "LOF_191": {
+    "id": "LOF_191",
+    "face": {
+      "front": {
+        "name": "BD-1, Beep Boo Boo Bweep",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/191.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BD-1, Beep Boo Boo Bweep",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "DROID"
+    ]
+  },
+  "LOF_206": {
+    "id": "LOF_206",
+    "face": {
+      "front": {
+        "name": "Babu Frik, Heyyy!",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/206.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babu Frik, Heyyy!",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "LOF_181": {
+    "id": "LOF_181",
+    "face": {
+      "front": {
+        "name": "Banking Clan Shuttle",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/181.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banking Clan Shuttle",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_013": {
+    "id": "LOF_013",
+    "face": {
+      "front": {
+        "name": "Barriss Offee, We Have Become Villains",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/013-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Barriss Offee, We Have Become Villains",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/013-b.png"
+      }
+    },
+    "name": "Barriss Offee, We Have Become Villains",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_139": {
+    "id": "LOF_139",
+    "face": {
+      "front": {
+        "name": "Battle Fury",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/139.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle Fury",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "LOF_185": {
+    "id": "LOF_185",
+    "face": {
+      "front": {
+        "name": "Baylan Skoll, Enigmatic Master",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/185.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baylan Skoll, Enigmatic Master",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_170": {
+    "id": "LOF_170",
+    "face": {
+      "front": {
+        "name": "Bendu, Do You Fear the Storm?",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/170.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bendu, Do You Fear the Storm?",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 10,
+    "HP": 10,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "CREATURE"
+    ]
+  },
+  "LOF_166": {
+    "id": "LOF_166",
+    "face": {
+      "front": {
+        "name": "Blockade Runner",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/166.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blockade Runner",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_251": {
+    "id": "LOF_251",
+    "face": {
+      "front": {
+        "name": "Blue Squadron Assault Wing",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/251.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Squadron Assault Wing",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_074": {
+    "id": "LOF_074",
+    "face": {
+      "front": {
+        "name": "Bolstered Endurance",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bolstered Endurance",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_015": {
+    "id": "LOF_015",
+    "face": {
+      "front": {
+        "name": "Cal Kestis, I Can't Keep Hiding",
+        "type": "Leader",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/015-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Cal Kestis, I Can't Keep Hiding",
+        "type": "Leader",
+        "cost": "4",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/015-b.png"
+      }
+    },
+    "name": "Cal Kestis, I Can't Keep Hiding",
+    "type": "Leader",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_054": {
+    "id": "LOF_054",
+    "face": {
+      "front": {
+        "name": "Calm in the Storm",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calm in the Storm",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_083": {
+    "id": "LOF_083",
+    "face": {
+      "front": {
+        "name": "Captain Enoch, Captain of the Guard",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Enoch, Captain of the Guard",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "LOF_243": {
+    "id": "LOF_243",
+    "face": {
+      "front": {
+        "name": "Caretaker Matron",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/243.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caretaker Matron",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 4,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "LOF_157": {
+    "id": "LOF_157",
+    "face": {
+      "front": {
+        "name": "Cartel Interceptor",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/157.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cartel Interceptor",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_210": {
+    "id": "LOF_210",
+    "face": {
+      "front": {
+        "name": "Charging Phillak",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/210.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charging Phillak",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_067": {
+    "id": "LOF_067",
+    "face": {
+      "front": {
+        "name": "Chirrut Îmwe, Blind, but not Deaf",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chirrut Îmwe, Blind, but not Deaf",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_150": {
+    "id": "LOF_150",
+    "face": {
+      "front": {
+        "name": "Cin Drallig, Esteemed Blademaster",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/150.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cin Drallig, Esteemed Blademaster",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_261": {
+    "id": "LOF_261",
+    "face": {
+      "front": {
+        "name": "Constructed Lightsaber",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/261.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Constructed Lightsaber",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_239": {
+    "id": "LOF_239",
+    "face": {
+      "front": {
+        "name": "Consumed by the Dark Side",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/239.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consumed by the Dark Side",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_187": {
+    "id": "LOF_187",
+    "face": {
+      "front": {
+        "name": "Corrupted Saber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/187.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corrupted Saber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_091": {
+    "id": "LOF_091",
+    "face": {
+      "front": {
+        "name": "Craving Power",
+        "type": "Upgrade",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Craving Power",
+    "type": "Upgrade",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "LOF_077": {
+    "id": "LOF_077",
+    "face": {
+      "front": {
+        "name": "Crushing Blow",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crushing Blow",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "LOF_029": {
+    "id": "LOF_029",
+    "face": {
+      "front": {
+        "name": "Crystal Caves, Ilum",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/029-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Crystal Caves, Ilum",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_075": {
+    "id": "LOF_075",
+    "face": {
+      "front": {
+        "name": "Cure Wounds",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cure Wounds",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_255": {
+    "id": "LOF_255",
+    "face": {
+      "front": {
+        "name": "Curious Flock",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/255.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Curious Flock",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_155": {
+    "id": "LOF_155",
+    "face": {
+      "front": {
+        "name": "DRK-1 Probe Droid",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/155.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DRK-1 Probe Droid",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "DROID"
+    ]
+  },
+  "LOF_115": {
+    "id": "LOF_115",
+    "face": {
+      "front": {
+        "name": "Dagoyan Master",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/115.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dagoyan Master",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_234": {
+    "id": "LOF_234",
+    "face": {
+      "front": {
+        "name": "Darth Malak, Covetous Apprentice",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/234.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Malak, Covetous Apprentice",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SITH"
+    ]
+  },
+  "LOF_009": {
+    "id": "LOF_009",
+    "face": {
+      "front": {
+        "name": "Darth Maul, Sith Revealed",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/009-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Maul, Sith Revealed",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/009-b.png"
+      }
+    },
+    "name": "Darth Maul, Sith Revealed",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SITH"
+    ]
+  },
+  "LOF_140": {
+    "id": "LOF_140",
+    "face": {
+      "front": {
+        "name": "Darth Maul's Lightsaber",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/140.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Maul's Lightsaber",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_017": {
+    "id": "LOF_017",
+    "face": {
+      "front": {
+        "name": "Darth Revan, Scourge of the Old Republic",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/017-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Revan, Scourge of the Old Republic",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/017-b.png"
+      }
+    },
+    "name": "Darth Revan, Scourge of the Old Republic",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SITH"
+    ]
+  },
+  "LOF_238": {
+    "id": "LOF_238",
+    "face": {
+      "front": {
+        "name": "Darth Revan's Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/238.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Revan's Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_039": {
+    "id": "LOF_039",
+    "face": {
+      "front": {
+        "name": "Darth Sidious, The Phantom Menace",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Sidious, The Phantom Menace",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Special",
+    "power": 6,
+    "HP": 8,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH"
+    ]
+  },
+  "LOF_231": {
+    "id": "LOF_231",
+    "face": {
+      "front": {
+        "name": "Darth Tyranus, Servant of Sidious",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/231.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Tyranus, Servant of Sidious",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH"
+    ]
+  },
+  "LOF_037": {
+    "id": "LOF_037",
+    "face": {
+      "front": {
+        "name": "Darth Vader, Twilight of the Apprentice",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Vader, Twilight of the Apprentice",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH"
+    ]
+  },
+  "LOF_141": {
+    "id": "LOF_141",
+    "face": {
+      "front": {
+        "name": "Death Field",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/141.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Field",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_180": {
+    "id": "LOF_180",
+    "face": {
+      "front": {
+        "name": "Deceptive Shade",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/180.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deceptive Shade",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH",
+      "UNDEAD"
+    ]
+  },
+  "LOF_199": {
+    "id": "LOF_199",
+    "face": {
+      "front": {
+        "name": "Depa Billaba, A Higher Purpose",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/199.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Depa Billaba, A Higher Purpose",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_123": {
+    "id": "LOF_123",
+    "face": {
+      "front": {
+        "name": "Directed by the Force",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Directed by the Force",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_216": {
+    "id": "LOF_216",
+    "face": {
+      "front": {
+        "name": "Disturbance in the Force",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/216.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disturbance in the Force",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_175": {
+    "id": "LOF_175",
+    "face": {
+      "front": {
+        "name": "Do or Do Not",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Do or Do Not",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_211": {
+    "id": "LOF_211",
+    "face": {
+      "front": {
+        "name": "Dooku, It is Too Late",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/211.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dooku, It is Too Late",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_041": {
+    "id": "LOF_041",
+    "face": {
+      "front": {
+        "name": "Drain Essence",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drain Essence",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_086": {
+    "id": "LOF_086",
+    "face": {
+      "front": {
+        "name": "Drengir Spawn",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drengir Spawn",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_055": {
+    "id": "LOF_055",
+    "face": {
+      "front": {
+        "name": "Dume, Redeem the Future",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dume, Redeem the Future",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "CREATURE"
+    ]
+  },
+  "LOF_097": {
+    "id": "LOF_097",
+    "face": {
+      "front": {
+        "name": "Eeth Koth, Spiritual Warrior",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eeth Koth, Spiritual Warrior",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_087": {
+    "id": "LOF_087",
+    "face": {
+      "front": {
+        "name": "Eighth Brother, Hunt Together",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eighth Brother, Hunt Together",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_080": {
+    "id": "LOF_080",
+    "face": {
+      "front": {
+        "name": "Exegol Patroller",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exegol Patroller",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 1,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "SITH",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_088": {
+    "id": "LOF_088",
+    "face": {
+      "front": {
+        "name": "Eye of Sion, To Peridea",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/088.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eye of Sion, To Peridea",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_046": {
+    "id": "LOF_046",
+    "face": {
+      "front": {
+        "name": "Ezra Bridger, Attuned With Life",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezra Bridger, Attuned With Life",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REBEL",
+      "SPECTRE"
+    ]
+  },
+  "LOF_230": {
+    "id": "LOF_230",
+    "face": {
+      "front": {
+        "name": "Fallen Jedi",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/230.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fallen Jedi",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_240": {
+    "id": "LOF_240",
+    "face": {
+      "front": {
+        "name": "Flight of the Inquisitor",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/240.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flight of the Inquisitor",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "LOF_152": {
+    "id": "LOF_152",
+    "face": {
+      "front": {
+        "name": "Focus Determines Reality",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/152.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Focus Determines Reality",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_103": {
+    "id": "LOF_103",
+    "face": {
+      "front": {
+        "name": "Following the Path",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Following the Path",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "LOF_223": {
+    "id": "LOF_223",
+    "face": {
+      "front": {
+        "name": "Force Illusion",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/223.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Force Illusion",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "TRICK"
+    ]
+  },
+  "LOF_217": {
+    "id": "LOF_217",
+    "face": {
+      "front": {
+        "name": "Force Slow",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/217.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Force Slow",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_205": {
+    "id": "LOF_205",
+    "face": {
+      "front": {
+        "name": "Force Speed",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/205.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Force Speed",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_228": {
+    "id": "LOF_228",
+    "face": {
+      "front": {
+        "name": "Forged Starfighter",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/228.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forged Starfighter",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_026": {
+    "id": "LOF_026",
+    "face": {
+      "front": {
+        "name": "Fortress Vader, Mustafar",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/026-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Fortress Vader, Mustafar",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_256": {
+    "id": "LOF_256",
+    "face": {
+      "front": {
+        "name": "Gifted Urchin",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/256.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gifted Urchin",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 4,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_262": {
+    "id": "LOF_262",
+    "face": {
+      "front": {
+        "name": "Go Into Hiding",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/262.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Go Into Hiding",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_069": {
+    "id": "LOF_069",
+    "face": {
+      "front": {
+        "name": "Graceful Purrgil",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graceful Purrgil",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 7,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_014": {
+    "id": "LOF_014",
+    "face": {
+      "front": {
+        "name": "Grand Inquisitor, Stories Travel Quickly",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/014-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Grand Inquisitor, Stories Travel Quickly",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/014-b.png"
+      }
+    },
+    "name": "Grand Inquisitor, Stories Travel Quickly",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_132": {
+    "id": "LOF_132",
+    "face": {
+      "front": {
+        "name": "Grand Inquisitor, You're Right to Be Afraid",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grand Inquisitor, You're Right to Be Afraid",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_071": {
+    "id": "LOF_071",
+    "face": {
+      "front": {
+        "name": "Grappling Guardian",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grappling Guardian",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 9,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_246": {
+    "id": "LOF_246",
+    "face": {
+      "front": {
+        "name": "Grogu, Mysterious Child",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/246.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grogu, Mysterious Child",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 1,
+    "HP": 6,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_058": {
+    "id": "LOF_058",
+    "face": {
+      "front": {
+        "name": "Guardian of the Whills",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardian of the Whills",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_247": {
+    "id": "LOF_247",
+    "face": {
+      "front": {
+        "name": "Gungan Warrior",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/247.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gungan Warrior",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "GUNGAN",
+      "TROOPER"
+    ]
+  },
+  "LOF_093": {
+    "id": "LOF_093",
+    "face": {
+      "front": {
+        "name": "Gungi, Finding Himself",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gungi, Finding Himself",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "WOOKIEE"
+    ]
+  },
+  "LOF_130": {
+    "id": "LOF_130",
+    "face": {
+      "front": {
+        "name": "HK-47, Exclamation: Die, Meatbag!",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "HK-47, Exclamation: Die, Meatbag!",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Legendary",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SITH",
+      "DROID"
+    ]
+  },
+  "LOF_235": {
+    "id": "LOF_235",
+    "face": {
+      "front": {
+        "name": "HK-87 Assassin Droid",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/235.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "HK-87 Assassin Droid",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "DROID"
+    ]
+  },
+  "LOF_171": {
+    "id": "LOF_171",
+    "face": {
+      "front": {
+        "name": "Heavy Blaster Cannon",
+        "type": "Upgrade",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/171.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heavy Blaster Cannon",
+    "type": "Upgrade",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "LOF_134": {
+    "id": "LOF_134",
+    "face": {
+      "front": {
+        "name": "Heavy Missile Gunship",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heavy Missile Gunship",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_053": {
+    "id": "LOF_053",
+    "face": {
+      "front": {
+        "name": "Heirloom Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/053.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heirloom Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_110": {
+    "id": "LOF_110",
+    "face": {
+      "front": {
+        "name": "Hive Defense Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/110.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hive Defense Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_162": {
+    "id": "LOF_162",
+    "face": {
+      "front": {
+        "name": "Hunting Nexu",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/162.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunting Nexu",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_158": {
+    "id": "LOF_158",
+    "face": {
+      "front": {
+        "name": "Hyena Bomber",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/158.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyena Bomber",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_119": {
+    "id": "LOF_119",
+    "face": {
+      "front": {
+        "name": "Hyperspace Wayfarer",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyperspace Wayfarer",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 10,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_218": {
+    "id": "LOF_218",
+    "face": {
+      "front": {
+        "name": "Impossible Escape",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/218.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Impossible Escape",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_241": {
+    "id": "LOF_241",
+    "face": {
+      "front": {
+        "name": "In the Shadows",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/241.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "In the Shadows",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "LOF_156": {
+    "id": "LOF_156",
+    "face": {
+      "front": {
+        "name": "Infused Brawler ",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/156.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infused Brawler ",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_090": {
+    "id": "LOF_090",
+    "face": {
+      "front": {
+        "name": "Inquisitor's Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inquisitor's Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_169": {
+    "id": "LOF_169",
+    "face": {
+      "front": {
+        "name": "Invasion Control Ship",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/169.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invasion Control Ship",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 9,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_264": {
+    "id": "LOF_264",
+    "face": {
+      "front": {
+        "name": "It's Worse",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/264.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's Worse",
+    "type": "Event",
+    "cost": 7,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "LOF_048": {
+    "id": "LOF_048",
+    "face": {
+      "front": {
+        "name": "Itinerant Warrior",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itinerant Warrior",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_194": {
+    "id": "LOF_194",
+    "face": {
+      "front": {
+        "name": "J-Type Nubian Starship",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/194.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "J-Type Nubian Starship",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "NABOO",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_094": {
+    "id": "LOF_094",
+    "face": {
+      "front": {
+        "name": "Jedi Consular",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/094.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Consular",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_049": {
+    "id": "LOF_049",
+    "face": {
+      "front": {
+        "name": "Jedi Guardian",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Guardian",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 8,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_051": {
+    "id": "LOF_051",
+    "face": {
+      "front": {
+        "name": "Jedi Holocron",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Holocron",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "ITEM"
+    ]
+  },
+  "LOF_159": {
+    "id": "LOF_159",
+    "face": {
+      "front": {
+        "name": "Jedi In Hiding",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/159.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi In Hiding",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_145": {
+    "id": "LOF_145",
+    "face": {
+      "front": {
+        "name": "Jedi Knight",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/145.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Knight",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_196": {
+    "id": "LOF_196",
+    "face": {
+      "front": {
+        "name": "Jedi Sentinel",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/196.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Sentinel",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_144": {
+    "id": "LOF_144",
+    "face": {
+      "front": {
+        "name": "Jedi Starfighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/144.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Starfighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_023": {
+    "id": "LOF_023",
+    "face": {
+      "front": {
+        "name": "Jedi Temple, Coruscant",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/023-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Jedi Temple, Coruscant",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_113": {
+    "id": "LOF_113",
+    "face": {
+      "front": {
+        "name": "Jedi Temple Guards",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Temple Guards",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_052": {
+    "id": "LOF_052",
+    "face": {
+      "front": {
+        "name": "Jedi Trials",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Trials",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "LEARNED"
+    ]
+  },
+  "LOF_244": {
+    "id": "LOF_244",
+    "face": {
+      "front": {
+        "name": "Jedi Vector",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/244.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi Vector",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_248": {
+    "id": "LOF_248",
+    "face": {
+      "front": {
+        "name": "Jocasta Nu, The Gift of Knowledge",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/248.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jocasta Nu, The Gift of Knowledge",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_114": {
+    "id": "LOF_114",
+    "face": {
+      "front": {
+        "name": "Kaadu",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaadu",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_004": {
+    "id": "LOF_004",
+    "face": {
+      "front": {
+        "name": "Kanan Jarrus, Help Us Survive",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/004-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Kanan Jarrus, Help Us Survive",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/004-b.png"
+      }
+    },
+    "name": "Kanan Jarrus, Help Us Survive",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REBEL",
+      "SPECTRE"
+    ]
+  },
+  "LOF_031": {
+    "id": "LOF_031",
+    "face": {
+      "front": {
+        "name": "Karis, We Don't Like Strangers",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karis, We Don't Like Strangers",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_100": {
+    "id": "LOF_100",
+    "face": {
+      "front": {
+        "name": "Kelleran Beq, The Sabered Hand",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kelleran Beq, The Sabered Hand",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 7,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_146": {
+    "id": "LOF_146",
+    "face": {
+      "front": {
+        "name": "Ki-Adi-Mundi, We Must Push On",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/146.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ki-Adi-Mundi, We Must Push On",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_011": {
+    "id": "LOF_011",
+    "face": {
+      "front": {
+        "name": "Kit Fisto, Focused Jedi Master",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/011-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Kit Fisto, Focused Jedi Master",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/011-b.png"
+      }
+    },
+    "name": "Kit Fisto, Focused Jedi Master",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_147": {
+    "id": "LOF_147",
+    "face": {
+      "front": {
+        "name": "Kit Fisto's Aethersprite, Good Hunting",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/147.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kit Fisto's Aethersprite, Good Hunting",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_084": {
+    "id": "LOF_084",
+    "face": {
+      "front": {
+        "name": "Knight of Ren",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight of Ren",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER"
+    ]
+  },
+  "LOF_151": {
+    "id": "LOF_151",
+    "face": {
+      "front": {
+        "name": "Knight's Saber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight's Saber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_257": {
+    "id": "LOF_257",
+    "face": {
+      "front": {
+        "name": "Kowakian Monkey-Lizard",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/257.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kowakian Monkey-Lizard",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_001": {
+    "id": "LOF_001",
+    "face": {
+      "front": {
+        "name": "Kylo Ren, We're Not Done Yet",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/001-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Kylo Ren, We're Not Done Yet",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/001-b.png"
+      }
+    },
+    "name": "Kylo Ren, We're Not Done Yet",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FIRST ORDER"
+    ]
+  },
+  "LOF_229": {
+    "id": "LOF_229",
+    "face": {
+      "front": {
+        "name": "Kylo Ren, I Know Your Story",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/229.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kylo Ren, I Know Your Story",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FIRST ORDER"
+    ]
+  },
+  "LOF_040": {
+    "id": "LOF_040",
+    "face": {
+      "front": {
+        "name": "Kylo Ren's Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kylo Ren's Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_263": {
+    "id": "LOF_263",
+    "face": {
+      "front": {
+        "name": "Last Words",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/263.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Words",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_098": {
+    "id": "LOF_098",
+    "face": {
+      "front": {
+        "name": "Leia Organa, Extraordinary",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leia Organa, Extraordinary",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "RESISTANCE",
+      "OFFICIAL"
+    ]
+  },
+  "LOF_189": {
+    "id": "LOF_189",
+    "face": {
+      "front": {
+        "name": "Liberated by Darkness",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/189.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liberated by Darkness",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_212": {
+    "id": "LOF_212",
+    "face": {
+      "front": {
+        "name": "Life Wind Sage",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/212.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Wind Sage",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_176": {
+    "id": "LOF_176",
+    "face": {
+      "front": {
+        "name": "Lightsaber Throw",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/176.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightsaber Throw",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "LOF_253": {
+    "id": "LOF_253",
+    "face": {
+      "front": {
+        "name": "Longbeam Cruiser",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/253.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Longbeam Cruiser",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_095": {
+    "id": "LOF_095",
+    "face": {
+      "front": {
+        "name": "Lor San Tekka, Secret Keeper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lor San Tekka, Secret Keeper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "RESISTANCE"
+    ]
+  },
+  "LOF_207": {
+    "id": "LOF_207",
+    "face": {
+      "front": {
+        "name": "Loth-Cat",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/207.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loth-Cat",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_044": {
+    "id": "LOF_044",
+    "face": {
+      "front": {
+        "name": "Loth-Wolf",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loth-Wolf",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_249": {
+    "id": "LOF_249",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, A Hero's Beginning",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/249.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luke Skywalker, A Hero's Beginning",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_104": {
+    "id": "LOF_104",
+    "face": {
+      "front": {
+        "name": "Luminous Beings",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luminous Beings",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_068": {
+    "id": "LOF_068",
+    "face": {
+      "front": {
+        "name": "Luthen Rael, Masquerading Antiquarian",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luthen Rael, Masquerading Antiquarian",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "LOF_149": {
+    "id": "LOF_149",
+    "face": {
+      "front": {
+        "name": "Mace Windu, Leaping into Action",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/149.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mace Windu, Leaping into Action",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_032": {
+    "id": "LOF_032",
+    "face": {
+      "front": {
+        "name": "Magistrate's Scout",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magistrate's Scout",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "LOF_108": {
+    "id": "LOF_108",
+    "face": {
+      "front": {
+        "name": "Malakili, Loving Rancor Keeper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malakili, Loving Rancor Keeper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "LOF_186": {
+    "id": "LOF_186",
+    "face": {
+      "front": {
+        "name": "Marchion Ro, Eye of the Nihil",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/186.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marchion Ro, Eye of the Nihil",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "NIHIL"
+    ]
+  },
+  "LOF_111": {
+    "id": "LOF_111",
+    "face": {
+      "front": {
+        "name": "Maz Kanata, The Light Guides",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maz Kanata, The Light Guides",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "LOF_250": {
+    "id": "LOF_250",
+    "face": {
+      "front": {
+        "name": "Medical Frigate",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/250.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medical Frigate",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_160": {
+    "id": "LOF_160",
+    "face": {
+      "front": {
+        "name": "Merrin, Alone with the Dead",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/160.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merrin, Alone with the Dead",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_202": {
+    "id": "LOF_202",
+    "face": {
+      "front": {
+        "name": "Mind Trick",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/202.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Trick",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "TRICK"
+    ]
+  },
+  "LOF_005": {
+    "id": "LOF_005",
+    "face": {
+      "front": {
+        "name": "Morgan Elsbeth, Following the Call",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/005-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Morgan Elsbeth, Following the Call",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/005-b.png"
+      }
+    },
+    "name": "Morgan Elsbeth, Following the Call",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "NIGHT"
+    ]
+  },
+  "LOF_002": {
+    "id": "LOF_002",
+    "face": {
+      "front": {
+        "name": "Mother Talzin, Power Through Magick",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/002-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Mother Talzin, Power Through Magick",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/002-b.png"
+      }
+    },
+    "name": "Mother Talzin, Power Through Magick",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_109": {
+    "id": "LOF_109",
+    "face": {
+      "front": {
+        "name": "Mynock",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mynock",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_208": {
+    "id": "LOF_208",
+    "face": {
+      "front": {
+        "name": "Mysterious Hermit",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/208.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mysterious Hermit",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_022": {
+    "id": "LOF_022",
+    "face": {
+      "front": {
+        "name": "Mystic Monastery, Mortis",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/022-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Mystic Monastery, Mortis",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 25,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_073": {
+    "id": "LOF_073",
+    "face": {
+      "front": {
+        "name": "Mythosaur, Folklore Awakened",
+        "type": "Unit - Ground",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mythosaur, Folklore Awakened",
+    "type": "Unit - Ground",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 10,
+    "HP": 10,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "CREATURE"
+    ]
+  },
+  "LOF_192": {
+    "id": "LOF_192",
+    "face": {
+      "front": {
+        "name": "N-1 Starfighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "N-1 Starfighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "NABOO",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_033": {
+    "id": "LOF_033",
+    "face": {
+      "front": {
+        "name": "Nameless Terror",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nameless Terror",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_020": {
+    "id": "LOF_020",
+    "face": {
+      "front": {
+        "name": "Nightsister Lair, Dathomir",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/020-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Nightsister Lair, Dathomir",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_059": {
+    "id": "LOF_059",
+    "face": {
+      "front": {
+        "name": "Nightsister Warrior",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/059.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nightsister Warrior",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_182": {
+    "id": "LOF_182",
+    "face": {
+      "front": {
+        "name": "Nihil Marauder",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/182.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nihil Marauder",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "TROOPER",
+      "NIHIL"
+    ]
+  },
+  "LOF_124": {
+    "id": "LOF_124",
+    "face": {
+      "front": {
+        "name": "Niman Strike",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Niman Strike",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_008": {
+    "id": "LOF_008",
+    "face": {
+      "front": {
+        "name": "Obi-Wan Kenobi, Courage Makes Heroes",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/008-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Obi-Wan Kenobi, Courage Makes Heroes",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/008-b.png"
+      }
+    },
+    "name": "Obi-Wan Kenobi, Courage Makes Heroes",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_096": {
+    "id": "LOF_096",
+    "face": {
+      "front": {
+        "name": "Obi-Wan Kenobi, Protective Padawan",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/096.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Obi-Wan Kenobi, Protective Padawan",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_063": {
+    "id": "LOF_063",
+    "face": {
+      "front": {
+        "name": "Oggdo Bogdo, Bogano Brute",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oggdo Bogdo, Bogano Brute",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_036": {
+    "id": "LOF_036",
+    "face": {
+      "front": {
+        "name": "Old Daka, Oldest and Wisest",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Old Daka, Oldest and Wisest",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_105": {
+    "id": "LOF_105",
+    "face": {
+      "front": {
+        "name": "Oppo Rancisis, Ancient Councilor",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oppo Rancisis, Ancient Councilor",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_112": {
+    "id": "LOF_112",
+    "face": {
+      "front": {
+        "name": "Outer Rim Mystic",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/112.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Outer Rim Mystic",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 6,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_126": {
+    "id": "LOF_126",
+    "face": {
+      "front": {
+        "name": "Overpower",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overpower",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "LOF_057": {
+    "id": "LOF_057",
+    "face": {
+      "front": {
+        "name": "Owen Lars, Devoted Uncle",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Owen Lars, Devoted Uncle",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "LOF_060": {
+    "id": "LOF_060",
+    "face": {
+      "front": {
+        "name": "Padawan Starfighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Padawan Starfighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_099": {
+    "id": "LOF_099",
+    "face": {
+      "front": {
+        "name": "Paladin Training Corvette",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paladin Training Corvette",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_153": {
+    "id": "LOF_153",
+    "face": {
+      "front": {
+        "name": "Paz Vizsla, Unyielding Warrior",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/153.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paz Vizsla, Unyielding Warrior",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "LOF_258": {
+    "id": "LOF_258",
+    "face": {
+      "front": {
+        "name": "Peli Motto, I Should Charge You More",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/258.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peli Motto, I Should Charge You More",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "aspects": [],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "LOF_122": {
+    "id": "LOF_122",
+    "face": {
+      "front": {
+        "name": "Pillio Star Compass",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pillio Star Compass",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM"
+    ]
+  },
+  "LOF_050": {
+    "id": "LOF_050",
+    "face": {
+      "front": {
+        "name": "Plo Koon, I Don't Believe in Chance",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plo Koon, I Don't Believe in Chance",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 8,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_092": {
+    "id": "LOF_092",
+    "face": {
+      "front": {
+        "name": "Point Rain Reclaimer",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Point Rain Reclaimer",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "LOF_038": {
+    "id": "LOF_038",
+    "face": {
+      "front": {
+        "name": "Pong Krell, It's Treason, Then",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pong Krell, It's Treason, Then",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 9,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_254": {
+    "id": "LOF_254",
+    "face": {
+      "front": {
+        "name": "Porg",
+        "type": "Unit - Ground",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/254.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Porg",
+    "type": "Unit - Ground",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 1,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_224": {
+    "id": "LOF_224",
+    "face": {
+      "front": {
+        "name": "Pounce",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/224.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pounce",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "LOF_085": {
+    "id": "LOF_085",
+    "face": {
+      "front": {
+        "name": "Praetorian Guard",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Praetorian Guard",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER"
+    ]
+  },
+  "LOF_203": {
+    "id": "LOF_203",
+    "face": {
+      "front": {
+        "name": "Premonition of Doom",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/203.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premonition of Doom",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_072": {
+    "id": "LOF_072",
+    "face": {
+      "front": {
+        "name": "Priestesses of the Force, Eternal",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Priestesses of the Force, Eternal",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 8,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_128": {
+    "id": "LOF_128",
+    "face": {
+      "front": {
+        "name": "Protect the Pod",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/128.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protect the Pod",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "LOF_219": {
+    "id": "LOF_219",
+    "face": {
+      "front": {
+        "name": "Psychometry",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/219.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psychometry",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_133": {
+    "id": "LOF_133",
+    "face": {
+      "front": {
+        "name": "Purge Trooper",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purge Trooper",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 2,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "LOF_016": {
+    "id": "LOF_016",
+    "face": {
+      "front": {
+        "name": "Qui-Gon Jinn, Student of the Living Force",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/016-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Qui-Gon Jinn, Student of the Living Force",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/016-b.png"
+      }
+    },
+    "name": "Qui-Gon Jinn, Student of the Living Force",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_200": {
+    "id": "LOF_200",
+    "face": {
+      "front": {
+        "name": "Qui-Gon Jinn, The Negotiations will be Short",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/200.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qui-Gon Jinn, The Negotiations will be Short",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 7,
+    "HP": 5,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_197": {
+    "id": "LOF_197",
+    "face": {
+      "front": {
+        "name": "Qui-Gon Jinn's Aethersprite, Guided by the Force",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/197.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qui-Gon Jinn's Aethersprite, Guided by the Force",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "JEDI",
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_201": {
+    "id": "LOF_201",
+    "face": {
+      "front": {
+        "name": "Qui-Gon Jinn's Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/201.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qui-Gon Jinn's Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_163": {
+    "id": "LOF_163",
+    "face": {
+      "front": {
+        "name": "Quinlan Vos, Dark Disciple",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/163.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quinlan Vos, Dark Disciple",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_127": {
+    "id": "LOF_127",
+    "face": {
+      "front": {
+        "name": "Rampage",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampage",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "LOF_259": {
+    "id": "LOF_259",
+    "face": {
+      "front": {
+        "name": "Ravening Gundark",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/259.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ravening Gundark",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_168": {
+    "id": "LOF_168",
+    "face": {
+      "front": {
+        "name": "Ravenous Rathtar",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/168.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ravenous Rathtar",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 8,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_242": {
+    "id": "LOF_242",
+    "face": {
+      "front": {
+        "name": "Refugee of The Path",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/242.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Refugee of The Path",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 3,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_116": {
+    "id": "LOF_116",
+    "face": {
+      "front": {
+        "name": "Relic Scavenger",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relic Scavenger",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "LOF_012": {
+    "id": "LOF_012",
+    "face": {
+      "front": {
+        "name": "Rey, Nobody",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/012-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rey, Nobody",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/012-b.png"
+      }
+    },
+    "name": "Rey, Nobody",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 8,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "RESISTANCE"
+    ]
+  },
+  "LOF_148": {
+    "id": "LOF_148",
+    "face": {
+      "front": {
+        "name": "Rey, With Palpatine's Power",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/148.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rey, With Palpatine's Power",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "RESISTANCE"
+    ]
+  },
+  "LOF_167": {
+    "id": "LOF_167",
+    "face": {
+      "front": {
+        "name": "Saesee Tiin, Courageous Warrior",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/167.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saesee Tiin, Courageous Warrior",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_232": {
+    "id": "LOF_232",
+    "face": {
+      "front": {
+        "name": "Sandtrooper Cavalry",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/232.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandtrooper Cavalry",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 6,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "CREATURE",
+      "TROOPER"
+    ]
+  },
+  "LOF_137": {
+    "id": "LOF_137",
+    "face": {
+      "front": {
+        "name": "Savage Opress, Imbued With Hate",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/137.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savage Opress, Imbued With Hate",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 9,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_233": {
+    "id": "LOF_233",
+    "face": {
+      "front": {
+        "name": "Scimitar, Sith Infiltrator",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/233.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scimitar, Sith Infiltrator",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SITH",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_135": {
+    "id": "LOF_135",
+    "face": {
+      "front": {
+        "name": "Scythe, Intimidating Silhouette",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scythe, Intimidating Silhouette",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_184": {
+    "id": "LOF_184",
+    "face": {
+      "front": {
+        "name": "Second Sister, Seeking the Holocron",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/184.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Second Sister, Seeking the Holocron",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_061": {
+    "id": "LOF_061",
+    "face": {
+      "front": {
+        "name": "Secretive Sage",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Secretive Sage",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_021": {
+    "id": "LOF_021",
+    "face": {
+      "front": {
+        "name": "Shadowed Undercity, Coruscant",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/021-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Shadowed Undercity, Coruscant",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_079": {
+    "id": "LOF_079",
+    "face": {
+      "front": {
+        "name": "Shatterpoint",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shatterpoint",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_220": {
+    "id": "LOF_220",
+    "face": {
+      "front": {
+        "name": "Shien Flurry",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/220.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shien Flurry",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_183": {
+    "id": "LOF_183",
+    "face": {
+      "front": {
+        "name": "Shin Hati, Overeager Apprentice",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/183.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shin Hati, Overeager Apprentice",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 2,
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_117": {
+    "id": "LOF_117",
+    "face": {
+      "front": {
+        "name": "Sifo-Dyas",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sifo-Dyas",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_138": {
+    "id": "LOF_138",
+    "face": {
+      "front": {
+        "name": "Sith Holocron",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/138.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sith Holocron",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH",
+      "ITEM"
+    ]
+  },
+  "LOF_081": {
+    "id": "LOF_081",
+    "face": {
+      "front": {
+        "name": "Sith Legionnaire",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sith Legionnaire",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH",
+      "TROOPER"
+    ]
+  },
+  "LOF_056": {
+    "id": "LOF_056",
+    "face": {
+      "front": {
+        "name": "Size Matters Not",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Size Matters Not",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_214": {
+    "id": "LOF_214",
+    "face": {
+      "front": {
+        "name": "Sorcerers of Tund",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/214.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sorcerers of Tund",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "FRINGE"
+    ]
+  },
+  "LOF_172": {
+    "id": "LOF_172",
+    "face": {
+      "front": {
+        "name": "Sorcerous Blast",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/172.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sorcerous Blast",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_076": {
+    "id": "LOF_076",
+    "face": {
+      "front": {
+        "name": "Soresu Stance",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soresu Stance",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_024": {
+    "id": "LOF_024",
+    "face": {
+      "front": {
+        "name": "Starlight Temple, Starlight Beacon",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/024-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Starlight Temple, Starlight Beacon",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_198": {
+    "id": "LOF_198",
+    "face": {
+      "front": {
+        "name": "Stinger Mantis, Where Are We Going?",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/198.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stinger Mantis, Where Are We Going?",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_027": {
+    "id": "LOF_027",
+    "face": {
+      "front": {
+        "name": "Strangled Cliffs, Dathomir",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/027-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Strangled Cliffs, Dathomir",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_131": {
+    "id": "LOF_131",
+    "face": {
+      "front": {
+        "name": "Strikeship",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strikeship",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER",
+      "NIHIL"
+    ]
+  },
+  "LOF_089": {
+    "id": "LOF_089",
+    "face": {
+      "front": {
+        "name": "Supremacy, Of Unimaginable Size",
+        "type": "Unit - Space",
+        "cost": 12,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supremacy, Of Unimaginable Size",
+    "type": "Unit - Space",
+    "cost": 12,
+    "rarity": "Legendary",
+    "power": 12,
+    "HP": 12,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "LOF_034": {
+    "id": "LOF_034",
+    "face": {
+      "front": {
+        "name": "Supremacy TIE/sf",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supremacy TIE/sf",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "LOF_006": {
+    "id": "LOF_006",
+    "face": {
+      "front": {
+        "name": "Supreme Leader Snoke, In the Seat of Power",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/006-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Supreme Leader Snoke, In the Seat of Power",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/006-b.png"
+      }
+    },
+    "name": "Supreme Leader Snoke, In the Seat of Power",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "FIRST ORDER",
+      "OFFICIAL"
+    ]
+  },
+  "LOF_047": {
+    "id": "LOF_047",
+    "face": {
+      "front": {
+        "name": "T-6 Shuttle 1974, Stay Close",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "T-6 Shuttle 1974, Stay Close",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_035": {
+    "id": "LOF_035",
+    "face": {
+      "front": {
+        "name": "Talzin's Assassin",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Talzin's Assassin",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_064": {
+    "id": "LOF_064",
+    "face": {
+      "front": {
+        "name": "Tauntaun",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauntaun",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_025": {
+    "id": "LOF_025",
+    "face": {
+      "front": {
+        "name": "Temple of Destruction, Malachor",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/025-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Temple of Destruction, Malachor",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 25,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_118": {
+    "id": "LOF_118",
+    "face": {
+      "front": {
+        "name": "Terentatek",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/118.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Terentatek",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_125": {
+    "id": "LOF_125",
+    "face": {
+      "front": {
+        "name": "The Burden of Masters",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Burden of Masters",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_252": {
+    "id": "LOF_252",
+    "face": {
+      "front": {
+        "name": "The Daughter, Embodiment of Light",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/252.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Daughter, Embodiment of Light",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_260": {
+    "id": "LOF_260",
+    "face": {
+      "front": {
+        "name": "The Father, Maintaining Balance",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/260.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Father, Maintaining Balance",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 10,
+    "aspects": [],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_030": {
+    "id": "LOF_030",
+    "face": {
+      "front": {
+        "name": "The Holy City, Jedha",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/030-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Holy City, Jedha",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 28,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_213": {
+    "id": "LOF_213",
+    "face": {
+      "front": {
+        "name": "The Legacy Run, Doomed Debris",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/213.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Legacy Run, Doomed Debris",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 3,
+    "HP": 3,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_121": {
+    "id": "LOF_121",
+    "face": {
+      "front": {
+        "name": "The Purrgil King, Leading the Journey",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Purrgil King, Leading the Journey",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 12,
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_237": {
+    "id": "LOF_237",
+    "face": {
+      "front": {
+        "name": "The Son, Embodiment of Darkness",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/237.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Son, Embodiment of Darkness",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 8,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_043": {
+    "id": "LOF_043",
+    "face": {
+      "front": {
+        "name": "The Tragedy of Plagueis",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Tragedy of Plagueis",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_227": {
+    "id": "LOF_227",
+    "face": {
+      "front": {
+        "name": "The Will of the Force",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/227.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Will of the Force",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_010": {
+    "id": "LOF_010",
+    "face": {
+      "front": {
+        "name": "Third Sister, Seething With Ambition",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/010-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Third Sister, Seething With Ambition",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/LOF/010-b.png"
+      }
+    },
+    "name": "Third Sister, Seething With Ambition",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "LOF_136": {
+    "id": "LOF_136",
+    "face": {
+      "front": {
+        "name": "Thralls of the Coven",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/136.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thralls of the Coven",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "NIGHT"
+    ]
+  },
+  "LOF_225": {
+    "id": "LOF_225",
+    "face": {
+      "front": {
+        "name": "Three Lessons",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/225.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Three Lessons",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "LOF_177": {
+    "id": "LOF_177",
+    "face": {
+      "front": {
+        "name": "Time of Crisis",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/177.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Time of Crisis",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "DISASTER"
+    ]
+  },
+  "LOF_226": {
+    "id": "LOF_226",
+    "face": {
+      "front": {
+        "name": "Tip the Scale",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/226.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tip the Scale",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "TRICK"
+    ]
+  },
+  "LOF_028": {
+    "id": "LOF_028",
+    "face": {
+      "front": {
+        "name": "Tomb of Eilram, Zeffo",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/028-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Tomb of Eilram, Zeffo",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 25,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_120": {
+    "id": "LOF_120",
+    "face": {
+      "front": {
+        "name": "Trident Assault Ship",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trident Assault Ship",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "LOF_221": {
+    "id": "LOF_221",
+    "face": {
+      "front": {
+        "name": "Trust Your Instincts",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/221.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trust Your Instincts",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_161": {
+    "id": "LOF_161",
+    "face": {
+      "front": {
+        "name": "Tuk'ata",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/161.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tuk'ata",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 2,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_209": {
+    "id": "LOF_209",
+    "face": {
+      "front": {
+        "name": "Tusken Tracker",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/209.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tusken Tracker",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TUSKEN"
+    ]
+  },
+  "LOF_173": {
+    "id": "LOF_173",
+    "face": {
+      "front": {
+        "name": "Unleash Rage",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unleash Rage",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_082": {
+    "id": "LOF_082",
+    "face": {
+      "front": {
+        "name": "Vaneé, I Live to Serve",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vaneé, I Live to Serve",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "SITH",
+      "OFFICIAL"
+    ]
+  },
+  "LOF_019": {
+    "id": "LOF_019",
+    "face": {
+      "front": {
+        "name": "Vergence Temple, Lothal",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/019-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Vergence Temple, Lothal",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 25,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "LOF_195": {
+    "id": "LOF_195",
+    "face": {
+      "front": {
+        "name": "Vernestra Rwoh, Precocious Knight",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/195.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vernestra Rwoh, Precocious Knight",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_107": {
+    "id": "LOF_107",
+    "face": {
+      "front": {
+        "name": "Village Tender",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Village Tender",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "EWOK"
+    ]
+  },
+  "LOF_245": {
+    "id": "LOF_245",
+    "face": {
+      "front": {
+        "name": "Vulptex",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/245.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulptex",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_164": {
+    "id": "LOF_164",
+    "face": {
+      "front": {
+        "name": "Wampa",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wampa",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "LOF_065": {
+    "id": "LOF_065",
+    "face": {
+      "front": {
+        "name": "Watto",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watto",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 6,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "LOF_078": {
+    "id": "LOF_078",
+    "face": {
+      "front": {
+        "name": "Whirlwind of Power",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/078.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whirlwind of Power",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "LOF_154": {
+    "id": "LOF_154",
+    "face": {
+      "front": {
+        "name": "Witch of the Mist",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/154.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Witch of the Mist",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "LOF_045": {
+    "id": "LOF_045",
+    "face": {
+      "front": {
+        "name": "Yaddle, A Chance to Make Things Right",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yaddle, A Chance to Make Things Right",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_101": {
+    "id": "LOF_101",
+    "face": {
+      "front": {
+        "name": "Yoda, My Ally is the Force",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yoda, My Ally is the Force",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 9,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "LOF_102": {
+    "id": "LOF_102",
+    "face": {
+      "front": {
+        "name": "Yoda's Lightsaber",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yoda's Lightsaber",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "LOF_193": {
+    "id": "LOF_193",
+    "face": {
+      "front": {
+        "name": "Youngling Padawan",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/193.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Youngling Padawan",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "JEDI"
+    ]
+  },
+  "LOF_204": {
+    "id": "LOF_204",
+    "face": {
+      "front": {
+        "name": "Zuckuss, The Findsman",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/LOF/204.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zuckuss, The Findsman",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 7,
+    "aspects": [
+      "Cunning",
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "BOUNTY HUNTER"
+    ]
   }
 }

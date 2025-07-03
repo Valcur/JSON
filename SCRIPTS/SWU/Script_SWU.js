@@ -250,8 +250,13 @@ setTimeout(() => {
 
 setTimeout(() => {
     inputFilePath = "SWU_JTL.json";
-    modifyJsonFile(inputFilePath, outputFilePath, res, true);
+    modifyJsonFile(inputFilePath, outputFilePath, res);
 }, 3000)
+
+setTimeout(() => {
+    inputFilePath = "SWU_LOF.json";
+    modifyJsonFile(inputFilePath, outputFilePath, res, true);
+}, 4000)
 
 /*
 inputFilePath = "SWU_JTL";

@@ -49,6 +49,12 @@
                     "image": "https://i.imgur.com/hDR7qTd.png",
                     "isUnique": true,
                     "leavesAtEndOfTurn": true
+                },
+                {
+                    "name": "Force",
+                    "image": "https://i.imgur.com/SBFJBia.png",
+                    "isUnique": false,
+                    "leavesAtEndOfTurn": false
                 }
             ],
             "countersStartingValues": [
