@@ -1,5 +1,272 @@
 [
     {
+        "title": "Brave and Brazen: Ruby & Steel",
+        "id": "Brave and Brazen: Ruby & Steel",
+        "game": "Lorcana",
+        "format": "Classic",
+        "cardCount": 60,
+        "createdAt": "2025-07-06T16:26:50.246Z",
+        "lastModifiedAt": "2025-07-06T16:26:57.142Z",
+        "deckList": {
+          "categoriesOrder": [
+            "Character",
+            "Item",
+            "Action"
+          ],
+          "Sideboard": [],
+          "Character": [
+            {
+              "count": 1,
+              "id": "141/204-EN-8"
+            },
+            {
+              "count": 1,
+              "id": "200/204-EN-8"
+            },
+            {
+              "count": 1,
+              "id": "146/204-EN-8"
+            },
+            {
+              "count": 1,
+              "id": "142/204-EN-8"
+            },
+            {
+              "count": 1,
+              "id": "194/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "104/204-EN-6"
+            },
+            {
+              "count": 2,
+              "id": "122/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "134/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "192/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "181/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "121/204-EN-7"
+            },
+            {
+              "count": 3,
+              "id": "144/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "130/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "123/204-EN-7"
+            },
+            {
+              "count": 3,
+              "id": "131/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "132/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "193/204-EN-7"
+            },
+            {
+              "count": 3,
+              "id": "174/204-EN-1"
+            },
+            {
+              "count": 3,
+              "id": "187/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "182/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "193/204-EN-8"
+            }
+          ],
+          "Item": [
+            {
+              "count": 1,
+              "id": "152/204-EN-8"
+            },
+            {
+              "count": 3,
+              "id": "204/204-EN-7"
+            }
+          ],
+          "Action": [
+            {
+              "count": 2,
+              "id": "150/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "149/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "202/204-EN-8"
+            },
+            {
+              "count": 2,
+              "id": "203/204-EN-8"
+            }
+          ]
+        }
+      },
+    {
+        "title": "A Harmonious Team: Amber & Amethyst",
+        "id": "A Harmonious Team: Amber & Amethyst",
+        "game": "Lorcana",
+        "format": "Classic",
+        "cardCount": 60,
+        "createdAt": "2025-07-06T16:22:26.033Z",
+        "lastModifiedAt": "2025-07-06T16:23:49.858Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Action"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "20/204-EN-8"
+                },
+                {
+                    "count": 1,
+                    "id": "9/204-EN-8"
+                },
+                {
+                    "count": 1,
+                    "id": "35/204-EN-8"
+                },
+                {
+                    "count": 1,
+                    "id": "5/204-EN-8"
+                },
+                {
+                    "count": 1,
+                    "id": "76/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "3/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "1/204-EN-8"
+                },
+                {
+                    "count": 3,
+                    "id": "34/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "59/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "46/204-EN-8"
+                },
+                {
+                    "count": 3,
+                    "id": "10/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "8/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "31/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "16/204-EN-7"
+                },
+                {
+                    "count": 3,
+                    "id": "37/204-EN-7"
+                },
+                {
+                    "count": 2,
+                    "id": "2/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "78/204-EN-7"
+                },
+                {
+                    "count": 2,
+                    "id": "57/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "58/204-EN-8"
+                },
+                {
+                    "count": 3,
+                    "id": "51/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "56/204-EN-8"
+                },
+                {
+                    "count": 3,
+                    "id": "75/204-EN-8"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 1,
+                    "id": "79/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "25/204-EN-5"
+                },
+                {
+                    "count": 3,
+                    "id": "43/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "78/204-EN-8"
+                },
+                {
+                    "count": 2,
+                    "id": "77/204-EN-8"
+                },
+                {
+                    "count": 3,
+                    "id": "38/204-EN-7"
+                },
+                {
+                    "count": 3,
+                    "id": "81/204-EN-7"
+                }
+            ]
+        }
+    },
+    {
         "title": "Belle & Beast: Ruby & Sapphire",
         "id": "917ea9c9-9d8c-4773-9701-094f993fc7f4",
         "game": "Lorcana",
