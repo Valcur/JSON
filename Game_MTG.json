@@ -7,36 +7,44 @@
             {
                 "title": "EDH",
                 "customCategories": ["Commander"],
-                "gameplay": "EDH"
+                "gameplay": "EDH",
+                "compatibility": "EDH"
             },
             {
                 "title": "Modern",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Vintage",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Standard",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Pauper",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Legacy",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Pioneer",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "compatibility": "Classic"
             },
             {
                 "title": "Duel Commander",
                 "customCategories": ["Commander"],
-                "gameplay": "Duel_Commander"
+                "gameplay": "Duel_Commander",
+                "compatibility": "EDH"
             }
         ]
     },
