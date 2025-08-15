@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+//https://lorcanajson.org/#downloads
+
 // Fonction pour lire et modifier le fichier JSON
 function modifyJsonFile(inputFilePath, outputFilePath) {
     // Lire le fichier JSON
@@ -46,6 +48,7 @@ function modifyJsonFile(inputFilePath, outputFilePath) {
                 } else if (c.color && c.color != "") {
                     result[cardId] = newCard
                 } else {
+                    // Ursula coop cards most likely
                     //console.log("Error: card " + c.fullName + " has no color")
                     errorCount += 1
                 }
