@@ -117,7 +117,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -129,7 +130,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "sectionsDict": {
                     "Creatures": {
@@ -232,7 +234,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -244,7 +247,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "sectionsDict": {
                     "Creatures": {
@@ -323,7 +327,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "autoPlayFromStack": {
                     "Creature": "Creatures",
@@ -335,7 +340,8 @@
                     "Planeswalker": "Other",
                     "Battle": "Other",
                     "Enchantment - Aura": "GROUP",
-                    "Emblem": "Other"
+                    "Emblem": "Other",
+                    "Card": "Other"
                 },
                 "sectionsDict": {
                     "Creatures": {
