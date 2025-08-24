@@ -39990,5 +39990,5346 @@
     "color": [
       "Emerald"
     ]
+  },
+  "1/204-EN-9": {
+    "id": "1/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Conceited Ruler",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/1_d58ab2c3b088b56c38d51210cd624de41cbbdbe0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Conceited Ruler",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "2/204-EN-9": {
+    "id": "2/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pongo - Determined Father",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/2_0b0970a05e4343a6d1f2aedf1458dc45add07a0c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pongo - Determined Father",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "3/204-EN-9": {
+    "id": "3/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stitch - Rock Star",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/3_1a59fb09ab0705ddd95238319db43a4dbbb3e141.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stitch - Rock Star",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "4/204-EN-9": {
+    "id": "4/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Beast - Gracious Prince",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/4_ba9aa6fc55449cefeb4afcc19c1a9e0e80b6fbc1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beast - Gracious Prince",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "5/204-EN-9": {
+    "id": "5/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Minnie Mouse - Sweetheart Princess",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/5_ec67c18527d4a2e80bf8eb4240c7539b955d18b3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minnie Mouse - Sweetheart Princess",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "6/204-EN-9": {
+    "id": "6/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurora - Holding Court",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/6_f0adcc6403c345d3eed4d0feb17b99be5d7d25f4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurora - Holding Court",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "7/204-EN-9": {
+    "id": "7/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Regal Monarch",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/7_2f7acd9d7bd3a385e8b2584406daa1c2028331fd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Regal Monarch",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "8/204-EN-9": {
+    "id": "8/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Rapunzel - Sunshine",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/8_5d47671785585ca0a9ff970bd90c18680fb5b767.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rapunzel - Sunshine",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "9/204-EN-9": {
+    "id": "9/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stitch - Alien Dancer",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/9_9faccbb7b37ca8119678c222949f22d5225e0e98.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stitch - Alien Dancer",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "10/204-EN-9": {
+    "id": "10/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mulan - Free Spirit",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/10_a32feea8e543d600ec1cdbc1296944ac0b9d01ae.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Free Spirit",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "11/204-EN-9": {
+    "id": "11/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Musketeer Spy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/11_d5ec6b6f91ef2a18c585f55f98c7b0b3df53eec9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Musketeer Spy",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "12/204-EN-9": {
+    "id": "12/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tinker Bell - Generous Fairy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/12_b46bc4a38d4e6f144122ed206f981fd2347ef992.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tinker Bell - Generous Fairy",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "13/204-EN-9": {
+    "id": "13/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - True Friend",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/13_0ea9c51e817f465409a49010dd22ba90497548fc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - True Friend",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "14/204-EN-9": {
+    "id": "14/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pluto - Determined Defender",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/14_8d20c0394108eed44c0e584cbcf62382eaafc942.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluto - Determined Defender",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 8,
+    "color": [
+      "Amber"
+    ]
+  },
+  "15/204-EN-9": {
+    "id": "15/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ariel - Singing Mermaid",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/15_9a1972a2711a55cf0b0942df3cce5738260a6e04.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ariel - Singing Mermaid",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "16/204-EN-9": {
+    "id": "16/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pluto - Rescue Dog",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/16_7a2840729bc6a1c35a2e6c0c2c7917b5b14d9104.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluto - Rescue Dog",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "17/204-EN-9": {
+    "id": "17/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Nani - Protective Sister",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/17_910f8758ce21c170dbdf23d1889aea9f05d3d691.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nani - Protective Sister",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
+  "18/204-EN-9": {
+    "id": "18/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Julieta Madrigal - Excellent Cook",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/18_adc7501f7b42356f44390a269cd8000b03fd5c02.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Julieta Madrigal - Excellent Cook",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "19/204-EN-9": {
+    "id": "19/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Cinderella - Gentle and Kind",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/19_2c60c22469e1e899f0bae989a03577c151f018c9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinderella - Gentle and Kind",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "20/204-EN-9": {
+    "id": "20/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Moana - Of Motunui",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/20_f440b54874108f1efeda631c8d77e181c7ad6308.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moana - Of Motunui",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 3,
+    "strength": 1,
+    "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
+  "21/204-EN-9": {
+    "id": "21/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pluto - Friendly Pooch",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/21_f98621a3fcd7c434a0db994dd295b0f74ac93d9d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluto - Friendly Pooch",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 0,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "22/204-EN-9": {
+    "id": "22/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula - Vanessa",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/22_ac61605451cc28d6ec1c86eee0985cbe13c56641.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula - Vanessa",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "23/204-EN-9": {
+    "id": "23/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Queen of Hearts - Wonderland Empress",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/23_1979f9c348a11bf43c16870320a409c4ab73ba8c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen of Hearts - Wonderland Empress",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "24/204-EN-9": {
+    "id": "24/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stitch - Carefree Surfer",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/24_aa738c1a1e82230750e09c061d49573c437e16d9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stitch - Carefree Surfer",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 8,
+    "color": [
+      "Amber"
+    ]
+  },
+  "25/204-EN-9": {
+    "id": "25/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Look at This Family",
+        "type": "Action",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/25_354fc639e2072e174a6dc3503a2b6eea4348ffd6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Look at This Family",
+    "type": "Action",
+    "cost": 7,
+    "rarity": "Rare",
+    "color": [
+      "Amber"
+    ]
+  },
+  "26/204-EN-9": {
+    "id": "26/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Circle of Life",
+        "type": "Action",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/26_9c4fdfaaa46d5be868e25f85c9c6d1a867a6321b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Circle of Life",
+    "type": "Action",
+    "cost": 8,
+    "rarity": "Legendary",
+    "color": [
+      "Amber"
+    ]
+  },
+  "27/204-EN-9": {
+    "id": "27/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Heal What Has Been Hurt",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/27_275a12316b96f7db605d4b73d91a4e57da27b20d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heal What Has Been Hurt",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Common",
+    "color": [
+      "Amber"
+    ]
+  },
+  "28/204-EN-9": {
+    "id": "28/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lost in the Woods",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/28_17218cbd94b491a52b73a6c9986ffc1ffbf17947.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lost in the Woods",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Common",
+    "color": [
+      "Amber"
+    ]
+  },
+  "29/204-EN-9": {
+    "id": "29/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Bruno's Return",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/29_bc312cb1830974c2bb1ebaa63ae82e4c08459425.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bruno's Return",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Amber"
+    ]
+  },
+  "30/204-EN-9": {
+    "id": "30/204-EN-9",
+    "face": {
+      "front": {
+        "name": "World's Greatest Criminal Mind",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/30_905d54c653768b651503e28d0224fb7fabdb23f0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "World's Greatest Criminal Mind",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Amber"
+    ]
+  },
+  "31/204-EN-9": {
+    "id": "31/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Be Our Guest",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/31_d1d99df70ee4ad5348f0ce9fc634deebced27173.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Be Our Guest",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Amber"
+    ]
+  },
+  "32/204-EN-9": {
+    "id": "32/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lantern",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/32_ef721ca6c9464a2f60c89c69ef030e81aea9b88c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lantern",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Rare",
+    "color": [
+      "Amber"
+    ]
+  },
+  "33/204-EN-9": {
+    "id": "33/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula's Shell Necklace",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/33_a25a48b63c65b2a5ab42fa02054e3adc5124c0d4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula's Shell Necklace",
+    "type": "Item",
+    "cost": 3,
+    "rarity": "Rare",
+    "color": [
+      "Amber"
+    ]
+  },
+  "34/204-EN-9": {
+    "id": "34/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Atlantica - Concert Hall",
+        "type": "Location",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/34_c2dc4a8ffad38e3803acb6ce49b0ff3c065b86ff.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Atlantica - Concert Hall",
+    "type": "Location",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
+  "35/204-EN-9": {
+    "id": "35/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Wicked and Vain",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/35_83298a22c68b73886e1d92c2274a032720469058.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Wicked and Vain",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "36/204-EN-9": {
+    "id": "36/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Rafiki - Mystical Fighter",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/36_21a8ed5f4478b139968938bbe5d7c75cbff96084.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rafiki - Mystical Fighter",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 0,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "37/204-EN-9": {
+    "id": "37/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula - Sea Witch",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/37_e26b68e73ba8995d7a5bb1ed0bfc4667a23b4d5e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula - Sea Witch",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "38/204-EN-9": {
+    "id": "38/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jafar - Keeper of Secrets",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/38_9a306b6b0560e18c48896a46e42a9564ea53ad64.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jafar - Keeper of Secrets",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "39/204-EN-9": {
+    "id": "39/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Belle - Untrained Mystic",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/39_473fdeba1a85d65f554671eb2f160e0858283920.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Untrained Mystic",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "40/204-EN-9": {
+    "id": "40/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Belle - Accomplished Mystic",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/40_44550e224f4ef7bcbfd0830d280094f6bcc90865.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Accomplished Mystic",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "41/204-EN-9": {
+    "id": "41/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Winnie the Pooh - Hunny Wizard",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/41_f6b2b42a935837e22159a5d9ea545a4a5e8e0528.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Winnie the Pooh - Hunny Wizard",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "42/204-EN-9": {
+    "id": "42/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Peter Pan's Shadow - Not Sewn On",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/42_66b092f06f891adbb5d779a2073d1c6288d4fadf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peter Pan's Shadow - Not Sewn On",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "43/204-EN-9": {
+    "id": "43/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Elsa - Spirit of Winter",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/43_2de43d81f0ad5fd3956dab9c711af9d3e51dcea2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Spirit of Winter",
+    "type": "Character",
+    "cost": 8,
+    "rarity": "Legendary",
+    "lore": 3,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "44/204-EN-9": {
+    "id": "44/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula - Voice Stealer",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/44_76dd528fea56cc3f786f22df9b0e5c043febf44b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula - Voice Stealer",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "45/204-EN-9": {
+    "id": "45/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dumbo - Ninth Wonder of the Universe",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/45_6e544899ae7ed6842b52197b317826cf8b241cbc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dumbo - Ninth Wonder of the Universe",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Legendary",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "46/204-EN-9": {
+    "id": "46/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dumbo - The Flying Elephant",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/46_ffe52911a4dcb10027786847a8e05457b5e9022b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dumbo - The Flying Elephant",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "47/204-EN-9": {
+    "id": "47/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Timothy Q. Mouse - Flight Instructor",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/47_0f20c4d20b6066a19fd785d7e6255f84bfbf7f0e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Timothy Q. Mouse - Flight Instructor",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "48/204-EN-9": {
+    "id": "48/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Elsa - Gloves Off",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/48_9185774f2496277c3394e012a0e56531d270fe48.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Gloves Off",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "49/204-EN-9": {
+    "id": "49/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Kuzco - Wanted Llama",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/49_3df66d20197408d34a8bdd8dfabbb588a926e451.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuzco - Wanted Llama",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "50/204-EN-9": {
+    "id": "50/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tick-Tock - Ever-Present Pursuer",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/50_41f148fd60ed39b7aeac6556f1eeae5761acd978.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tick-Tock - Ever-Present Pursuer",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 7,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "51/204-EN-9": {
+    "id": "51/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dolores Madrigal - Easy Listener",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/51_c7a8f2f895eefc77c3bf824800eb53bfe69cabe4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dolores Madrigal - Easy Listener",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "52/204-EN-9": {
+    "id": "52/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Camilo Madrigal - Prankster",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/52_92d070add5db7273a79af5ba092bda81af413311.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camilo Madrigal - Prankster",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "53/204-EN-9": {
+    "id": "53/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Elsa - Snow Queen",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/53_94f8295d6c2fe7a701470200b49db09246958def.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Snow Queen",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "54/204-EN-9": {
+    "id": "54/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Genie - Supportive Friend",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/54_ca9107fe47c4e85a8b3e198784e0bd17f0798c1f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genie - Supportive Friend",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "55/204-EN-9": {
+    "id": "55/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Olaf - Friendly Snowman",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/55_c1a67af17d8ebb6f004162c1d7e2c7e095b758cc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Olaf - Friendly Snowman",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "56/204-EN-9": {
+    "id": "56/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Sven - Official Ice Deliverer",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/56_d3ab0895f593039b21d13d46892d36f637261ddf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sven - Official Ice Deliverer",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 7,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "57/204-EN-9": {
+    "id": "57/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mama Odie - Voice of Wisdom",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/57_3e30c3426fb9c858548ee93683df93afe382a2b7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mama Odie - Voice of Wisdom",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "58/204-EN-9": {
+    "id": "58/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Luisa Madrigal - Magically Strong One",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/58_b90d58e16f8dcc1f77c7061ed51ff881c957963e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luisa Madrigal - Magically Strong One",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "59/204-EN-9": {
+    "id": "59/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jafar - Lamp Thief",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/59_0eda2e4455949a85f25213479663c9e796101297.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jafar - Lamp Thief",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "60/204-EN-9": {
+    "id": "60/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Second Star to the Right",
+        "type": "Action",
+        "cost": 10,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/60_6107af1f12c5130cc2fc75f8251270c02be0696f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Second Star to the Right",
+    "type": "Action",
+    "cost": 10,
+    "rarity": "Rare",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "61/204-EN-9": {
+    "id": "61/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Poor Unfortunate Souls",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/61_ba0e50a09e8a1eaf04e99e7e1d5b31bf95a0cb2e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poor Unfortunate Souls",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "62/204-EN-9": {
+    "id": "62/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Last-Ditch Effort",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/62_2708fd7e837c6d2b8dfb7fcc9d91e4aa8db0d174.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last-Ditch Effort",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "63/204-EN-9": {
+    "id": "63/204-EN-9",
+    "face": {
+      "front": {
+        "name": "I'm Stuck!",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/63_dc16d060c2b36528ddb867e7ec5881a6703289a0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "I'm Stuck!",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "64/204-EN-9": {
+    "id": "64/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Magic Feather",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/64_3e79cd0909c64a7929c744e2a7d3421fc6a4616f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Magic Feather",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Rare",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "65/204-EN-9": {
+    "id": "65/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Magic Mirror",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/65_a2311a092342d4031bb256376af5abe8100f8c6f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magic Mirror",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "66/204-EN-9": {
+    "id": "66/204-EN-9",
+    "face": {
+      "front": {
+        "name": "White Rabbit's Pocket Watch",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/66_ab3e06284c60e18046c73eb827006154eb7e5a86.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "White Rabbit's Pocket Watch",
+    "type": "Item",
+    "cost": 3,
+    "rarity": "Rare",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "67/204-EN-9": {
+    "id": "67/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Rose Lantern",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/67_65df312a320ad268d939aba322b0c792e99e7010.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rose Lantern",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "68/204-EN-9": {
+    "id": "68/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Casa Madrigal - Casita",
+        "type": "Location",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/68_178ded18575d17765c1d8baba693ba1d7afba202.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Casa Madrigal - Casita",
+    "type": "Location",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "69/204-EN-9": {
+    "id": "69/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Kuzco - Temperamental Emperor",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/69_90b2816afbcad7bb6d96bb70af98b14f92457324.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuzco - Temperamental Emperor",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 3,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "70/204-EN-9": {
+    "id": "70/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Robin Hood - Daydreamer",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/70_8e2c971d4e540e89b9e3b576238fe03dae85250d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robin Hood - Daydreamer",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Rare",
+    "lore": 4,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "71/204-EN-9": {
+    "id": "71/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Cursed Merfolk - Ursula's Handiwork",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/71_846587ef2159b3513773fe195b6979ffabcb455a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cursed Merfolk - Ursula's Handiwork",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "72/204-EN-9": {
+    "id": "72/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Prince Phillip - Warden of the Woods",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/72_c85eb8943ba70bcd39bbfd726d3688ef21821239.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prince Phillip - Warden of the Woods",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "73/204-EN-9": {
+    "id": "73/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Prince Phillip - Vanquisher of Foes",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/73_59c0719d8bfec87964fb6497c46adc6fb7621f13.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prince Phillip - Vanquisher of Foes",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Super Rare",
+    "lore": 3,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "74/204-EN-9": {
+    "id": "74/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Goofy - Set for Adventure",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/74_87b2b25d595c2ea917c4f31481b1851453cc8395.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Set for Adventure",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "75/204-EN-9": {
+    "id": "75/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Max Goof - Rebellious Teen",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/75_ac9c11d215467f7b5983a62086e49034206408fd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Max Goof - Rebellious Teen",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "76/204-EN-9": {
+    "id": "76/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Genie - Of the Lamp",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/76_4f61e4da1fe5f0439d6221f6cdad981864a09072.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genie - Of the Lamp",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "77/204-EN-9": {
+    "id": "77/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Max Goof - Chart Topper",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/77_8169a2ef57d7bcf315417fc5102f987335064324.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Max Goof - Chart Topper",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "78/204-EN-9": {
+    "id": "78/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Bobby Zimuruski - Spray Cheese Kid",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/78_a3194ef031eec39b10e08f8f24730797591f616e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bobby Zimuruski - Spray Cheese Kid",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "79/204-EN-9": {
+    "id": "79/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Megara - Pulling the Strings",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/79_e447363f3c43da663cd242cb42c7b6dfb63e50e2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megara - Pulling the Strings",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "80/204-EN-9": {
+    "id": "80/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Steamboat Pilot",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/80_fa2bf47f15ba6202d5655abf0dd92614ef0d429d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Steamboat Pilot",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "81/204-EN-9": {
+    "id": "81/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Enchantress - Unexpected Judge",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/81_868b5f261b834d9309ef8ec7868a74ca3cf23a5b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchantress - Unexpected Judge",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "82/204-EN-9": {
+    "id": "82/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Virana - Fang Chief",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/82_bed16502bc0e592ae3c68adc94495e73eda96416.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Virana - Fang Chief",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "83/204-EN-9": {
+    "id": "83/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Donald Duck - Sleepwalker",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/83_c529890feb84bc6a34a403602caa100d46dad038.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Donald Duck - Sleepwalker",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 0,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "84/204-EN-9": {
+    "id": "84/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pegasus - Gift for Hercules",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/84_53592abcfa55a9f32d2fbd95471376378511e6d3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pegasus - Gift for Hercules",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "85/204-EN-9": {
+    "id": "85/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Donald Duck - Perfect Gentleman",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/85_998337595b1b8c0781c40f1149ff42603b8cbed5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Donald Duck - Perfect Gentleman",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "86/204-EN-9": {
+    "id": "86/204-EN-9",
+    "face": {
+      "front": {
+        "name": "HeiHei - Bumbling Rooster",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/86_5ef1be0a75fc8ccdd29bbb1c7584dca07dd2f1c6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "HeiHei - Bumbling Rooster",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "87/204-EN-9": {
+    "id": "87/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Shenzi - Hyena Pack Leader",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/87_e53000a432c801610bc4eb7809c7e7813fbb6586.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shenzi - Hyena Pack Leader",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 0,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "88/204-EN-9": {
+    "id": "88/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tinker Bell - Most Helpful",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/88_fa673ad25c5f784db44bb49a8269a788e64f0586.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tinker Bell - Most Helpful",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "89/204-EN-9": {
+    "id": "89/204-EN-9",
+    "face": {
+      "front": {
+        "name": "John Silver - Alien Pirate",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/89_49e7868f92881a426148953ffbe43019973ae057.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "John Silver - Alien Pirate",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "90/204-EN-9": {
+    "id": "90/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula - Deceiver",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/90_6fd8a37a81faf2655bdd2a591ec68d86f45f2542.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula - Deceiver",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "91/204-EN-9": {
+    "id": "91/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Wildcat - Mechanic",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/91_ac72a8556d6bd4fc61a690f521cb3b773ad496c9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wildcat - Mechanic",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "92/204-EN-9": {
+    "id": "92/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aladdin - Prince Ali",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/92_aae614348723ba681c877c8e5b501dfb14286544.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aladdin - Prince Ali",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "93/204-EN-9": {
+    "id": "93/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Secret Agent",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/93_c197c9ff352a793ed680de94ecd39c6476971303.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Secret Agent",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "94/204-EN-9": {
+    "id": "94/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stand Out",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/94_54140617cef40bc6aa27978087ae66524e8fcffa.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stand Out",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "95/204-EN-9": {
+    "id": "95/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Sudden Chill",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/95_764fb1a97ec5db32d9eac0076ad8f6bceb21c88a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sudden Chill",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "96/204-EN-9": {
+    "id": "96/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Improvise",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/96_c6a0e25beee8b9938910c45d994abbff83d0f7e6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Improvise",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "97/204-EN-9": {
+    "id": "97/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Under the Sea",
+        "type": "Action",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/97_6b5fa45d1183bdcf1f6f503450e0f3248fcf35ae.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Under the Sea",
+    "type": "Action",
+    "cost": 8,
+    "rarity": "Rare",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "98/204-EN-9": {
+    "id": "98/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Make the Potion",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/98_7bcf349759748306e088cda851f1cb726e548a52.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Make the Potion",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "99/204-EN-9": {
+    "id": "99/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mother Knows Best",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/99_86cab1371cb474ec9d43ce5a82405faef6f9b018.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mother Knows Best",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "100/204-EN-9": {
+    "id": "100/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Family Fishing Pole",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/100_c4fb8e795729deb858e86cc421548b30e48caa09.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Family Fishing Pole",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Rare",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "101/204-EN-9": {
+    "id": "101/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Signed Contract",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/101_9e623571c03d309a9de57013ea7688a8853745ea.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Signed Contract",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "102/204-EN-9": {
+    "id": "102/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hidden Cove - Tranquil Haven",
+        "type": "Location",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/102_82672376ee9d225b984b56cb5ddc271f5b913f5a.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Hidden Cove - Tranquil Haven",
+    "type": "Location",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "103/204-EN-9": {
+    "id": "103/204-EN-9",
+    "face": {
+      "front": {
+        "name": "LeFou - Instigator",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/103_b203c807dbb05ff3a0deb6b40bfce6f9a1a76f65.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "LeFou - Instigator",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "104/204-EN-9": {
+    "id": "104/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Shere Khan - Menacing Predator",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/104_668c2e0c58a18ce0b1cf0eb2b3f6a532a836e654.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shere Khan - Menacing Predator",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "105/204-EN-9": {
+    "id": "105/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Simba - Scrappy Cub",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/105_6bdaf56d97e9b602e91d72552c4fca1a3b8313d0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simba - Scrappy Cub",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 3,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "106/204-EN-9": {
+    "id": "106/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Maui - Whale",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/106_f21a60c416f514bd7c4494c14cbb0204956a82aa.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maui - Whale",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 8,
+    "willpower": 8,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "107/204-EN-9": {
+    "id": "107/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ariel - Adventurous Collector",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/107_7bd66c5d93ee758d53ab7ce11999a690797d07f9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ariel - Adventurous Collector",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "108/204-EN-9": {
+    "id": "108/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Maleficent - Monstrous Dragon",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/108_ec771c5ac3260cde84bb220fd3351e08ed6b7cb1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maleficent - Monstrous Dragon",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 7,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "109/204-EN-9": {
+    "id": "109/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Powerline - Taking the Stage",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/109_a462af51d48b88ab01018a66347f20ef8c20c9f5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerline - Taking the Stage",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "110/204-EN-9": {
+    "id": "110/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Powerline - World's Greatest Rock Star",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/110_c7127177487cdda1b4001c75e41b6cba8e0c5f73.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerline - World's Greatest Rock Star",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "111/204-EN-9": {
+    "id": "111/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Brave Little Prince",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/111_fc83a63669bace91d4de7d711d22c3ed67f3afa8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Brave Little Prince",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Legendary",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "112/204-EN-9": {
+    "id": "112/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Max Goof - Rockin' Teen",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/112_65f02407a175b1d793474baa84e5cce8d81b4524.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Max Goof - Rockin' Teen",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "113/204-EN-9": {
+    "id": "113/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Roxanne - Powerline Fan",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/113_be1d05ec2fc69763b9716ed6973d819b1d971f91.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roxanne - Powerline Fan",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "114/204-EN-9": {
+    "id": "114/204-EN-9",
+    "face": {
+      "front": {
+        "name": "P.J. Pete - Caught Up in the Music",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/114_54357d6be49e2e8e6f44984480daaed0cab0fd0f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "P.J. Pete - Caught Up in the Music",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "115/204-EN-9": {
+    "id": "115/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Gaston - Arrogant Hunter",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/115_c926d71cf3d72b9846e7266f135db78ac0ba9f9c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaston - Arrogant Hunter",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 0,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "116/204-EN-9": {
+    "id": "116/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Moana - Undeterred Voyager",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/116_ab847817f135d38017d33ee644893982f5895532.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moana - Undeterred Voyager",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "117/204-EN-9": {
+    "id": "117/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Powerline - Musical Superstar",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/117_905695d3a5f58f37eb5c2ef4d771b2710cc48f7c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerline - Musical Superstar",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "118/204-EN-9": {
+    "id": "118/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Sisu - Emboldened Warrior",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/118_0dd12ab6fa9630ca862c95e09ab99be4b029319b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sisu - Emboldened Warrior",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "119/204-EN-9": {
+    "id": "119/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Sisu - Daring Visitor",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/119_71bc91b40501f7a6352aad42c413dc10d51c4096.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sisu - Daring Visitor",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "120/204-EN-9": {
+    "id": "120/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Queen of Hearts - Sensing Weakness",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/120_62c5ff5cd323851bf7dbb3d2f2dacc803d3c78b3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen of Hearts - Sensing Weakness",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "121/204-EN-9": {
+    "id": "121/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lumiere - Fiery Friend",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/121_2b6772d14507dee21b5b557aab9f9e2a7ade98a5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lumiere - Fiery Friend",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "122/204-EN-9": {
+    "id": "122/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Card Soldiers - Full Deck",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/122_2461c86b4ce62f202cf40119b41dd132eea7388a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Card Soldiers - Full Deck",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "123/204-EN-9": {
+    "id": "123/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Queen of Hearts - Impulsive Ruler",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/123_728d83ddabe527d620cde9716db015dee9906a74.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen of Hearts - Impulsive Ruler",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "124/204-EN-9": {
+    "id": "124/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Rapunzel - Letting Down Her Hair",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/124_4ee9c5073412f6555e6d555a10c17bcb65cda977.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rapunzel - Letting Down Her Hair",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "125/204-EN-9": {
+    "id": "125/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mulan - Injured Soldier",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/125_204d4d557ce67ce8a989cfa68e8e712c9697d8c0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Injured Soldier",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "126/204-EN-9": {
+    "id": "126/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mulan - Elite Archer",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/126_cec881d47a9fd8b76061d5a163692906340e8387.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Elite Archer",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "127/204-EN-9": {
+    "id": "127/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Raya - Headstrong",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/127_7c3c2cd47e5b2781040baa8e9d23b00f06b4878b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raya - Headstrong",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "128/204-EN-9": {
+    "id": "128/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Sergeant Tibbs - Courageous Cat",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/128_553536d699e33f3f41769e9a8f79152d15f2e9f8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sergeant Tibbs - Courageous Cat",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "129/204-EN-9": {
+    "id": "129/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tuk Tuk - Lively Partner",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/129_8afeeec4597153c25008d0eea2b5e354ae0dcf50.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tuk Tuk - Lively Partner",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "130/204-EN-9": {
+    "id": "130/204-EN-9",
+    "face": {
+      "front": {
+        "name": "I2I",
+        "type": "Action",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/130_dd958c2002139344b9e23e2a7f4c0d957aefa268.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "I2I",
+    "type": "Action",
+    "cost": 9,
+    "rarity": "Rare",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "131/204-EN-9": {
+    "id": "131/204-EN-9",
+    "face": {
+      "front": {
+        "name": "You Can Fly!",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/131_4a9a537b8febce78f32188537e642feb1254d8cb.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "You Can Fly!",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "132/204-EN-9": {
+    "id": "132/204-EN-9",
+    "face": {
+      "front": {
+        "name": "A Pirate's Life",
+        "type": "Action",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/132_21518e470242915f38f67cd742b05b4d71202a36.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Pirate's Life",
+    "type": "Action",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "133/204-EN-9": {
+    "id": "133/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Be King Undisputed",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/133_435642c246b2f0e21dc7c73ca94c0e865b90f8ef.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Be King Undisputed",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "134/204-EN-9": {
+    "id": "134/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Medallion Weights",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/134_05bf0c1cd177509a45c5a0ce4fc3ccfe2aa433ea.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medallion Weights",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "135/204-EN-9": {
+    "id": "135/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dinner Bell",
+        "type": "Item",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/135_f57439d4f68abddf7f86217f907190d96a6f8fb7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dinner Bell",
+    "type": "Item",
+    "cost": 4,
+    "rarity": "Rare",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "136/204-EN-9": {
+    "id": "136/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Agrabah - Marketplace",
+        "type": "Location",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/136_c00a609b5ba7b67ebf7c0386809f8a71f789cb82.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Agrabah - Marketplace",
+    "type": "Location",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "137/204-EN-9": {
+    "id": "137/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Anna - True-Hearted",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/137_0486f6e953608cae1846553de65c347aeec58b7d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anna - True-Hearted",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "138/204-EN-9": {
+    "id": "138/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Huey - Savvy Nephew",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/138_4f3fd67e8b4eabb587e94d25e143946a9306ddab.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Huey - Savvy Nephew",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "139/204-EN-9": {
+    "id": "139/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dewey - Showy Nephew",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/139_d91488690dd6081427f01829235d06faf9146677.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dewey - Showy Nephew",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "140/204-EN-9": {
+    "id": "140/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Louie - Chill Nephew",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/140_98c4ba8cd7c006f9c28e169bb7bc66afce6dc484.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Louie - Chill Nephew",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "141/204-EN-9": {
+    "id": "141/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Alice - Accidentally Adrift",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/141_341c433864a4ce43b4a054dc092428e185b90f44.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alice - Accidentally Adrift",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "142/204-EN-9": {
+    "id": "142/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mulan - Considerate Diplomat",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/142_7a23d28ca4130be640d497658c73253c8946a3ed.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Considerate Diplomat",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "143/204-EN-9": {
+    "id": "143/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Cruella De Vil - Style Icon",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/143_4630767f9b0648ce25e687f7ad885e4efd4baa8a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cruella De Vil - Style Icon",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Legendary",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "144/204-EN-9": {
+    "id": "144/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mufasa - King of the Pride Lands",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/144_3d386eaca19d546f059156d1c15bec484782c647.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mufasa - King of the Pride Lands",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 3,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "145/204-EN-9": {
+    "id": "145/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Cruella De Vil - Fashionable Cruiser",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/145_e7b48b7d4ed607b7d5844843f059d5e64bc7ff82.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cruella De Vil - Fashionable Cruiser",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "146/204-EN-9": {
+    "id": "146/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Anna - Braving the Storm",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/146_ed628e7be9264fca6b00dfde8a714a38abb329fe.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anna - Braving the Storm",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "147/204-EN-9": {
+    "id": "147/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Flounder - Voice of Reason",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/147_1e9311ecb31148322787ebc9fcc98e5b7817af91.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flounder - Voice of Reason",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "148/204-EN-9": {
+    "id": "148/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hans - Noble Scoundrel",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/148_d72b05de5735783c233ba91810bcdabd71b4dd85.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hans - Noble Scoundrel",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "149/204-EN-9": {
+    "id": "149/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Mirror Seeker",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/149_070547b24760c4078c903ee170103e30a016af0d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Mirror Seeker",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "150/204-EN-9": {
+    "id": "150/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Grand Pabbie - Oldest and Wisest",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/150_37ca10e2a085d053274fc0ed90dda7dd9fd9fe8f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grand Pabbie - Oldest and Wisest",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Rare",
+    "lore": 3,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "151/204-EN-9": {
+    "id": "151/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hades - Infernal Schemer",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/151_5bba92401fe041adc7648524da9db3f71adff1a5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hades - Infernal Schemer",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "152/204-EN-9": {
+    "id": "152/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mama Odie - Mystical Maven",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/152_86dfa0703ecb4468c148c073d022ce9da631126b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mama Odie - Mystical Maven",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "153/204-EN-9": {
+    "id": "153/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurora - Dreaming Guardian",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/153_e399771f6aff5232df46ef15dd9b44b79950dbd1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurora - Dreaming Guardian",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "154/204-EN-9": {
+    "id": "154/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurora - Tranquil Princess",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/154_70c1a58c69ca7ee40e481802fef405034a6e057c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurora - Tranquil Princess",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "155/204-EN-9": {
+    "id": "155/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jasmine - Heir of Agrabah",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/155_90ca6ac7eef5e32131115d9dcb4c648b46c7aa74.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jasmine - Heir of Agrabah",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "156/204-EN-9": {
+    "id": "156/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Belle - Inventive Engineer",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/156_b925913b3646ccf037d0c855a1cf0cb2daf63c94.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Inventive Engineer",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "157/204-EN-9": {
+    "id": "157/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Judy Hopps - Optimistic Officer",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/157_eaeb55e9d18d272a77d88764fd4fa54f8324eda1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judy Hopps - Optimistic Officer",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "158/204-EN-9": {
+    "id": "158/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Maid Marian - Delightful Dreamer",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/158_10b8639e7f5a5e01307e02f112bc60f6b980aeac.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maid Marian - Delightful Dreamer",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "159/204-EN-9": {
+    "id": "159/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Winnie the Pooh - Having a Think",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/159_a803c8c47c180f829b7d30f088093940261cf319.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Winnie the Pooh - Having a Think",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "160/204-EN-9": {
+    "id": "160/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Alice - Growing Girl",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/160_683e5171f001f0fc88314b85e7602331593d3c6f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alice - Growing Girl",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "161/204-EN-9": {
+    "id": "161/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurora - Regal Princess",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/161_9a6ce3f6d113e96b29327224f311e3d684dd42bd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurora - Regal Princess",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "162/204-EN-9": {
+    "id": "162/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Robin Hood - Unrivaled Archer",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/162_55f9191b6b297740939d3cbc49879cc29aa84ab6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robin Hood - Unrivaled Archer",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "163/204-EN-9": {
+    "id": "163/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Develop Your Brain",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/163_603446d03c690ab2cecd07146f4846dbe799bb72.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Develop Your Brain",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "164/204-EN-9": {
+    "id": "164/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Four Dozen Eggs",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/164_138bbe20a00db4e16aa29469857ef1d056f53b2f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Four Dozen Eggs",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "165/204-EN-9": {
+    "id": "165/204-EN-9",
+    "face": {
+      "front": {
+        "name": "One Jump Ahead",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/165_190eee5e6eeffbf799d53605d80813746d593e20.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "One Jump Ahead",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "166/204-EN-9": {
+    "id": "166/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dig a Little Deeper",
+        "type": "Action",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/166_893b3f267843f2296e0630102df69c257d8d5074.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dig a Little Deeper",
+    "type": "Action",
+    "cost": 8,
+    "rarity": "Uncommon",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "167/204-EN-9": {
+    "id": "167/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurelian Gyrosensor",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/167_23b25a540c668ca5ca066caecae233aa421d893d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurelian Gyrosensor",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "168/204-EN-9": {
+    "id": "168/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Heart of Te Fiti",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/168_43376e2f47e55776658d05aa659153564b73272c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heart of Te Fiti",
+    "type": "Item",
+    "cost": 3,
+    "rarity": "Rare",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "169/204-EN-9": {
+    "id": "169/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Coconut Basket",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/169_695aa44a788d785e774a161712fb41bb20809cb6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coconut Basket",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "170/204-EN-9": {
+    "id": "170/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Motunui - Island Paradise",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/170_f58f6b5261a007cceaf04118e6046d3e51b3c1ab.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Motunui - Island Paradise",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "171/204-EN-9": {
+    "id": "171/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Philoctetes - No-Nonsense Instructor",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/171_fe966c1562a252eb5f0296290d58ca9ff2a1e019.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Philoctetes - No-Nonsense Instructor",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "172/204-EN-9": {
+    "id": "172/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Trumpeter",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/172_9235b5b85a17f4cf00ad780c888447b629c49a15.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Trumpeter",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Steel"
+    ]
+  },
+  "173/204-EN-9": {
+    "id": "173/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Nala - Undaunted Lioness",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/173_cfa0416730987799d13b874f343ae558051b2100.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nala - Undaunted Lioness",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "174/204-EN-9": {
+    "id": "174/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lilo - Best Explorer Ever",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/174_c0e0bda04ec895d21fd17276e75fb34350cd9df5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilo - Best Explorer Ever",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "175/204-EN-9": {
+    "id": "175/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Scar - Finally King",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/175_a36e50ae37db0f816406604eefe69b2eb596660c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scar - Finally King",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "176/204-EN-9": {
+    "id": "176/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Little John - Sir Reginald",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/176_9f8452d90cca17af2cda6dd608f30d05b39b861e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Little John - Sir Reginald",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "177/204-EN-9": {
+    "id": "177/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Robin Hood - Champion of Sherwood",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/177_e5101df6eaee76e77b9fd747346b771cde79d5cd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robin Hood - Champion of Sherwood",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Steel"
+    ]
+  },
+  "178/204-EN-9": {
+    "id": "178/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jasmine - Fearless Princess",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/178_af4a0de2a0b3d25d07ec258bd15c6ba43b63d0fb.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jasmine - Fearless Princess",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 7,
+    "color": [
+      "Steel"
+    ]
+  },
+  "179/204-EN-9": {
+    "id": "179/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tiana - Diligent Waitress",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/179_aabd5c4c5d60e356dd27d0ab5285ec640a8c909e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tiana - Diligent Waitress",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "180/204-EN-9": {
+    "id": "180/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Benja - Guardian of the Dragon Gem",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/180_d03114b43d943f666ee70256bcb7a0c687106395.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benja - Guardian of the Dragon Gem",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "181/204-EN-9": {
+    "id": "181/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jafar - Royal Vizier",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/181_738f7e6071e0dbd4e2ed417c7f5a367448d04c75.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jafar - Royal Vizier",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "182/204-EN-9": {
+    "id": "182/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Prince Naveen - Penniless Royal",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/182_b3a6a14753587edfae303cd8e4e3d643a9fd9435.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prince Naveen - Penniless Royal",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "183/204-EN-9": {
+    "id": "183/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Eeyore - Overstuffed Donkey",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/183_012befc41d43962c4cd5aed1d1f6b7d43e61b137.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eeyore - Overstuffed Donkey",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "184/204-EN-9": {
+    "id": "184/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Robin Hood - Capable Fighter",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/184_f4ef877668ab698a94185d475c25bab9eca8443a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robin Hood - Capable Fighter",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "185/204-EN-9": {
+    "id": "185/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Standard Bearer",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/185_b4bf2a89bf57fa75677eb0647b2e7ec25b664710.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Standard Bearer",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "186/204-EN-9": {
+    "id": "186/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hercules - Beloved Hero",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/186_29d8e1249447d09c5e1d12571db370fd8ebe5462.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercules - Beloved Hero",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "187/204-EN-9": {
+    "id": "187/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lawrence - Jealous Manservant",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/187_509039c445de665daefb95425dbc25c2dcda28ce.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lawrence - Jealous Manservant",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "188/204-EN-9": {
+    "id": "188/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tinker Bell - Giant Fairy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/188_6fc3e42d3ab29087b2fdbac29c411423fd1d0d7a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tinker Bell - Giant Fairy",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "189/204-EN-9": {
+    "id": "189/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Tinker Bell - Tiny Tactician",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/189_4a2c3bf57ba2132ce67be8452ba1b102c60537de.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tinker Bell - Tiny Tactician",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "190/204-EN-9": {
+    "id": "190/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Captain Hook - Captain of the Jolly Roger",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/190_4f11091a8568101a24ea3caa231677f3ffc57ef7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Hook - Captain of the Jolly Roger",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "191/204-EN-9": {
+    "id": "191/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hercules - True Hero",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/191_b80ee0f82e06a588e38418d669970b18bf72f984.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercules - True Hero",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "192/204-EN-9": {
+    "id": "192/204-EN-9",
+    "face": {
+      "front": {
+        "name": "John Silver - Greedy Treasure Seeker",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/192_7561751d70a52878eb79c52b02f474ea39e5f611.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "John Silver - Greedy Treasure Seeker",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "193/204-EN-9": {
+    "id": "193/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Li Shang - Imperial Captain",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/193_a740569e268b3ff95eb947348466375cc443473d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Li Shang - Imperial Captain",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "194/204-EN-9": {
+    "id": "194/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Prince Eric - Dashing and Brave",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/194_076e9f0f6d2ae8c38221d482a0863efc33735e7a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prince Eric - Dashing and Brave",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "195/204-EN-9": {
+    "id": "195/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ariel - Sonic Warrior",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/195_d4afe50004ff6a20ef06bcfe898f5d5bac350474.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ariel - Sonic Warrior",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 8,
+    "color": [
+      "Steel"
+    ]
+  },
+  "196/204-EN-9": {
+    "id": "196/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ariel - Determined Mermaid",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/196_03c5d243b15d21af82130e0debefebb65b4f805b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ariel - Determined Mermaid",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "197/204-EN-9": {
+    "id": "197/204-EN-9",
+    "face": {
+      "front": {
+        "name": "One Last Hope",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/197_646a76970a031e8307b6b3d4aa006c9099334844.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "One Last Hope",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Rare",
+    "color": [
+      "Steel"
+    ]
+  },
+  "198/204-EN-9": {
+    "id": "198/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Smash",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/198_557ecb836efd2a4b601b3936b21bc596d92708aa.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Smash",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Steel"
+    ]
+  },
+  "199/204-EN-9": {
+    "id": "199/204-EN-9",
+    "face": {
+      "front": {
+        "name": "I Find 'Em, I Flatten 'Em",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/199_bb2e003b41905ffcb977dfe5ecb08a267c1abf4e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Find 'Em, I Flatten 'Em",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "color": [
+      "Steel"
+    ]
+  },
+  "200/204-EN-9": {
+    "id": "200/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Fire the Cannons!",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/200_94dca43dbc76db1332c37a092e3ab7c49baae4c7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire the Cannons!",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Steel"
+    ]
+  },
+  "201/204-EN-9": {
+    "id": "201/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Strength of a Raging Fire",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/201_c352610cd00cc2487351a53ab81fe4492c65ed3f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strength of a Raging Fire",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Rare",
+    "color": [
+      "Steel"
+    ]
+  },
+  "202/204-EN-9": {
+    "id": "202/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Mob Song",
+        "type": "Action",
+        "cost": 10,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/202_2263de09e257feb7d6d063c7ba5a114a9ccc3c1a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Mob Song",
+    "type": "Action",
+    "cost": 10,
+    "rarity": "Uncommon",
+    "color": [
+      "Steel"
+    ]
+  },
+  "203/204-EN-9": {
+    "id": "203/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Beast's Mirror",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/203_2c0a04df8685688a6626354d6db10e109dd3890a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beast's Mirror",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Steel"
+    ]
+  },
+  "204/204-EN-9": {
+    "id": "204/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Maui's Place of Exile - Hidden Island",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/204_485fa4dc904aebe21f6761892859e3326bc4abe2.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Maui's Place of Exile - Hidden Island",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 0,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "223/204-EN-9": {
+    "id": "223/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pongo - Determined Father",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/223_266d5db47a85a82ff24f5a21348b1e0e12e6c9f5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pongo - Determined Father",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "224/204-EN-9": {
+    "id": "224/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Beast - Gracious Prince",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/224_7f17c04013ed08ca46ff1a029608cc2fb8c5a3cb.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beast - Gracious Prince",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "225/204-EN-9": {
+    "id": "225/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Circle of Life",
+        "type": "Action",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/225_7a15e243fac264b0cfd7d6f0a68763b037046493.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Circle of Life",
+    "type": "Action",
+    "cost": 8,
+    "rarity": "Enchanted",
+    "color": [
+      "Amber"
+    ]
+  },
+  "226/204-EN-9": {
+    "id": "226/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Belle - Accomplished Mystic",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/226_4494bc166cb5d3e42f1f28e93d08a20149aacf76.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Accomplished Mystic",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "227/204-EN-9": {
+    "id": "227/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Winnie the Pooh - Hunny Wizard",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/227_9c603911404aecc8ec7deee226370fe5f1e6166b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Winnie the Pooh - Hunny Wizard",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "228/204-EN-9": {
+    "id": "228/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Dumbo - Ninth Wonder of the Universe",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/228_2ef80c526bccfc40cd2954e20236f32128b6fe9f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dumbo - Ninth Wonder of the Universe",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "229/204-EN-9": {
+    "id": "229/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Genie - Of the Lamp",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/229_096f0832e6479e59e857ef88e18d3f577da64389.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genie - Of the Lamp",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "230/204-EN-9": {
+    "id": "230/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Max Goof - Chart Topper",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/230_90e407afbd9868f9197e8c27e6e163d17585b2d9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Max Goof - Chart Topper",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "231/204-EN-9": {
+    "id": "231/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Steamboat Pilot",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/231_ae2b33896812186447d97be30a60e6d2264aa58b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Steamboat Pilot",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "232/204-EN-9": {
+    "id": "232/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ariel - Adventurous Collector",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/232_609b09576f51f300156f08a4b4639db915428cda.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ariel - Adventurous Collector",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "233/204-EN-9": {
+    "id": "233/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Powerline - World's Greatest Rock Star",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/233_28a239da6116acca1b2073b0aecb175cc16025fb.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerline - World's Greatest Rock Star",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "234/204-EN-9": {
+    "id": "234/204-EN-9",
+    "face": {
+      "front": {
+        "name": "I2I",
+        "type": "Action",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/234_40f9a8fcb6ed1ae4ad8f381f20fac7fe0d86ed24.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "I2I",
+    "type": "Action",
+    "cost": 9,
+    "rarity": "Enchanted",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "235/204-EN-9": {
+    "id": "235/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mulan - Considerate Diplomat",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/235_474426233730eb363b8e15b53b787fb4bcdcdde4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Considerate Diplomat",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "236/204-EN-9": {
+    "id": "236/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Cruella De Vil - Style Icon",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/236_2a2cfa3fe7a961566d3d433f355ac616fc35f490.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cruella De Vil - Style Icon",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "237/204-EN-9": {
+    "id": "237/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Hades - Infernal Schemer",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/237_724187c3fb4b3f3710d4996d4c77301884717e70.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hades - Infernal Schemer",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "238/204-EN-9": {
+    "id": "238/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Lilo - Best Explorer Ever",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/238_c5d330f00540fd6028a3ce2aaf6d5785b6bdc16c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilo - Best Explorer Ever",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "239/204-EN-9": {
+    "id": "239/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Scar - Finally King",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/239_58bdc0a1ed65b9f521a25f63d36835389ecde70d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scar - Finally King",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "240/204-EN-9": {
+    "id": "240/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Jasmine - Fearless Princess",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/240_5ee59eac373081ac35d95ece6219eb817e6ba8d2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jasmine - Fearless Princess",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 7,
+    "color": [
+      "Steel"
+    ]
+  },
+  "205/204-EN-9": {
+    "id": "205/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Conceited Ruler",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/205_62acc44798cda182710f8be20268c233d776cf58.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Conceited Ruler",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "206/204-EN-9": {
+    "id": "206/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Aurora - Holding Court",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/206_b2fedcc9340d991225ed866315f4696a56a060c4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurora - Holding Court",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "207/204-EN-9": {
+    "id": "207/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stitch - Alien Dancer",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/207_360197402bc466b102f44ad30056419357a8d919.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stitch - Alien Dancer",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "208/204-EN-9": {
+    "id": "208/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Ursula - Sea Witch",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/208_e7866d21220eaa349a038f30e45b12c85bf1263b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ursula - Sea Witch",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "209/204-EN-9": {
+    "id": "209/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Kuzco - Wanted Llama",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/209_4941ea93437898a0a308082b336a40abac01f678.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuzco - Wanted Llama",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "210/204-EN-9": {
+    "id": "210/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Elsa - Snow Queen",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/210_e0764be325c23f7e5486ce8a04a0777664d60fb2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Snow Queen",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "211/204-EN-9": {
+    "id": "211/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Goofy - Set for Adventure",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/211_a6274a911f061d0370e0df7a80ea16d04d36d72d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Set for Adventure",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "212/204-EN-9": {
+    "id": "212/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Pegasus - Gift for Hercules",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/212_6e398db56b8125ad68125dda1162063f76c2dbc8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pegasus - Gift for Hercules",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "213/204-EN-9": {
+    "id": "213/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Stand Out",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/213_dc0545757a750aa3c20aadd84553e31206b2d8b5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stand Out",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Epic",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "214/204-EN-9": {
+    "id": "214/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Max Goof - Rockin' Teen",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/214_fccdad4304264c006418611666e7f443303f9f6d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Max Goof - Rockin' Teen",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "215/204-EN-9": {
+    "id": "215/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Powerline - Musical Superstar",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/215_29baf0fc19981d36a8126bbe21b5ca2be209228a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerline - Musical Superstar",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "216/204-EN-9": {
+    "id": "216/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Be King Undisputed",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/216_439a90edef4880f24bdc8473685d216ecc54ee81.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Be King Undisputed",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Epic",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "217/204-EN-9": {
+    "id": "217/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Alice - Accidentally Adrift",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/217_6901b9d89b3dc94f8bce64ce77331832e8ceeb9a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alice - Accidentally Adrift",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Epic",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "218/204-EN-9": {
+    "id": "218/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Anna - Braving the Storm",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/218_fb765eaca4bc4b620c3da3639928544d82fa4a4e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anna - Braving the Storm",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "219/204-EN-9": {
+    "id": "219/204-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Mirror Seeker",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/219_93ec9b6b2b11b2e6adf396a8fae89ae660498a68.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Mirror Seeker",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "220/204-EN-9": {
+    "id": "220/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Robin Hood - Capable Fighter",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/220_0848254c21face478619c6d5560554b4e0a8b438.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robin Hood - Capable Fighter",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "221/204-EN-9": {
+    "id": "221/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Standard Bearer",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/221_d0904ec5dd682278c6673b2c537c5fb3465e9dbd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Standard Bearer",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "222/204-EN-9": {
+    "id": "222/204-EN-9",
+    "face": {
+      "front": {
+        "name": "One Last Hope",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/222_dcf9d994ba59f50f5ce22c43cbef49e0696b37cd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "One Last Hope",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Epic",
+    "color": [
+      "Steel"
+    ]
+  },
+  "241/204-EN-9": {
+    "id": "241/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Minnie Mouse - Sweetheart Princess",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/241_d01293c17e2cb0a97a66ffc326ee15171fecac3b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minnie Mouse - Sweetheart Princess",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Iconic",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "242/204-EN-9": {
+    "id": "242/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Brave Little Prince",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/242_ac6ccdc52438b8f3dcc434df23fa9483d02b3ff8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Brave Little Prince",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Iconic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "1/P3-EN-9": {
+    "id": "1/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Dumbo - The Flying Elephant",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/1_07c90c996a1bc7e5f16f1d92c1cff54b3a00bc65.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dumbo - The Flying Elephant",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "2/P3-EN-9": {
+    "id": "2/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Alice - Accidentally Adrift",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/2_8426eb8a38d43058e2169ec64b6bd9c896ec9046.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alice - Accidentally Adrift",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "3/P3-EN-9": {
+    "id": "3/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "The Queen - Conceited Ruler",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/3_9300e2c889060ccd3f06b47a8bb7b7e5ae88a30c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Queen - Conceited Ruler",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "4/P3-EN-9": {
+    "id": "4/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Maleficent - Monstrous Dragon",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/4_542111924cad6679fd1527d01b7c321e33d09ba4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maleficent - Monstrous Dragon",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 7,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "5/P3-EN-9": {
+    "id": "5/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Maleficent - Monstrous Dragon",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/5_96d45ae02b12c203a1d1c9ed87aedc74128b690f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maleficent - Monstrous Dragon",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 7,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "7/P3-EN-9": {
+    "id": "7/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Cursed Merfolk - Ursula's Handiwork",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/7_7766ce1df8f13189b4e02e8d248eeb01008c7982.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cursed Merfolk - Ursula's Handiwork",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "8/P3-EN-9": {
+    "id": "8/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Strength of a Raging Fire",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/8_09f60d7a5b67bafe819b285c6399baf482d23284.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strength of a Raging Fire",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Special",
+    "color": [
+      "Steel"
+    ]
+  },
+  "9/P3-EN-9": {
+    "id": "9/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Sisu - Daring Visitor",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/9_67051e2c8e31467f0f24a5940dde1f66066d7403.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sisu - Daring Visitor",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
   }
 }
