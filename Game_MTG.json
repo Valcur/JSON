@@ -8,43 +8,51 @@
                 "title": "EDH",
                 "customCategories": ["Commander"],
                 "gameplay": "EDH",
-                "compatibility": "EDH"
+                "compatibility": "EDH",
+                "handSimulatorSize": 8
             },
             {
                 "title": "Modern",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Vintage",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Standard",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Pauper",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Legacy",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Pioneer",
                 "gameplay": "Classic",
-                "compatibility": "Classic"
+                "compatibility": "Classic",
+                "handSimulatorSize": 7
             },
             {
                 "title": "Duel Commander",
                 "customCategories": ["Commander"],
                 "gameplay": "Duel_Commander",
-                "compatibility": "EDH"
+                "compatibility": "EDH",
+                "handSimulatorSize": 7
             }
         ]
     },
